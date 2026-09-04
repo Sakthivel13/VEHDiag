@@ -1,0 +1,89 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "VEHDiag API",
+    "version": "1.0.0",
+    "description": "VEHDiag — independent automotive diagnostics platform. REST API + WebSocket realtime channel. Authentication: Bearer tokens issued by /auth/login or /auth/register. Error envelope: {\"error\": {\"code\": string, \"message\": string}}. Success envelope: {\"data\": ...}."
+  },
+  "servers": [{ "url": "/api/v1" }],
+  "tags": [
+    { "name": "auth" }, { "name": "users" }, { "name": "vehicles" },
+    { "name": "diagnostics" }, { "name": "dtc" }, { "name": "ecus" },
+    { "name": "reports" }, { "name": "devices" }, { "name": "subscriptions" }
+  ],
+  "paths": {
+    "/auth/register": {
+      "post": {
+        "tags": ["auth"],
+        "summary": "Register a new account",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": { "type": "object", "required": ["name", "email", "password"], "properties": { "name": { "type": "string" }, "email": { "type": "string", "format": "email" }, "password": { "type": "string", "minLength": 8 } } } } } },
+        "responses": { "201": { "description": "Created" }, "400": { "description": "Validation error" }, "409": { "description": "Email taken" } }
+      }
+    },
+    "/auth/login": {
+      "post": {
+        "tags": ["auth"],
+        "summary": "Log in",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": { "type": "object", "required": ["email", "password"], "properties": { "email": { "type": "string" }, "password": { "type": "string" } } } } } },
+        "responses": { "200": { "description": "Token + user" }, "401": { "description": "Invalid credentials" } }
+      }
+    },
+    "/auth/refresh": { "post": { "tags": ["auth"], "summary": "Exchange a refresh token for a new token pair" } },
+    "/auth/logout": { "post": { "tags": ["auth"], "summary": "Revoke refresh token" } },
+    "/auth/forgot": { "post": { "tags": ["auth"], "summary": "Request password reset token" } },
+    "/auth/reset": { "post": { "tags": ["auth"], "summary": "Reset password with token" } },
+    "/auth/me": { "get": { "tags": ["auth"], "summary": "Current user", "security": [{ "bearer": [] }] } },
+    "/users/me": {
+      "get": { "tags": ["users"], "summary": "Current profile", "security": [{ "bearer": [] }] },
+      "patch": { "tags": ["users"], "summary": "Update profile/settings/password", "security": [{ "bearer": [] }] }
+    },
+    "/vehicles": {
+      "get": { "tags": ["vehicles"], "summary": "List my vehicles", "security": [{ "bearer": [] }] },
+      "post": { "tags": ["vehicles"], "summary": "Add a vehicle (optional VIN)", "security": [{ "bearer": [] }] }
+    },
+    "/vehicles/{id}": {
+      "get": { "tags": ["vehicles"], "summary": "Get vehicle", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] },
+      "patch": { "tags": ["vehicles"], "summary": "Update vehicle", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] },
+      "delete": { "tags": ["vehicles"], "summary": "Delete vehicle", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] }
+    },
+    "/vehicles/{id}/identify": { "post": { "tags": ["vehicles"], "summary": "Identify vehicle from VIN (decode)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/vin/decode": { "get": { "tags": ["vehicles"], "summary": "Decode a VIN", "security": [{ "bearer": [] }], "parameters": [{ "name": "vin", "in": "query", "required": true, "schema": { "type": "string" } }] } },
+    "/diagnostics/profiles": { "get": { "tags": ["diagnostics"], "summary": "Simulator vehicle profiles", "security": [{ "bearer": [] }] } },
+    "/diagnostics/sessions": {
+      "get": { "tags": ["diagnostics"], "summary": "List my sessions", "security": [{ "bearer": [] }] },
+      "post": { "tags": ["diagnostics"], "summary": "Create a diagnostic session against the simulator", "security": [{ "bearer": [] }], "requestBody": { "content": { "application/json": { "schema": { "type": "object", "properties": { "profile_id": { "type": "string" }, "vehicle_id": { "type": "string" }, "device_id": { "type": "string" } } } } } } }
+    },
+    "/diagnostics/sessions/{id}": {
+      "get": { "tags": ["diagnostics"], "summary": "Session detail", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] },
+      "delete": { "tags": ["diagnostics"], "summary": "Delete session (tears down simulator)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] }
+    },
+    "/diagnostics/sessions/{id}/scan": { "post": { "tags": ["diagnostics"], "summary": "Run a full scan (progress over WebSocket)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/diagnostics/sessions/{id}/dtc": { "get": { "tags": ["diagnostics"], "summary": "Read DTCs from session ECUs (kind=stored|pending|permanent|all)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }, { "name": "kind", "in": "query", "schema": { "type": "string" } }] } },
+    "/diagnostics/sessions/{id}/clear-dtcs": { "post": { "tags": ["diagnostics"], "summary": "Clear stored DTCs", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/diagnostics/sessions/{id}/elm": { "post": { "tags": ["diagnostics"], "summary": "Raw ELM327 terminal command", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "required": true, "content": { "application/json": { "schema": { "type": "object", "required": ["line"], "properties": { "line": { "type": "string" } } } } } } } },
+    "/diagnostics/sessions/{id}/uds": { "post": { "tags": ["diagnostics"], "summary": "UDS console (hex service/sub/params over ISO-TP)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }], "requestBody": { "required": true, "content": { "application/json": { "schema": { "type": "object", "properties": { "ecu": { "type": "string" }, "service": { "type": "number" }, "sub": { "type": "number" }, "params": { "type": "array", "items": { "type": "number" } } } } } } } },
+    "/diagnostics/sessions/{id}/faults": { "post": { "tags": ["diagnostics"], "summary": "Inject/clear a fault (no_response, nrc78, bus_busy, disconnect, uds_reject)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/dtc": { "get": { "tags": ["dtc"], "summary": "Search the DTC library", "parameters": [{ "name": "q", "in": "query", "schema": { "type": "string" } }] } },
+    "/dtc/{code}": { "get": { "tags": ["dtc"], "summary": "Decode one DTC", "parameters": [{ "name": "code", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/ecus": { "get": { "tags": ["ecus"], "summary": "ECU definition registry", "parameters": [{ "name": "kind", "in": "query", "schema": { "type": "string" } }] } },
+    "/reports": {
+      "get": { "tags": ["reports"], "summary": "List my reports", "security": [{ "bearer": [] }] },
+      "post": { "tags": ["reports"], "summary": "Generate a report from a session", "security": [{ "bearer": [] }], "requestBody": { "required": true, "content": { "application/json": { "schema": { "type": "object", "required": ["session_id"], "properties": { "session_id": { "type": "string" } } } } } } }
+    },
+    "/reports/{id}/download": { "get": { "tags": ["reports"], "summary": "Download report (format=json|csv|txt|html/PDF-print)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }, { "name": "format", "in": "query", "schema": { "type": "string", "enum": ["json", "csv", "txt", "html"] } }] } },
+    "/devices": {
+      "get": { "tags": ["devices"], "summary": "List my devices", "security": [{ "bearer": [] }] },
+      "post": { "tags": ["devices"], "summary": "Register a device", "security": [{ "bearer": [] }] }
+    },
+    "/devices/{id}/pair": { "post": { "tags": ["devices"], "summary": "Pair device (AT handshake)", "security": [{ "bearer": [] }], "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" } }] } },
+    "/subscriptions/plans": { "get": { "tags": ["subscriptions"], "summary": "Plan catalog" } },
+    "/subscriptions/select": { "post": { "tags": ["subscriptions"], "summary": "Select plan", "security": [{ "bearer": [] }] } },
+    "/notifications": { "get": { "tags": ["subscriptions"], "summary": "My notifications", "security": [{ "bearer": [] }] } },
+    "/healthz": { "get": { "tags": ["auth"], "summary": "Health check (public)" } }
+  },
+  "components": {
+    "securitySchemes": {
+      "bearer": { "type": "http", "scheme": "bearer", "bearerFormat": "VEHDiag HMAC token" }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Device Support — VEHDiag</title>
+  <meta name="description" content="VEHDiag device and adapter support: ELM327 Bluetooth, USB, WiFi/TCP, CAN interfaces (SocketCAN, PCAN, Kvaser, Vector) and the built-in simulator.">
+  <link rel="canonical" href="https://www.vehdiag.dev/device-support.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html">Features</a>
+        <a href="/ev-diagnostics.html">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html">Download</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/about.html">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container section-head">
+      <span class="kicker">Hardware abstraction</span>
+      <h1>One engine, <span class="text-gradient">any adapter</span></h1>
+      <p class="lead">The diagnostic engine never talks to hardware directly. It talks to an <code class="mono">AdapterInterface</code> — transport plugs in as a driver.</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-label="Supported devices">
+    <div class="container">
+      <div class="grid grid-3">
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m7 7 10 10-5 5V2l5 5L7 17"/></svg></div><h3>ELM327 — Bluetooth</h3><p>Classic SPP and BLE ELM327 v1.4+ adapters via <code class="mono">BluetoothAdapter</code>. Auto-baud, protocol detection, adaptive timeouts.</p><span class="mono-badge">AT commands · SPP · BLE</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a10 10 0 1 0 10 10H12V2Z"/><path d="M12 12 22 2"/></svg></div><h3>ELM327 — USB</h3><p>USB-serial (FTDI, CP210x, CH340) and USB CDC adapters via <code class="mono">USBAdapter</code>.</p><span class="mono-badge">USB serial</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5a15 15 0 0 1 14 0M8.5 9a10 10 0 0 1 7 0M2 16a18 18 0 0 1 20 0"/><circle cx="12" cy="16" r="1.5"/></svg></div><h3>ELM327 — WiFi / TCP</h3><p>ELM327 over WiFi or raw TCP sockets (port 35000 default) — the same transport the web dashboard uses for remote sessions.</p><span class="mono-badge">TCP 35000</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="2"/><path d="M7 7h10M7 12h10M7 17h6"/></svg></div><h3>CAN interfaces</h3><p>Hardware abstraction for raw CAN: SocketCAN, PCAN, Kvaser, Vector — plus a simulation bus. J1939/DBC-style signal definitions plug into the same live-data engine.</p><span class="mono-badge">CAN HAL</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m8 9-5 5v-3l5-4v2Z"/><path d="m16 9 5 5v-3l-5-4v2Z"/><path d="M8 9h8"/><path d="m4 14 3 3 2-2m7 0 3 3 1-3"/></svg></div><h3>VEHDiag Simulator</h3><p>A full virtual vehicle speaking real ELM327 AT/OBD commands — ECUs, DTCs, live signals, VIN, fault injection, timeouts and NRC responses. Zero hardware required.</p><span class="mono-badge">virtual ECU</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h6m-6 0a3 3 0 0 1 6 0M9 12a3 3 0 0 0 6 0M9 12V9a3 3 0 0 1 6 0v3"/></svg></div><h3>Vendor adapters</h3><p>A stable <code class="mono">AdapterInterface</code> (connect, send, receive, timeout, disconnect, events) so vendor-specific transports plug in without touching diagnostic logic.</p><span class="mono-badge">interface contract</span></div>
+      </div>
+      <div class="callout" style="margin-top:1.5rem">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 auto;margin-top:.1rem"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/></svg>
+        <div><strong>Firmware flashing</strong>VEHDiag implements read/clear/info services by default. Flash/download services (UDS 0x34/0x36/0x37) exist as a gated architecture — enabled only for legitimately authorized devices with documented safety requirements.</div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>

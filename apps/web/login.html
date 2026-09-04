@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Log in — VEHDiag</title>
+  <meta name="description" content="Log in to the VEHDiag dashboard.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/register.html">Create account</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section">
+    <div class="container" style="max-width:440px">
+      <div class="section-head" style="text-align:left;margin-inline:0">
+        <span class="kicker">Welcome back</span>
+        <h1 style="font-size:1.9rem">Log in to VEHDiag</h1>
+      </div>
+      <div class="card">
+        <form id="login-form" data-validate novalidate>
+          <div class="field">
+            <label for="email">Email</label>
+            <input class="input" id="email" name="email" type="email" required autocomplete="email" placeholder="you@workshop.dev">
+            <div class="field-error">Enter a valid email address.</div>
+          </div>
+          <div class="field">
+            <label for="password">Password</label>
+            <input class="input" id="password" name="password" type="password" required autocomplete="current-password" minlength="8">
+            <div class="field-error">Password is required.</div>
+          </div>
+          <div class="field" style="display:flex;justify-content:space-between;align-items:center">
+            <label class="check-row" style="margin:0"><input type="checkbox" checked> <span>Remember me</span></label>
+            <a href="#" id="forgot-link" style="font-size:.85rem">Forgot password?</a>
+          </div>
+          <button class="btn btn-primary" style="width:100%" type="submit"><span class="spinner"></span> Log in</button>
+          <p class="hint" style="text-align:center;margin-top:1rem">New here? <a href="/register.html">Create a free account</a></p>
+        </form>
+      </div>
+      <p class="hint" style="margin-top:1rem;text-align:center">Demo: any valid email + password ≥ 8 chars creates/logs into a local account. Or use <a href="/app/#/demo">demo mode</a>.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+<script src="/js/auth.js"></script>
+</body>
+</html>

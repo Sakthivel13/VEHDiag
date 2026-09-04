@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Documentation — VEHDiag</title>
+  <meta name="description" content="VEHDiag documentation: architecture, setup, API reference, diagnostic protocols, simulator, security, testing and deployment.">
+  <link rel="canonical" href="https://www.vehdiag.dev/docs.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html">Features</a>
+        <a href="/ev-diagnostics.html">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html">Download</a>
+        <a href="/docs.html" class="active">Docs</a>
+        <a href="/about.html">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container section-head">
+      <span class="kicker">Documentation</span>
+      <h1>Everything is <span class="text-gradient">documented</span></h1>
+      <p class="lead">Architecture, protocols, API, deployment, security and testing — the full engineering record lives in the repository's <code class="mono">docs/</code>.</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-label="Documentation index">
+    <div class="container">
+      <div class="grid grid-3">
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></div><h3>Architecture</h3><p>Monorepo layout, diagnostic engine layers, data flow from CAN to dashboard.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/architecture.md" rel="noopener">docs/architecture.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v6m0 0 4-4m-4 4L8 4"/><path d="M4 14v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6"/></svg></div><h3>Setup &amp; deployment</h3><p>Clone, configure .env, run, migrate, seed. Docker Compose and production notes.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/setup.md" rel="noopener">docs/setup.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 9h8m-8 4h6M8 17h8"/><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></div><h3>API reference</h3><p>REST endpoints, envelopes, pagination, errors, rate limits, auth flows and the WebSocket protocol.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/api.md" rel="noopener">docs/api.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div><h3>Diagnostics &amp; protocols</h3><p>OBD-II, ISO-TP, UDS, CAN — implementations, test coverage and failure handling.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/diagnostics.md" rel="noopener">docs/diagnostics.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m8 9-5 5v-3l5-4v2Z"/><path d="m16 9 5 5v-3l-5-4v2Z"/><path d="M8 9h8"/><path d="m4 14 3 3 2-2m7 0 3 3 1-3"/></svg></div><h3 id="simulator">Simulator</h3><p>Virtual ECUs, ELM327 AT command set, fault injection, ISO-TP segmentation — no hardware needed.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/simulator.md" rel="noopener">docs/simulator.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/></svg></div><h3>Security</h3><p>Threat model, scrypt password hashing, token handling, CSRF, headers, audit logs, secret management.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/security.md" rel="noopener">docs/security.md ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12h6m-6 0a3 3 0 0 1 6 0M9 12a3 3 0 0 0 6 0M9 12V9a3 3 0 0 1 6 0v3"/></svg></div><h3 id="license">License &amp; terms</h3><p>Open-source license, contribution guide and the research ethics statement (OBSERVED / INFERRED / NOT PUBLICLY OBSERVABLE).</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/LICENSE" rel="noopener">LICENSE ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h4l3-8 6 16 3-8h4"/></svg></div><h3 id="downloads">Downloads &amp; APK distribution</h3><p>How <code class="mono">VEHDiag.apk</code> is built, signed, committed to the repo and served from this website — the documented distribution pattern.</p><p><a href="/downloads.html">Download page ↗</a></p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg></div><h3>Testing</h3><p>Unit, integration, protocol, API, E2E and performance test strategy + how to run them.</p><p><a href="https://github.com/Sakthivel13/VEHDiag/blob/main/docs/testing.md" rel="noopener">docs/testing.md ↗</a></p></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/contact.html">Contact</a> · <a href="/about.html">About</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>

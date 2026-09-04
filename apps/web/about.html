@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — VEHDiag</title>
+  <meta name="description" content="VEHDiag is an independent, open automotive diagnostics platform — similar capability class to tools you know, with independent engineering and identity.">
+  <link rel="canonical" href="https://www.vehdiag.dev/about.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html">Features</a>
+        <a href="/ev-diagnostics.html">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html">Download</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/about.html" class="active">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container prose">
+      <span class="kicker">About</span>
+      <h1>Independent engineering, professional diagnostics</h1>
+      <p class="lead">VEHDiag exists to prove a point: a modern, professional vehicle-diagnostics platform can be designed, engineered and shipped from first principles — with its own brand, its own architecture and its own tests.</p>
+      <h2>Mission</h2>
+      <p>Give mechanics, workshop owners, fleet operators and vehicle owners a diagnostics stack that is transparent, extensible and honest about what it does. The reference analysis that shaped the product is published in the repository under <code>research/</code> — every observation labeled OBSERVED, INFERRED or NOT PUBLICLY OBSERVABLE.</p>
+      <h2>What VEHDiag is not</h2>
+      <p>VEHDiag is not a clone. It is not a renamed copy of any other product. It shares a <em>class of capability</em> — OBD-II diagnostics, live data, DTCs, VIN, freeze frames, EV architecture, reports — and implements that class with independent code, an independent purple design system, an independent protocol stack and an independent simulator.</p>
+      <h2>Independent by construction</h2>
+      <ul>
+        <li><strong>Protocols from the specifications</strong> — OBD-II modes, ISO-TP and UDS are implemented against public standards (SAE J1979, ISO 15765-2/4, ISO 14229).</li>
+        <li><strong>Simulator-first development</strong> — virtual ECUs speak real ELM327 AT commands, so behavior is testable without vehicles.</li>
+        <li><strong>Everything testable</strong> — unit, integration and end-to-end tests run in CI; nothing ships untested.</li>
+        <li><strong>Own assets</strong> — logo, icons, illustrations and copy are original VEHDiag work.</li>
+      </ul>
+      <h2>Contact</h2>
+      <p>Questions, bug reports and contributions: see <a href="/contact.html">contact</a> and the <a href="https://github.com/Sakthivel13/VEHDiag" rel="noopener">GitHub repository</a>.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>
