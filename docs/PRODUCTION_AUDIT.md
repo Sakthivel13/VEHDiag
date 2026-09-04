@@ -60,3 +60,11 @@ explicitly with the path to verify them.
 **Bottom line:** development-complete with honest verification evidence for
 every layer; the items in §2 are environment-limited, not implementation-
 limited, and each has a concrete CI/device verification path.
+
+## CI workflow note
+
+The CI pipeline is defined in `docs/ci.yml.example` (engine/unit/e2e tests,
+PostgreSQL service job, APK build+verify, lint). It is kept as an example
+file because the GitHub connection used for this repository does not have the
+`workflows` permission; move it to `.github/workflows/ci.yml` once the
+connection (or a token with workflow scope) is granted.
