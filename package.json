@@ -1,0 +1,23 @@
+{
+  "name": "vehdiag",
+  "version": "0.1.0",
+  "private": true,
+  "description": "VEHDiag — open automotive diagnostics platform: OBD-II/CAN/ISO-TP/UDS engine, simulator, REST API, WebSocket realtime, web app, Android client architecture.",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node services/api/server.js",
+    "dev": "VEHDIAG_SECRET=dev-only node services/api/server.js",
+    "test": "node --test \"tests/engine/*.test.js\" \"tests/unit/*.test.js\"",
+    "test:engine": "node --test \"tests/engine/*.test.js\"",
+    "test:unit": "node --test \"tests/unit/*.test.js\"",
+    "test:e2e": "node --test \"tests/e2e/api-smoke.test.js\" \"tests/e2e/ws-flow.test.js\"",
+    "migrate": "node scripts/migrate.js",
+    "build:apk": "python3 scripts/build-apk.py",
+    "verify:apk": "python3 scripts/verify-apk.py",
+    "lint": "find . -name '*.js' -not -path './node_modules/*' -not -path './Indiag.zip/*' -exec node --check {} \\;"
+  },
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}

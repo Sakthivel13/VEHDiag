@@ -1,0 +1,78 @@
+name: CI
+
+on:
+  push:
+    branches: [main, "arena/*"]
+  pull_request:
+
+jobs:
+  engine:
+    name: Engine + unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm ci
+      - run: node --test tests/engine/
+      - run: node --test tests/unit/
+
+  api-e2e:
+    name: REST + WebSocket e2e
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm ci
+      - name: Boot server
+        run: |
+          VEHDIAG_SECRET=ci-secret PORT=8080 HOST=127.0.0.1 \
+            node services/api/server.js &
+          for i in $(seq 1 30); do
+            curl -fsS http://127.0.0.1:8080/api/v1/healthz && break
+            sleep 1
+          done
+      - name: e2e tests
+        run: node --test tests/e2e/api-smoke.test.js tests/e2e/ws-flow.test.js
+
+  postgres:
+    name: Migrations + PostgreSQL store
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: vehdiag
+          POSTGRES_PASSWORD: vehdiag
+          POSTGRES_DB: vehdiag
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U vehdiag"
+          --health-interval 5s --health-timeout 5s --health-retries 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm ci
+      - name: Migrations + integration test
+        env:
+          VEHDIAG_TEST_PG_URL: postgres://vehdiag:vehdiag@127.0.0.1:5432/vehdiag
+        run: node --test tests/e2e/postgres.integration.test.js
+
+  apk:
+    name: APK build + verify
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build APK (pure Python + openssl)
+        run: python3 scripts/build-apk.py
+      - name: Verify APK (structure + v1 signature)
+        run: python3 scripts/verify-apk.py
+
+  lint:
+    name: Lint (JS syntax)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm run lint

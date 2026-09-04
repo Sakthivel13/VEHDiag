@@ -20,6 +20,7 @@ const crypto = require('crypto');
 
 const { Logger } = require('./lib/log');
 const { JsonStore, byId } = require('./lib/db');
+const { PostgresStore } = require('./lib/db-postgres');
 const { Router, ok, securityHeaders, createRateLimiter, HttpError } = require('./lib/http');
 const { verifyToken, publicUser, hasRole } = require('./lib/auth');
 const { attachWs } = require('./lib/ws');
@@ -32,14 +33,22 @@ const APP_DIR = path.join(ROOT, 'apps', 'dashboard');
 const BRAND_DIR = path.join(ROOT, 'branding');
 const DOWNLOADS_DIR = path.join(ROOT, 'downloads');
 
-const PORT = parseInt(process.env.PORT || '8080', 10);
-const HOST = process.env.HOST || '0.0.0.0';
-const SECRET = process.env.VEHDIAG_SECRET || crypto.randomBytes(32).toString('hex');
-const DEMO_EMAIL = process.env.VEHDIAG_DEMO_EMAIL || 'demo@vehdiag.app';
-const DEMO_PASSWORD = process.env.VEHDIAG_DEMO_PASSWORD || 'demo1234';
+const { loadConfig } = require('../../packages/config');
+const cfg = loadConfig(process.env, {
+  port: process.env.PORT,
+  host: process.env.HOST,
+  rate_limit_per_minute: process.env.VEHDIAG_RATE_LIMIT,
+});
+const PORT = cfg.port;
+const HOST = cfg.host;
+const SECRET = cfg.secret;
+const DEMO_EMAIL = process.env.VEHDIAG_DEMO_EMAIL || cfg.demo_email;
+const DEMO_PASSWORD = process.env.VEHDIAG_DEMO_PASSWORD || cfg.demo_password;
 
 const log = new Logger({ dir: path.join(ROOT, 'data', 'logs') });
-const store = new JsonStore(path.join(ROOT, 'data', 'db.json'));
+const store = process.env.DATABASE_URL
+  ? new PostgresStore({ connectionString: process.env.DATABASE_URL })
+  : new JsonStore(path.join(ROOT, 'data', 'db.json'));
 
 /* ---------------- notifications ---------------- */
 function notify(userId, n) {
@@ -85,7 +94,7 @@ const runtime = new DiagnosticRuntime({ store, log, notify, broadcast });
 
 /* ---------------- router + middleware ---------------- */
 const router = new Router();
-const limiter = createRateLimiter({ windowMs: 60_000, max: parseInt(process.env.VEHDIAG_RATE_LIMIT || '1500', 10) });
+const limiter = createRateLimiter({ windowMs: 60_000, max: cfg.rate_limit_per_minute });
 router.onError = (e, req) => {
   log.err('error', 'route_error', { path: (req.urlObj ? req.urlObj.pathname : req.url), error: e.message, stack: e.stack });
 };
@@ -339,13 +348,19 @@ async function ensureDemoUser() {
       settings: { theme: 'system' },
       createdAt: new Date().toISOString(),
     });
-    // keep the demo workspace tidy: purge stale demo sessions/reports
-    const cutoff = Date.now() - 24 * 3600 * 1000;
-    const demoUsers = new Set(users.filter((u) => u.isDemo).map((u) => u.id));
-    store.collection('sessions').filter((s) => demoUsers.has(s.userId) && new Date(s.createdAt).getTime() < cutoff)
-      .forEach((s) => { const i = store.collection('sessions').indexOf(s); if (i >= 0) store.collection('sessions').splice(i, 1); });
-    store.scheduleFlush();
     log.app('info', 'demo_account_provisioned', { email: DEMO_EMAIL });
+  }
+  // keep the shared demo workspace tidy: purge demo sessions older than 24h
+  const cutoff = Date.now() - 24 * 3600 * 1000;
+  const demoUsers = new Set(users.filter((u) => u.isDemo).map((u) => u.id));
+  const stale = store.collection('sessions').filter((s) => demoUsers.has(s.userId) && new Date(s.createdAt).getTime() < cutoff);
+  for (const s of stale) {
+    const i = store.collection('sessions').indexOf(s);
+    if (i >= 0) store.collection('sessions').splice(i, 1);
+  }
+  if (stale.length) {
+    store.scheduleFlush();
+    log.app('info', 'demo_workspace_pruned', { sessions: stale.length });
   }
 }
 
