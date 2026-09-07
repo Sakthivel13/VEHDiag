@@ -16,7 +16,23 @@
  * from database/migrations/ to be applied (scripts/migrate.js).
  */
 
-const { Pool } = require('pg');
+// `pg` is loaded lazily: the Postgres store is only used when DATABASE_URL is
+// set, so a missing node_modules must not stop the whole platform from
+// booting with the default JSON store.
+let _pg = null;
+function loadPg() {
+  if (!_pg) {
+    try {
+      _pg = require('pg');
+    } catch (err) {
+      throw new Error(
+        'PostgresStore needs the "pg" package (run `npm install`). ' +
+        `Failed to load pg: ${err.message}`
+      );
+    }
+  }
+  return _pg;
+}
 
 /** collection name -> { table, columns: [jsonKey], sql: [columnSQL] } */
 const TABLES = {
@@ -69,7 +85,7 @@ class PostgresStore {
   constructor({ connectionString = process.env.DATABASE_URL, pool = null } = {}) {
     if (!connectionString && !pool) throw new Error('PostgresStore requires DATABASE_URL or a pool');
     this.connectionString = connectionString;
-    this.pool = pool || new Pool({ connectionString, max: 5 });
+    this.pool = pool || new (loadPg().Pool)({ connectionString, max: 5 });
     this.data = null;
     this.dirty = new Set();
     this._flushTimer = null;

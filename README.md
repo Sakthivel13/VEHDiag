@@ -12,6 +12,20 @@ proprietary code.
 > VEHDiag has its own brand identity: purple-centered palette, original logo,
 > icons and copy.
 
+## Screenshots
+
+The VEHDiag marketing front page (captured from the running platform — hero
+section above the fold, plus a top-to-bottom capture of the full page):
+
+![VEHDiag front page — hero section](docs/screenshots/front-page-hero.png)
+
+<details>
+<summary>Full front page (top to bottom)</summary>
+
+![VEHDiag front page — full page](docs/screenshots/front-page.png)
+
+</details>
+
 ---
 
 ## Quickstart
