@@ -1,0 +1,24 @@
+# Kvaser BlackBird V2 (wireless CAN interface).
+vci:
+  type: KVASER_BLACKBIRD_V2
+  display_name: Kvaser BlackBird V2
+  vendor: Kvaser AB
+  library:
+    windows: canlib32.dll
+    linux: libcanlib.so
+    macos: libcanlib.dylib
+capabilities: [CAN, LISTEN_ONLY, HARDWARE_TIMESTAMPS, BUS_STATISTICS, ERROR_FRAMES]
+connection:
+  mode: WIRELESS
+  discovery: KVREMOTE
+  default_ip: 192.168.1.10
+channels:
+  - {index: 0, label: "CAN 1"}
+  - {index: 1, label: "CAN 2"}
+defaults:
+  bitrate: 500000
+  driver_mode: NORMAL
+  accept_virtual: false
+notes: |
+  The device must first be provisioned with the Kvaser Device Guide. Wireless
+  latency is higher than USB; increase P2 client timing when flashing.

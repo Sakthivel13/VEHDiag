@@ -1,0 +1,22 @@
+# Template for adding a custom VCI. Copy this file, rename it and adjust the
+# fields; the file name (without .yaml) becomes the profile identifier.
+vci:
+  type: CUSTOM                    # keep CUSTOM unless a VCIType member exists
+  display_name: My Custom Interface
+  vendor: ""
+  driver_class: ""                # dotted path, e.g. plugins.custom.my_driver.MyDriver
+  library:
+    windows: ""
+    linux: ""
+    macos: ""
+capabilities: [CAN]               # see src/core/enums/vci_enums.py::VCICapability
+channels:
+  - {index: 0, label: "Channel 1"}
+defaults:
+  bitrate: 500000
+  data_bitrate: 2000000
+  listen_only: false
+extra: {}                         # forwarded verbatim to the driver
+notes: |
+  Describe installation prerequisites and known limitations here so that the
+  connection panel can show them to the operator.

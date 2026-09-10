@@ -1,0 +1,26 @@
+# End-of-line test session template used by the developer mode sequence editor.
+session:
+  name: End of line test
+  type: 0x03
+  description: Production line verification sequence.
+timing:
+  p2_client_ms: 150
+  p2_star_client_ms: 5000
+  s3_client_ms: 4000
+tester_present:
+  enabled: true
+  interval_ms: 2000
+security:
+  required: true
+  level: 0x01
+sequence:
+  - {service: "0x10", payload: "10 03", description: Extended session}
+  - {service: "0x22", payload: "22 F1 90", description: Read VIN}
+  - {service: "0x22", payload: "22 F1 8C", description: Read ECU serial number}
+  - {service: "0x19", payload: "19 02 FF", description: Read all DTCs}
+  - {service: "0x14", payload: "14 FF FF FF", description: Clear all DTCs}
+  - {service: "0x19", payload: "19 01 FF", description: Verify DTC count is zero}
+  - {service: "0x11", payload: "11 01", description: Hard reset}
+pass_criteria:
+  max_dtcs_after_clear: 0
+  required_dids: ["F190", "F18C"]

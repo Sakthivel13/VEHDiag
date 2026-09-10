@@ -1,0 +1,21 @@
+# Extended diagnostic session: actuator tests, writing, routines.
+session:
+  name: Extended diagnostic session
+  type: 0x03
+  description: Full diagnostic access with tester present keep-alive.
+timing:
+  p2_client_ms: 150
+  p2_star_client_ms: 5000
+  s3_client_ms: 4000
+tester_present:
+  enabled: true
+  interval_ms: 2000
+  suppress_response: true
+security:
+  required: true
+  level: 0x01
+allowed_services:
+  ["0x10", "0x11", "0x14", "0x19", "0x22", "0x27", "0x28", "0x2E", "0x2F", "0x31", "0x3E", "0x85"]
+preconditions:
+  ignition_on: true
+  engine_running: false

@@ -1,0 +1,51 @@
+/* ============================================================================
+ * Vehicle Diagnostics Platform - high contrast theme (USER OVERRIDE)
+ *
+ * This file is an *override* slot, not the theme itself. It ships empty of
+ * rules on purpose so an upgrade never clobbers your customisations.
+ *
+ * How the stylesheet is assembled at runtime:
+ *
+ *   1. ui/theme_manager.py generates the base QSS from the palette and the
+ *      current DPI scale.
+ *   2. ui/styles/custom_widgets.qss adds the rules for the custom widgets.
+ *   3. THIS FILE is appended last, so anything you write here wins.
+ *
+ * Look it up with:
+ *
+ *     from src.core.configuration_manager import get_config
+ *     get_config().theme_path("high_contrast")
+ *
+ * The palette of this theme, for reference:
+ *
+ *     background     #000000
+ *     surface        #0A0A0A
+ *     primary        #FFFF00
+ *     text_primary   #FFFFFF
+ *     border         #FFFFFF
+ *
+ * Uncomment and edit anything below to customise the high contrast theme.
+ * ==========================================================================*/
+
+/* Make the accent colour orange instead of violet:
+ *
+ * QPushButton[accent="true"] {
+ *     background-color: #F97316;
+ *     border-color: #F97316;
+ * }
+ */
+
+/* Enlarge the monospace payload fields:
+ *
+ * QLineEdit[role="mono"] {
+ *     font-size: 15px;
+ *     letter-spacing: 2px;
+ * }
+ */
+
+/* Tighten the log table for very dense traces:
+ *
+ * QTableView#LogTable {
+ *     font-size: 11px;
+ * }
+ */

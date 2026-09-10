@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.env
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.tox/
+*.db
+*.sqlite3
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Sandbox / local tooling artifacts
+.qt_libs/
+*.orig
+*.rej

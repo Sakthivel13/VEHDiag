@@ -1,0 +1,27 @@
+# Programming session used for flashing.
+session:
+  name: Programming session
+  type: 0x02
+  description: Bootloader session for RequestDownload / TransferData.
+timing:
+  p2_client_ms: 200
+  p2_star_client_ms: 15000
+  s3_client_ms: 4000
+tester_present:
+  enabled: true
+  interval_ms: 1500
+  suppress_response: true
+security:
+  required: true
+  level: 0x11
+allowed_services: ["0x10", "0x11", "0x27", "0x31", "0x34", "0x35", "0x36", "0x37", "0x3E"]
+preconditions:
+  ignition_on: true
+  engine_running: false
+  battery_voltage_min: 12.5
+sequence:
+  - {service: "0x10", payload: "10 03", description: Enter extended session}
+  - {service: "0x85", payload: "85 02", description: Disable DTC setting}
+  - {service: "0x28", payload: "28 03 03", description: Disable normal communication}
+  - {service: "0x10", payload: "10 02", description: Enter programming session}
+  - {service: "0x27", payload: "27 11", description: Security access seed}
