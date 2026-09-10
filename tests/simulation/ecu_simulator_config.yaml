@@ -1,0 +1,53 @@
+# Configuration of the ECU simulator used by the tests and the demo.
+ecu_simulator:
+  name: Simulated engine control module
+  rx_id: 0x7E0
+  tx_id: 0x7E8
+  functional_id: 0x7DF
+
+  supported_sessions: [0x01, 0x02, 0x03]
+
+  security_levels:
+    "0x01":
+      seed: "A3F20188"
+      algorithm: xor_complement
+    "0x11":
+      seed: "1122334455667788"
+      algorithm: add_constant
+      constant: 0x42
+  max_security_attempts: 3
+  security_delay_ms: 2000
+
+  dids:
+    F186: {name: Active diagnostic session, value: "01"}
+    F187: {name: Spare part number, value: "3132333435363738"}
+    F189: {name: ECU software version, value: "56312E332E37"}
+    F18C: {name: ECU serial number, value: "534E30303132333435"}
+    F190: {name: VIN, value: "5742415A5A5A30474D3132333435363738"}
+    F191: {name: ECU hardware number, value: "48573031"}
+    F192: {name: Supplier hardware number, value: "48573031415F52455631"}
+    F193: {name: Supplier hardware version, value: "56312E30"}
+    F194: {name: Supplier software number, value: "553237394542533656304133"}
+    F195: {name: Supplier software version, value: "56302E33612E393033"}
+    F1A0: {name: Battery voltage, value: "3390"}
+  writable_dids: ["F198", "F199"]
+
+  dtcs:
+    - {code: "C07300", status: 0x2F, name: Steering angle sensor, snapshot: "01020304"}
+    - {code: "010000", status: 0x24, name: MAF circuit, snapshot: "05060708"}
+    - {code: "C10000", status: 0x09, name: Lost communication with ECM}
+
+  routines:
+    "0202": {name: Erase memory, result: "00"}
+    "FF00": {name: Erase memory (OBD), result: "00"}
+    "FF01": {name: Check programming dependencies, result: "00"}
+
+  response_delay_ms: 2
+  support_pending_response: false
+  pending_response_count: 1
+  max_block_length: 0x0402
+
+  error_injection:
+    enabled: false
+    probability: 0.0
+    nrc: 0x21

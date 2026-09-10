@@ -1,0 +1,44 @@
+# Standard library logging configuration used by src.logging_system.log_manager.
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  simple:
+    format: "%(asctime)s %(levelname)-8s %(name)s: %(message)s"
+    datefmt: "%H:%M:%S"
+  detailed:
+    format: "%(asctime)s.%(msecs)03d %(levelname)-8s [%(threadName)s] %(name)s:%(lineno)d - %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+    stream: ext://sys.stdout
+  file:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: detailed
+    filename: logs/vdp.log
+    maxBytes: 52428800   # 50 MB
+    backupCount: 10
+    encoding: utf-8
+
+loggers:
+  src.communication:
+    level: DEBUG
+    handlers: [console, file]
+    propagate: false
+  src.diagnostics:
+    level: DEBUG
+    handlers: [console, file]
+    propagate: false
+  ui:
+    level: INFO
+    handlers: [console, file]
+    propagate: false
+
+root:
+  level: INFO
+  handlers: [console, file]

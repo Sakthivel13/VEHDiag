@@ -1,0 +1,13 @@
+PySide6>=6.5.0
+python-can>=4.2.0
+cantools>=39.0.0
+pyyaml>=6.0
+SQLAlchemy>=2.0
+aiofiles>=23.0
+intelhex>=2.3
+bincopy>=17.0
+pyserial>=3.5
+cryptography>=41.0
+loguru>=0.7
+natsort>=8.0
+Pillow>=10.0

@@ -1,0 +1,20 @@
+# Intrepid Control Systems neoVI / ValueCAN family.
+vci:
+  type: INTREPIDCS
+  display_name: Intrepid neoVI / ValueCAN
+  vendor: Intrepid Control Systems
+  library:
+    windows: icsneo40.dll
+    linux: libicsneoapi.so
+    macos: libicsneoapi.dylib
+capabilities: [CAN, CAN_FD, LIN, ETHERNET, HARDWARE_TIMESTAMPS, BUS_STATISTICS]
+channels:
+  - {index: 1, label: "HSCAN 1"}
+  - {index: 2, label: "HSCAN 2"}
+  - {index: 3, label: "MSCAN"}
+  - {index: 4, label: "LIN 1"}
+defaults:
+  bitrate: 500000
+  data_bitrate: 2000000
+notes: |
+  Requires the ICS neoVI driver package (icsneoapi) to be installed.

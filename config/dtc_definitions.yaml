@@ -1,0 +1,51 @@
+# DTC formats, status bit meanings, groups and a small example catalogue.
+status_bits:
+  0: testFailed
+  1: testFailedThisOperationCycle
+  2: pendingDTC
+  3: confirmedDTC
+  4: testNotCompletedSinceLastClear
+  5: testFailedSinceLastClear
+  6: testNotCompletedThisOperationCycle
+  7: warningIndicatorRequested
+
+formats:
+  SAE_J2012_DTCFormat_00: ISO 15031-6 (OBD, two byte DTC)
+  ISO_14229_1_DTCFormat_01: ISO 14229-1 three byte DTC
+  SAE_J1939_73_DTCFormat_02: SAE J1939-73 SPN/FMI
+  ISO_11992_4_DTCFormat_03: ISO 11992-4
+
+# DTC group masks used by ClearDiagnosticInformation (0x14).
+groups:
+  all:
+    mask: 0xFFFFFF
+    label: All DTCs
+  powertrain:
+    mask: 0x000000
+    range: [0x000000, 0x3FFFFF]
+    label: Powertrain (P)
+  chassis:
+    mask: 0x400000
+    range: [0x400000, 0x7FFFFF]
+    label: Chassis (C)
+  body:
+    mask: 0x800000
+    range: [0x800000, 0xBFFFFF]
+    label: Body (B)
+  network:
+    mask: 0xC00000
+    range: [0xC00000, 0xFFFFFF]
+    label: Network (U)
+
+severity:
+  0x20: maintenanceOnly
+  0x40: checkAtNextHalt
+  0x80: checkImmediately
+
+# Optional human readable descriptions; extend per project or OEM plugin.
+catalogue:
+  "C07300": Steering angle sensor - signal implausible
+  "010000": Mass air flow circuit malfunction (P0100)
+  "030000": Random / multiple cylinder misfire detected (P0300)
+  "C10000": Lost communication with ECM/PCM (U0100)
+  "910000": Driver airbag circuit resistance too high (B1000)

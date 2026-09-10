@@ -1,0 +1,71 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vehicle-diagnostics-platform"
+version = "0.1.0"
+description = "Professional cross-platform vehicle diagnostics platform (UDS / ISO 14229)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Vehicle Diagnostics Platform Team" }]
+keywords = ["automotive", "uds", "iso14229", "can", "doip", "diagnostics"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "PySide6>=6.5.0",
+    "python-can>=4.2.0",
+    "cantools>=39.0.0",
+    "pyyaml>=6.0",
+    "SQLAlchemy>=2.0",
+    "aiofiles>=23.0",
+    "intelhex>=2.3",
+    "bincopy>=17.0",
+    "pyserial>=3.5",
+    "cryptography>=41.0",
+    "loguru>=0.7",
+    "natsort>=8.0",
+    "Pillow>=10.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-qt>=4.2",
+    "pytest-cov>=4.1",
+    "mypy>=1.5",
+    "flake8>=6.1",
+    "black>=23.7",
+    "isort>=5.12",
+    "tox>=4.11",
+    "pyinstaller>=6.0",
+]
+
+[project.scripts]
+vdp = "main:main"
+
+[project.urls]
+Documentation = "https://example.com/vdp/docs"
+Source = "https://example.com/vdp"
+
+[tool.setuptools]
+packages = ["src", "ui", "plugins", "config"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

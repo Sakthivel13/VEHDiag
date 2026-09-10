@@ -1,0 +1,148 @@
+# Vehicle Diagnostics Platform - shipped default configuration.
+# User overrides are written to the per-user application data directory and
+# take precedence over everything defined here.
+
+application:
+  name: Vehicle Diagnostics Platform
+  version: 0.1.0
+  developer_mode: false
+  auto_connect_last: false
+  check_updates: false
+
+connection:
+  vci_type: VIRTUAL          # PCAN | VECTOR | KVASER_LEAF_V3 | SOCKETCAN | VIRTUAL ...
+  channel: 0
+  protocol: CAN              # CAN | CAN_FD | KLINE | LIN | FLEXRAY | DOIP | J1939
+  auto_reconnect: true
+  reconnect_attempts: 3
+  reconnect_delay_ms: 1000
+  health_check_interval_ms: 5000
+
+protocols:
+  can:
+    bitrate: 500000
+    extended_id: false
+    tx_id: 0x7E0
+    rx_id: 0x7E8
+    functional_id: 0x7DF
+    padding_enabled: true
+    padding_byte: 0x00
+    listen_only: false
+  can_fd:
+    bitrate: 500000
+    data_bitrate: 2000000
+    bitrate_switch: true
+    sample_point: 0.8
+    data_sample_point: 0.8
+  isotp:
+    block_size: 8              # 0 = send all consecutive frames without pause
+    st_min_ms: 0               # separation time requested from the sender
+    n_bs_timeout_ms: 1000      # waiting for a flow control frame
+    n_cr_timeout_ms: 1000      # waiting for a consecutive frame
+    n_ar_timeout_ms: 1000      # waiting for the frame to be sent
+    wait_frame_limit: 10
+    max_payload: 4095
+    addressing_format: NORMAL_11BIT
+    tx_padding: true
+    padding_byte: 0x00
+  kline:
+    port: ""
+    baudrate: 10400
+    init_type: FAST_INIT       # FIVE_BAUD | FAST_INIT | NONE
+    address_byte: 0x33
+    echo_cancellation: true
+    p1_ms: 5
+    p2_ms: 50
+    p3_ms: 55
+    p4_ms: 5
+  lin:
+    baudrate: 19200
+    nad: 0x01
+    enhanced_checksum: true
+    break_bits: 13
+  flexray:
+    config_file: ""
+    channels: AB
+    cycle_length_us: 5000
+  doip:
+    host: 192.168.0.10
+    port: 13400
+    source_address: 0x0E00
+    target_address: 0x1000
+    activation_type: 0x00
+    use_tls: false
+    tls_port: 3496
+    alive_check_interval_ms: 2000
+    discovery_timeout_ms: 2000
+  j1939:
+    bitrate: 250000
+    source_address: 0xF9
+    preferred_address: 0xF9
+    broadcast_hold_ms: 200
+
+diagnostics:
+  p2_client_ms: 150
+  p2_star_client_ms: 5000
+  s3_client_ms: 4000
+  max_pending_responses: 20
+  retry_on_busy: true
+  max_retries: 3
+  retry_delay_ms: 100
+  tester_present_enabled: true
+  tester_present_interval_ms: 2000
+  tester_present_suppress_response: true
+  suppress_positive_response: false
+  validate_session_requirements: true
+
+transfer:
+  max_block_length: 0          # 0 = use the value reported by the ECU
+  verify_after_transfer: true
+  compression: NONE
+  encryption: NONE
+  gap_fill_byte: 0xFF
+  address_length_format: 0x44  # 4 address bytes, 4 length bytes
+  retry_failed_blocks: 3
+
+logging:
+  level: INFO
+  log_to_file: true
+  log_to_database: true
+  directory: ""                # empty -> per-user log directory
+  database_path: ""            # empty -> <log directory>/vdp_logs.sqlite3
+  max_file_size_mb: 50
+  backup_count: 10
+  retention_days: 30
+  flush_interval_ms: 100
+  buffer_size: 500
+  hide_tester_present: false
+  timestamp_format: "%H:%M:%S.%f"
+
+ui:
+  theme: dark
+  accent_color: "#7C3AED"
+  font_family: Roboto
+  monospace_family: Roboto Mono
+  base_font_pt: 13
+  dpi_scaling: auto
+  remember_geometry: true
+  start_maximized: true
+  show_splash: true
+  toast_timeout_ms: 4000
+  # Navigation is a two level tab bar; there are no dockable side panels
+  # left to toggle. Kept for plugins that embed their own side panels.
+  log_panel_visible: true
+  analysis_panel_visible: true
+  navigation_visible: false
+  animations_enabled: true
+
+paths:
+  test_scripts: sample_test_scripts
+  firmware: ""
+  exports: ""
+  profiles: ""
+
+plugins:
+  enabled: true
+  directories:
+    - plugins
+  disabled: []

@@ -1,0 +1,124 @@
+# ISO 14229-1 negative response codes with operator guidance.
+nrcs:
+  "0x10":
+    name: generalReject
+    description: The ECU refused the request without a more specific reason.
+    recovery: Retry the request; if it persists check the ECU state and preconditions.
+  "0x11":
+    name: serviceNotSupported
+    description: The requested service is not implemented by this ECU.
+    recovery: Verify the SID and the addressing (TX/RX identifiers).
+  "0x12":
+    name: subFunctionNotSupported
+    description: The sub-function byte is not supported for this service.
+    recovery: Check the sub-function against the ECU specification.
+  "0x13":
+    name: incorrectMessageLengthOrInvalidFormat
+    description: The request length or format is wrong.
+    recovery: Verify the payload length and the parameter encoding.
+  "0x14":
+    name: responseTooLong
+    description: The response exceeds the transport protocol capability.
+    recovery: Request fewer data identifiers per message.
+  "0x21":
+    name: busyRepeatRequest
+    description: The ECU is busy and asks the tester to repeat the request.
+    recovery: Automatic retry is applied by the client.
+    retryable: true
+  "0x22":
+    name: conditionsNotCorrect
+    description: The ECU preconditions do not allow the requested action.
+    recovery: Check ignition, engine state, vehicle speed and voltage.
+  "0x24":
+    name: requestSequenceError
+    description: The request arrived out of the required sequence.
+    recovery: Send the prerequisite services first.
+  "0x25":
+    name: noResponseFromSubnetComponent
+    description: A sub-network component did not respond in time.
+    recovery: Check the gateway and the sub-bus wiring.
+  "0x26":
+    name: failurePreventsExecutionOfRequestedAction
+    description: A stored failure prevents execution.
+    recovery: Read and clear the relevant DTCs, then retry.
+  "0x31":
+    name: requestOutOfRange
+    description: A request parameter is unknown or out of range.
+    recovery: Verify the DID, routine identifier or memory address.
+  "0x33":
+    name: securityAccessDenied
+    description: The service requires an unlocked security level.
+    recovery: Perform SecurityAccess (0x27) for the required level.
+  "0x34":
+    name: authenticationRequired
+    description: Authentication (0x29) is required before this service.
+    recovery: Run the authentication sequence first.
+  "0x35":
+    name: invalidKey
+    description: The key computed from the seed was rejected.
+    recovery: Verify the seed-key algorithm, key length and level.
+  "0x36":
+    name: exceededNumberOfAttempts
+    description: Too many invalid keys; the ECU locked the security level.
+    recovery: Power-cycle the ECU or wait for the lockout to expire.
+  "0x37":
+    name: requiredTimeDelayNotExpired
+    description: The mandatory delay after failed attempts has not elapsed.
+    recovery: Wait for the delay timer to expire.
+  "0x38":
+    name: secureDataTransmissionRequired
+    description: The request must be sent through SecuredDataTransmission.
+    recovery: Wrap the request in service 0x84.
+  "0x70":
+    name: uploadDownloadNotAccepted
+    description: The ECU refused the upload or download request.
+    recovery: Check the session, security level and memory range.
+  "0x71":
+    name: transferDataSuspended
+    description: The data transfer was suspended by the ECU.
+    recovery: Restart the transfer from the beginning.
+  "0x72":
+    name: generalProgrammingFailure
+    description: The ECU failed to erase or write the memory.
+    recovery: Verify the flash driver, memory range and supply voltage.
+  "0x73":
+    name: wrongBlockSequenceCounter
+    description: The block sequence counter of TransferData was wrong.
+    recovery: Restart the transfer; the counter is out of sync.
+  "0x78":
+    name: requestCorrectlyReceivedResponsePending
+    description: The request was accepted; the final response is still pending.
+    recovery: The client waits automatically until P2* expires.
+    retryable: true
+  "0x7E":
+    name: subFunctionNotSupportedInActiveSession
+    description: The sub-function is not allowed in the active session.
+    recovery: Change to an extended or programming session.
+  "0x7F":
+    name: serviceNotSupportedInActiveSession
+    description: The service is not allowed in the active session.
+    recovery: Change to an extended or programming session.
+  "0x81":
+    name: rpmTooHigh
+    description: Engine speed is above the allowed range.
+    recovery: Reduce the engine speed and retry.
+  "0x82":
+    name: rpmTooLow
+    description: Engine speed is below the allowed range.
+    recovery: Increase the engine speed and retry.
+  "0x83":
+    name: engineIsRunning
+    description: The action requires the engine to be stopped.
+    recovery: Switch the engine off and retry.
+  "0x84":
+    name: engineIsNotRunning
+    description: The action requires a running engine.
+    recovery: Start the engine and retry.
+  "0x92":
+    name: voltageTooHigh
+    description: The supply voltage is above the allowed range.
+    recovery: Check the charging system; target 12-14 V.
+  "0x93":
+    name: voltageTooLow
+    description: The supply voltage is below the allowed range.
+    recovery: Connect a battery support unit before flashing.

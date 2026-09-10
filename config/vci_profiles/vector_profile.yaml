@@ -1,0 +1,24 @@
+# Vector Informatik hardware profile (XL Driver Library).
+vci:
+  type: VECTOR
+  display_name: Vector (VN16xx / VN of the XL family)
+  vendor: Vector Informatik GmbH
+  library:
+    windows: vxlapi64.dll
+    linux: libvxlapi.so
+    macos: ""
+capabilities: [CAN, CAN_FD, LIN, FLEXRAY, HARDWARE_TIMESTAMPS, BUS_STATISTICS, ERROR_FRAMES]
+application_name: VehicleDiagnosticsPlatform
+channels:
+  - {index: 0, label: "Channel 1"}
+  - {index: 1, label: "Channel 2"}
+  - {index: 2, label: "Channel 3"}
+  - {index: 3, label: "Channel 4"}
+defaults:
+  bitrate: 500000
+  data_bitrate: 2000000
+  rx_queue_size: 16384
+  sample_point: 0.8
+notes: |
+  Channels must be assigned to the application name above in the Vector
+  Hardware Configuration tool before they can be opened.
