@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EV Diagnostics — VEHDiag</title>
+  <meta name="description" content="VEHDiag EV diagnostics architecture: pluggable ECU profiles for BMS, VCU, MCU, OBC, DC-DC, charger, inverter and telematics with EV live-data signals.">
+  <link rel="canonical" href="https://www.vehdiag.dev/ev-diagnostics.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html">Features</a>
+        <a href="/ev-diagnostics.html" class="active">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html">Download</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/about.html">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container section-head">
+      <span class="kicker">EV architecture</span>
+      <h1>Electric powertrains, <span class="text-gradient">fully decoded</span></h1>
+      <p class="lead">VEHDiag treats every EV module as a pluggable ECU definition — CAN IDs, diagnostic protocol, DIDs, DTCs, signals and routines. New models are profiles, not code changes.</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-label="EV ECU modules">
+    <div class="container">
+      <div class="grid grid-4">
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="16" height="10" rx="2"/><path d="M22 11v6M6 11v2m4-2v2"/></svg></div><h3>BMS</h3><p>Battery management: SOC, SOH, cell voltages, temperatures, charge/discharge limits, balancing status, isolation.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 9h6v6H9z"/><path d="M9 2v2m6-2v2M9 20v2m6-2v2M2 9h2m-2 6h2m16-6h2m-2 6h2"/></svg></div><h3>VCU</h3><p>Vehicle control unit: torque arbitration, drive modes, safety states, power limits, system faults.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/><path d="M14.5 4.5a9 9 0 0 1 5 8"/></svg></div><h3>MCU</h3><p>Motor controller: motor speed, torque, phase currents, IGBT/inverter temperature, derating, faults.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8Z"/></svg></div><h3>OBC</h3><p>On-board charger: AC input, charge power, HV output, temperature, CP/PP pilot states, session DTCs.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4m0 12v4M2 12h4m12 0h4"/><circle cx="12" cy="12" r="3"/><path d="M12 2a10 10 0 0 1 10 10"/></svg></div><h3>DC-DC</h3><p>HV→12V converter: output voltage/current, efficiency, temperature, load shedding faults.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3 6 21M18 3l-5 18M4 8h16M3 16h16"/></svg></div><h3>Charger</h3><p>DC fast-charge handshake, requested/actual current, connector temperature, insulation monitor.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 1 6 6c0 2-1 3-1 4h-2a4 4 0 0 0-6 0H7c0-1-1-2-1-4a6 6 0 0 1 6-6Z"/><path d="M9 21h6m-3-4v4"/></svg></div><h3>Inverter</h3><p>DC bus voltage/current, motor torque/speed, switching temperature, over-current events.</p></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5a15 15 0 0 1 14 0M8.5 9a10 10 0 0 1 7 0M2 16a18 18 0 0 1 20 0"/><circle cx="12" cy="16" r="1.5"/></svg></div><h3>Telematics</h3><p>TCU health, modem state, GNSS, CAN gateway diagnostics, OTA update status.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-labelledby="signals">
+    <div class="container">
+      <div class="section-head">
+        <h2 id="signals" style="font-size:1.7rem">EV live-data signals</h2>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <caption>Example EV signals supported by the live-data engine</caption>
+          <thead><tr><th scope="col">Signal</th><th scope="col">Unit</th><th scope="col">Source (profile)</th></tr></thead>
+          <tbody>
+            <tr><td>Battery SOC</td><td class="mono">%</td><td class="mono">BMS</td></tr>
+            <tr><td>Battery SOH</td><td class="mono">%</td><td class="mono">BMS</td></tr>
+            <tr><td>Cell voltage (min/max)</td><td class="mono">V</td><td class="mono">BMS</td></tr>
+            <tr><td>Pack temperature</td><td class="mono">°C</td><td class="mono">BMS</td></tr>
+            <tr><td>DC bus voltage</td><td class="mono">V</td><td class="mono">Inverter / VCU</td></tr>
+            <tr><td>DC bus current</td><td class="mono">A</td><td class="mono">Inverter / VCU</td></tr>
+            <tr><td>Motor speed</td><td class="mono">rpm</td><td class="mono">MCU</td></tr>
+            <tr><td>Motor temperature</td><td class="mono">°C</td><td class="mono">MCU</td></tr>
+            <tr><td>Charge power</td><td class="mono">kW</td><td class="mono">OBC / Charger</td></tr>
+            <tr><td>12V system voltage</td><td class="mono">V</td><td class="mono">DC-DC</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="callout" style="margin-top:1.5rem">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 auto;margin-top:.1rem"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4m0-4h.01"/></svg>
+        <div><strong>Independent implementation</strong>VEHDiag ships generic, profile-driven EV diagnostics (UDS 0x19/0x22 + CAN signal definitions). OEM-specific ECU databases remain the operator's responsibility under applicable licensing — we never redistribute proprietary data.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-tight">
+    <div class="container section-head">
+      <p><a class="btn btn-primary btn-lg" href="/register.html">Try EV diagnostics in the simulator</a></p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>

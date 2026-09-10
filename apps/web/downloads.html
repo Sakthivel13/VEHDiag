@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Download VEHDiag APK — VEHDiag</title>
+  <meta name="description" content="Download the VEHDiag Android app: VEHDiag.apk served directly from the VEHDiag website, with SHA-256 checksum, version and size. Also available as VEHDiag.zip from GitHub.">
+  <link rel="canonical" href="https://www.vehdiag.dev/downloads.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html">Features</a>
+        <a href="/ev-diagnostics.html">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html" class="active">Download</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/about.html">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container section-head">
+      <span class="kicker">Android app</span>
+      <h1>Download <span class="text-gradient">VEHDiag</span></h1>
+      <p class="lead">The APK is committed to the project repository and served directly from this website — versioned, checksummed, and reproducible from source.</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-label="Download options">
+    <div class="container" style="max-width:920px">
+      <div class="dl-card" style="margin-bottom:2rem">
+        <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1rem;flex-wrap:wrap">
+          <img src="/branding/icon.svg" alt="" width="64" height="64" style="border-radius:14px">
+          <div>
+            <h2 style="font-size:1.5rem;margin-bottom:.15rem">VEHDiag for Android</h2>
+            <div class="ver">com.vehdiag.app · v0.1.0 (versionCode 1) · Android 7.0+ (API 24)</div>
+          </div>
+        </div>
+        <div class="dl-facts" style="grid-template-columns:repeat(3,1fr)">
+          <div><b>Direct download</b><code>VEHDiag.apk</code></div>
+          <div><b>Size</b><code data-apk-size>—</code></div>
+          <div><b>SHA-256</b><code data-apk-sha>computed at build time</code></div>
+        </div>
+        <div style="display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1.4rem">
+          <a class="btn btn-primary btn-lg" href="/downloads/VEHDiag.apk" download="VEHDiag.apk" data-apk-link>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
+            Download VEHDiag.apk
+          </a>
+          <a class="btn btn-secondary btn-lg" href="/downloads/VEHDiag.zip" download="VEHDiag.zip">Download VEHDiag.zip</a>
+          <a class="btn btn-ghost btn-lg" href="/downloads/SHA256SUMS.txt">SHA256SUMS.txt</a>
+        </div>
+        <p class="hint" data-android-nudge hidden style="margin-top:1rem;color:var(--veh-success)">✓ Android detected — tap the download button to install.</p>
+        <div class="callout warn" style="margin-top:1.25rem">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 auto;margin-top:.1rem"><path d="M12 9v4m0 4h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>
+          <div><strong>Installing outside Google Play</strong>Android asks you to allow "Install unknown apps" for your browser before installing a direct APK. The app is signed with VEHDiag's own release key; verify the SHA-256 above matches the checksums file after download.</div>
+        </div>
+      </div>
+
+      <h2 style="font-size:1.35rem;margin-bottom:1rem">How the APK is distributed (the "indiag.zip pattern")</h2>
+      <div class="grid grid-3">
+        <div class="step"><div class="step-num">1</div><div><h3>Build</h3><p>The APK is built by the project's own pipeline (<code class="mono">scripts/apkbuild</code>) from source in <code class="mono">apps/mobile</code> — independent code, independent release key.</p></div></div>
+        <div class="step"><div class="step-num">2</div><div><h3>Commit</h3><p>The signed APK and its <code class="mono">.zip</code> mirror are committed to the GitHub repository, exactly like the reference product ships <code class="mono">indiag.zip</code>.</p></div></div>
+        <div class="step"><div class="step-num">3</div><div><h3>Serve</h3><p>This website serves them at <code class="mono">/downloads/VEHDiag.apk</code> and <code class="mono">/downloads/VEHDiag.zip</code>, with version, size, SHA-256 and a QR code — plus a Play Store link as the secondary channel.</p></div></div>
+      </div>
+
+      <h2 style="font-size:1.35rem;margin:2.5rem 0 1rem">Release channels</h2>
+      <div class="table-wrap">
+        <table>
+          <caption>VEHDiag Android distribution channels</caption>
+          <thead><tr><th scope="col">Channel</th><th scope="col">Location</th><th scope="col">Status</th></tr></thead>
+          <tbody>
+            <tr><td>Website direct download</td><td class="mono">/downloads/VEHDiag.apk</td><td><span class="badge badge-ok">Active</span></td></tr>
+            <tr><td>ZIP mirror (repo pattern)</td><td class="mono">/downloads/VEHDiag.zip</td><td><span class="badge badge-ok">Active</span></td></tr>
+            <tr><td>GitHub repository</td><td class="mono">github.com/Sakthivel13/VEHDiag</td><td><span class="badge badge-ok">Active</span></td></tr>
+            <tr><td>Google Play</td><td class="mono">play.google.com/store/apps/details?id=com.vehdiag.app</td><td><span class="badge badge-warn">Listing pending</span></td></tr>
+            <tr><td>GitHub Releases</td><td class="mono">github.com/Sakthivel13/VEHDiag/releases</td><td><span class="badge badge-info">Planned</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2 style="font-size:1.35rem;margin:2.5rem 0 1rem">Verify your download</h2>
+      <div class="prose" style="max-width:none">
+        <pre><code># On Linux / macOS / Android (Termux)
+sha256sum VEHDiag.apk        # compare with SHA256SUMS.txt
+unzip -l VEHDiag.zip         # should contain base.apk
+
+# The APK signature can be verified with apksigner (Android SDK):
+apksigner verify --print-certs VEHDiag.apk</code></pre>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+<script>
+(function () {
+  fetch('/downloads/SHA256SUMS.txt', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(function (t) {
+    var m = t.match(/([0-9a-f]{64})\s+VEHDiag\.apk/);
+    if (m) document.querySelectorAll('[data-apk-sha]').forEach(function (el) { el.textContent = m[1]; });
+  }).catch(function () {});
+  fetch('/downloads/VEHDiag.apk', { method: 'HEAD' }).then(function (r) {
+    var n = parseInt(r.headers.get('content-length') || '0', 10);
+    if (n > 0) document.querySelectorAll('[data-apk-size]').forEach(function (el) {
+      el.textContent = n < 1048576 ? (n / 1024).toFixed(0) + ' KB' : (n / 1048576).toFixed(2) + ' MB';
+    });
+  }).catch(function () {});
+})();
+</script>
+</body>
+</html>

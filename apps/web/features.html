@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Features — VEHDiag</title>
+  <meta name="description" content="VEHDiag features: DTC diagnostics, live data, VIN decoding, freeze frames, ECU information, OBD terminal, EV diagnostics, reports and simulator.">
+  <link rel="canonical" href="https://www.vehdiag.dev/features.html">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container">
+    <nav class="nav" id="site-nav" aria-label="Main navigation">
+      <a class="nav-brand" href="/" aria-label="VEHDiag home"><img src="/branding/logo.svg" alt="VEHDiag" width="180" height="46"></a>
+      <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="nav-links">
+        <a href="/features.html" class="active">Features</a>
+        <a href="/ev-diagnostics.html">EV Diagnostics</a>
+        <a href="/pricing.html">Pricing</a>
+        <a href="/downloads.html">Download</a>
+        <a href="/docs.html">Docs</a>
+        <a href="/about.html">About</a>
+      </div>
+      <div class="nav-cta">
+        <button class="btn btn-secondary btn-sm" data-theme-toggle aria-label="Switch theme"></button>
+        <a class="btn btn-ghost btn-sm" href="/login.html">Log in</a>
+        <a class="btn btn-primary btn-sm" href="/register.html">Get started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section section-tight">
+    <div class="container section-head">
+      <span class="kicker">Features</span>
+      <h1>Professional diagnostics, <span class="text-gradient">modular by design</span></h1>
+      <p class="lead">Every capability sits on the same open diagnostic engine: transport, protocol, vehicle and application layers — extensible, testable, independent.</p>
+    </div>
+  </section>
+
+  <section class="section section-tight" aria-label="Feature details">
+    <div class="container">
+      <div class="grid grid-2">
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div><h3>DTC diagnostics</h3><p>Read stored, pending and permanent codes (OBD 0x03/0x07/0x0A, UDS 0x19). Every code is decoded into system, description, severity and status — with freeze-frame context and clear-code support (0x04 / 0x14).</p><span class="mono-badge">P0130 · B1 · U · C · status bits</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div><h3>Live data</h3><p>OBD Mode 01 PID decoding with correct scaling (A, B, C, D formulas), multi-PID batching, and configurable signal dashboards streamed over WebSocket. EV signals include SOC, SOH, cell voltages, DC bus voltage/current and motor temperatures.</p><span class="mono-badge">RPM · ECT · MAP · STFT · SOC</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h4l3-8 6 16 3-8h4"/></svg></div><h3>VIN + vehicle identification</h3><p>Read the VIN (OBD 0x09-02, UDS 0x22 F190) and decode WMI, model year, plant and check digit. Save vehicles with engine, fuel type, transmission and mileage; identify-by-VIN on every new session.</p><span class="mono-badge">17-char VIN decode</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 1 6 6c0 2-1 3-1 4h-2a4 4 0 0 0-6 0H7c0-1-1-2-1-4a6 6 0 0 1 6-6Z"/><path d="M9 21h6m-3-4v4"/></svg></div><h3>Freeze frame</h3><p>OBD Mode 02 captures the engine snapshot stored when a fault triggered: RPM, load, coolant temp, speed, fuel status and the fault code — shown side-by-side with the DTC.</p><span class="mono-badge">OBD 0x02</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2m6-2v2M9 20v2m6-2v2M2 9h2m-2 6h2m16-6h2m-2 6h2"/></svg></div><h3>ECU information</h3><p>Per-module calibration IDs, VIN, ECU name, hardware/software versions (OBD 0x09). UDS ReadDataByIdentifier (0x22) for OEM identifiers, part numbers and software IDs.</p><span class="mono-badge">OBD 0x09 · UDS 0x22</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m8 9-5 5v-3l5-4v2Z"/><path d="m16 9 5 5v-3l-5-4v2Z"/><path d="M8 9h8"/><path d="m4 14 3 3 2-2m7 0 3 3 1-3"/></svg></div><h3>OBD terminal</h3><p>Raw ELM327 AT and OBD-II command line with log-style scrollback — exactly what advanced technicians expect. The same terminal powers the built-in simulator so scripts run without hardware.</p><span class="mono-badge">ATZ · 0100 · 03 · 09 02</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"/><path d="M14 2v6h6"/><path d="M16 13H8m8 4H8m2-8H8"/></svg></div><h3>Reports &amp; history</h3><p>Every session is stored with a unique ID. Export branded PDF (print-to-PDF), JSON and CSV: vehicle, VIN, technician, device, ECUs scanned, DTCs, live-data summary, status and recommendations.</p><span class="mono-badge">PDF · JSON · CSV</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8Z"/></svg></div><h3>EV architecture</h3><p>Pluggable ECU definitions — ECU ID, CAN IDs, protocol, DIDs, DTCs, signals, routines — for BMS, VCU, MCU, OBC, DC-DC, charger, inverter and telematics. See <a href="/ev-diagnostics.html">EV diagnostics</a>.</p><span class="mono-badge">BMS · VCU · MCU · OBC</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4m0 12v4M2 12h4m12 0h4"/><circle cx="12" cy="12" r="3"/><path d="M12 2a10 10 0 0 1 10 10"/></svg></div><h3>Failure handling</h3><p>Timeouts, no-response, malformed frames, NRC 0x78 response-pending, bus-off, disconnects — every failure path is modeled, logged with the session ID, and can never corrupt the next session. Each session owns its state.</p><span class="mono-badge">session isolation</span></div>
+        <div class="card"><div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div><h3>Admin dashboard</h3><p>Users, organizations, vehicles, sessions, devices, DTC/ECU databases, subscriptions, audit logs and analytics — role-gated for TECHNICIAN, WORKSHOP_ADMIN, ADMIN and SUPER_ADMIN.</p><span class="mono-badge">RBAC</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-tight">
+    <div class="container section-head">
+      <h2 style="font-size:1.6rem">Ready to try it?</h2>
+      <p class="lead" style="max-width:420px">The simulator means zero hardware needed.</p>
+      <p style="margin-top:1.25rem"><a class="btn btn-primary btn-lg" href="/register.html">Create a free account</a></p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> VEHDiag — independent project.</span>
+      <span><a href="/">Home</a> · <a href="/docs.html">Docs</a> · <a href="/contact.html">Contact</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>
