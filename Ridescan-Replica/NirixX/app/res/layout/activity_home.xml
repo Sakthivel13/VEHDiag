@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@color/brand_primary"
+        android:paddingLeft="16dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/logo"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imgLogo"
+            android:layout_marginLeft="10dp"
+            android:text="NirixX"
+            android:textColor="#FFFFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/btnBell"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="9dp"
+            android:src="@drawable/ic_notification" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/vciCard"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:layout_margin="16dp"
+        android:background="@drawable/bg_card_blue"
+        android:elevation="3dp">
+
+        <ImageView
+            android:id="@+id/imgVciState"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/bluetooth_disconnect" />
+
+        <TextView
+            android:id="@+id/txtVciState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="52dp"
+            android:text="No VCI Connected"
+            android:textColor="#FFFFFFFF"
+            android:textSize="13.5sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btnConnect"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="14dp"
+            android:background="@drawable/bg_card"
+            android:gravity="center"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="@string/select_vci"
+            android:textColor="#FF0B8376"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/home_hero"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|left"
+            android:layout_margin="14dp"
+            android:text="Beyond Diagnostics"
+            android:textColor="#FFFFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:shadowColor="#FF000000"
+            android:shadowDx="0"
+            android:shadowDy="1"
+            android:shadowRadius="6" />
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <GridLayout
+            android:id="@+id/gridTiles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="3"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp" />
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="#FFFFFFFF"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <TextView
+            android:id="@+id/txtDealer"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Dealer: —"
+            android:textColor="@color/text_grey"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="v1.3.4"
+            android:textColor="@color/text_grey"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

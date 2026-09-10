@@ -1,0 +1,1646 @@
+ hh Please use your offical email ID ending with @tvsmdealers.co.in  for login and communication purposes. 
+ Forgot PIN PPOTP has been Send to techpro@gmail.com   Please Enter OTP to Verify the Email ID The TechPRO VCI tool with serial number starting with â€œ 00XXXXâ€   will be fully discontinued by the End of January 2026. If you are using a 0-Series VCI, please upgrade to the new WiFi VCI tool with serial number starting with â€œ 5XXXXX 88Welcome to RIDE Scan Chatbot! 
+ How can I help you today?
+ res/01.png
+ res/04.xml
+ res/06.xml
+ res/07.xml
+ res/0A.xml
+ res/0C.xml
+ res/0M.xml
+ res/0V.xml
+ res/0Y.xml
+ res/0j.xml
+ res/0n.xml
+ res/0v.png
+ res/0w.xml
+ res/0x.png
+ res/1A.xml
+ res/1D.xml res/1D1.xml
+ res/1N.xml
+ res/1R.xml
+ res/1b.xml
+ res/1f.xml
+ res/1i.xml
+ res/1n.xml
+ res/1y.xml
+ res/21.xml
+ res/27.xml res/271.xml
+ res/2B.xml
+ res/2F.xml
+ res/2R.xml
+ res/2T.xml
+ res/2d.jpg
+ res/2d.xml
+ res/2f.xml
+ res/2g.xml
+ res/2j.xml
+ res/2k.xml
+ res/2n.xml
+ res/2w.xml
+ res/2x.xml
+ res/2z.xml
+ res/32.xml
+ res/35.xml
+ res/3J.xml
+ res/3L.png
+ res/3O.xml
+ res/3R.xml
+ res/3a.xml
+ res/3b.xml
+ res/3h.xml
+ res/3r.xml
+ res/3y.xml
+ res/46.xml
+ res/4B.xml
+ res/4H.xml
+ res/4I.xml
+ res/4O.xml
+ res/4P.xml
+ res/4Q.xml
+ res/4S.xml
+ res/4U.xml
+ res/4b.ttf
+ res/4m.xml
+ res/4o.xml
+ res/4u.xml
+ res/4x.xml
+ res/50.xml
+ res/51.xml
+ res/54.xml
+ res/57.xml
+ res/59.xml
+ res/5T.xml
+ res/5X.xml
+ res/5c.xml
+ res/5l.xml
+ res/5o.xml
+ res/5p.xml
+ res/5s.xml
+ res/5z.xml
+ res/60.xml
+ res/61.xml
+ res/62.xml
+ res/66.xml
+ res/68.xml
+ res/6J.xml
+ res/6Q.xml
+ res/6o.xml
+ res/6s.xml
+ res/6u.xml
+ res/6w.xml
+ res/6x.xml
+ res/6z.xml
+ res/7G.xml
+ res/7H.otf
+ res/7H.xml
+ res/7P.xml
+ res/7W.png
+ res/7X.xml
+ res/7Z.xml
+ res/7b.xml
+ res/7c.png
+ res/7d.otf
+ res/7k.xml
+ res/7s.xml res/7s1.xml
+ res/80.xml
+ res/8C.xml
+ res/8G.xml
+ res/8K.xml
+ res/8N.xml
+ res/8a.xml
+ res/8l.xml
+ res/8p.xml
+ res/8s.xml
+ res/8y.xml
+ res/92.xml
+ res/97.xml
+ res/9C.xml
+ res/9H.xml
+ res/9O.xml res/9O1.xml
+ res/9P.xml
+ res/9T.png
+ res/9T.xml res/9T1.xml res/9T2.xml
+ res/9V.xml
+ res/9e.png
+ res/9m.xml
+ res/9p.xml
+ res/9t.xml
+ res/9u.xml
+ res/9z.xml
+ res/A0.xml
+ res/A1.xml
+ res/A4.xml
+ res/A5.xml
+ res/A6.xml
+ res/AA.xml
+ res/AB.png
+ res/AB.xml
+ res/AD.xml
+ res/AE.xml
+ res/AM.xml
+ res/AY.xml
+ res/Aa.xml
+ res/B4.xml
+ res/B6.xml
+ res/BA.xml
+ res/BH.png
+ res/BJ.xml res/BJ1.xml res/BJ2.xml
+ res/BO.xml
+ res/BP.xml
+ res/BT.xml res/BT1.xml
+ res/BZ.png
+ res/Bb.xml
+ res/Bd.xml
+ res/Be.xml
+ res/Bj.xml
+ res/By.xml res/By1.xml
+ res/Bz.xml
+ res/C2.xml
+ res/C8.xml
+ res/CC.png
+ res/CJ.xml
+ res/CX.xml
+ res/Cg.xml
+ res/Cl.xml
+ res/D4.xml
+ res/D5.xml
+ res/D6.xml
+ res/DD.xml
+ res/DG.xml
+ res/DK.xml
+ res/DQ.xml
+ res/DS.xml
+ res/DW.xml
+ res/DZ.xml
+ res/Dj.xml
+ res/Dy.jpg
+ res/E5.ogg
+ res/EI.xml
+ res/ES.xml res/ES1.xml
+ res/EV.png
+ res/Eg.xml
+ res/Er.xml
+ res/F5.xml
+ res/F7.xml
+ res/F8.xml
+ res/FS.xml
+ res/FZ.xml
+ res/Fk.xml
+ res/Fq.xml
+ res/Fu.xml res/Fx1.png
+ res/Fy.xml
+ res/G0.png
+ res/G2.xml
+ res/G4.xml res/GC1.xml
+ res/GD.xml
+ res/GK.png
+ res/GK.xml
+ res/GQ.xml res/GQ1.xml
+ res/GR.xml
+ res/Gb.xml
+ res/Gg.xml
+ res/Gt.xml res/H2.json
+ res/H3.xml res/H41.xml
+ res/HC.xml
+ res/HQ.xml res/HQ1.xml
+ res/Ha.xml
+ res/Hd.xml
+ res/Hj.xml
+ res/Hn.xml
+ res/Hx.xml res/Hx1.xml
+ res/I3.xml
+ res/I8.png
+ res/ID.xml
+ res/IF.xml
+ res/IJ.xml
+ res/IQ.xml
+ res/IR.xml
+ res/IS.jpg
+ res/IU.xml
+ res/Id.xml
+ res/In.xml
+ res/It.xml
+ res/J4.xml
+ res/J5.xml
+ res/JC.xml
+ res/JD.xml res/JD1.xml
+ res/JF.xml
+ res/JQ.xml
+ res/JS.xml
+ res/JT.xml res/JT1.xml
+ res/JX.xml
+ res/JZ.xml
+ res/Jl.xml
+ res/Jo.xml
+ res/Jt.png
+ res/Jw.xml
+ res/Jx.ttf
+ res/K2.xml
+ res/K3.png
+ res/K5.xml res/K51.xml
+ res/K6.xml
+ res/K7.xml
+ res/KA.xml
+ res/KF.xml
+ res/KJ.xml res/KK.json
+ res/KS.xml
+ res/KT.xml
+ res/KU.xml
+ res/KZ.xml res/KZ1.xml
+ res/Ke.xml
+ res/Ki.png
+ res/Ki.xml
+ res/Kt.png
+ res/Kv.xml
+ res/LE.xml
+ res/LI.xml
+ res/LJ.xml
+ res/LT.xml
+ res/Lf.xml
+ res/Lm.xml
+ res/Lt.xml
+ res/Lv.xml
+ res/M1.xml
+ res/M2.xml
+ res/M7.xml
+ res/M9.xml
+ res/MI.xml
+ res/ML.xml
+ res/MM.xml
+ res/MO.xml res/MO1.xml
+ res/MQ.xml
+ res/MT.xml
+ res/MX.xml
+ res/MZ.xml
+ res/Mh.xml
+ res/Ml.xml
+ res/Mp.xml
+ res/Mt.xml
+ res/My.xml
+ res/N0.xml
+ res/N6.xml
+ res/NF.xml
+ res/NM.xml
+ res/NN.xml
+ res/NX.xml
+ res/NZ.xml
+ res/Nc.png
+ res/Ne.xml
+ res/Nj.xml
+ res/Nk.jpg
+ res/Nm.xml
+ res/Nr.xml
+ res/Nu.xml
+ res/Ny.xml
+ res/Nz.xml
+ res/O0.xml
+ res/O1.png
+ res/O3.xml
+ res/OS.xml
+ res/OX.xml
+ res/Ol.xml res/Oo.json
+ res/Oo.xml
+ res/Ot.xml
+ res/Ov.xml
+ res/Ox.xml
+ res/Oy.xml
+ res/Oz.xml
+ res/PL.xml
+ res/PM.xml
+ res/PN.xml
+ res/PQ.xml
+ res/PV.xml res/PV1.xml
+ res/PX.xml
+ res/Pd.xml
+ res/Pg.png
+ res/Q2.xml
+ res/Q7.xml
+ res/Q8.xml
+ res/Q9.xml
+ res/QD.xml
+ res/QH.xml
+ res/QJ.xml
+ res/QN.xml res/QN1.xml
+ res/QP.xml
+ res/QV.xml
+ res/QZ.xml res/QZ1.xml
+ res/Qd.xml res/Qd1.xml
+ res/Qg.xml
+ res/Ql.xml
+ res/Qp.xml
+ res/Qt.xml res/Qt1.xml
+ res/Qu.xml
+ res/Qy.ttf
+ res/Qy.xml
+ res/R2.xml
+ res/RH.xml
+ res/RI.xml
+ res/RK.xml
+ res/RL.xml
+ res/RM.xml
+ res/RV.ttf
+ res/Re.png
+ res/Re.ttf
+ res/Ro.xml
+ res/Rq.xml
+ res/Rx.xml
+ res/Rz.png
+ res/S6.xml
+ res/S7.xml
+ res/S8.xml
+ res/SG.xml
+ res/SN.xml
+ res/SO.xml
+ res/SU.xml
+ res/SZ.png
+ res/SZ.xml
+ res/Sc.xml
+ res/Sg.xml
+ res/Sh.xml
+ res/Sl.xml
+ res/Sp.xml
+ res/Sq.xml res/Sq1.xml
+ res/Sr.xml
+ res/TB.xml
+ res/TE.xml
+ res/TH.xml
+ res/TJ.xml
+ res/TL.png
+ res/TL.xml
+ res/TM.xml
+ res/TP.xml
+ res/TX.xml
+ res/Td.xml
+ res/Tf.xml
+ res/Tn.xml
+ res/To.png
+ res/Tt.png
+ res/Tt.xml
+ res/U0.xml
+ res/U8.xml
+ res/UE.xml
+ res/UF.xml
+ res/UP.xml
+ res/UU.xml
+ res/UV.xml
+ res/UX.xml
+ res/Uc.xml
+ res/Uf.xml
+ res/Up.xml
+ res/V1.xml
+ res/V3.xml
+ res/V7.xml
+ res/V8.xml
+ res/VH.xml
+ res/VM.xml
+ res/VN.xml
+ res/VP.png
+ res/VT.xml
+ res/VV.xml
+ res/VW.xml
+ res/VY.xml
+ res/Vm.xml
+ res/Vs.xml
+ res/Vw.xml res/WA1.xml
+ res/WC.xml
+ res/WK.xml
+ res/WO.xml
+ res/WP.xml
+ res/WT.xml
+ res/WV.xml
+ res/WW.otf
+ res/WZ.xml
+ res/Ws.xml
+ res/Wy.xml
+ res/X1.xml
+ res/XC.xml
+ res/XD.xml
+ res/XE.xml
+ res/XK.xml
+ res/XT.xml
+ res/XW.xml
+ res/XY.xml
+ res/Xf.xml
+ res/Xk.png
+ res/Xl.xml
+ res/Xm.xml
+ res/Xr.xml
+ res/Xx.xml
+ res/Xz.xml
+ res/Y3.xml
+ res/Y7.png
+ res/Y9.xml
+ res/YF.xml
+ res/YN.xml
+ res/YS.png
+ res/YU.xml
+ res/YW.xml res/YW1.xml
+ res/Ya.xml
+ res/Yb.xml
+ res/Yi.xml res/Yi1.xml
+ res/Yj.xml
+ res/Yz.xml
+ res/Z0.xml
+ res/ZC.xml
+ res/ZD.jpg
+ res/ZE.xml
+ res/ZL.xml
+ res/ZM.xml
+ res/ZN.xml
+ res/ZP.xml
+ res/ZT.xml
+ res/ZW.xml
+ res/ZZ.xml
+ res/Zb.xml
+ res/Zc.png
+ res/Zc.xml
+ res/Zd.xml
+ res/Zg.xml
+ res/Zk.xml
+ res/Zp.xml
+ res/_M1.xml
+ res/a0.xml
+ res/a3.xml
+ res/a5.xml res/a51.xml
+ res/aG.xml
+ res/aJ.xml
+ res/aM.png
+ res/aM.xml
+ res/aS.xml
+ res/aT.xml
+ res/aV.png
+ res/aW.xml
+ res/ad.png
+ res/ad.xml
+ res/ai.xml res/ai1.xml
+ res/at.xml
+ res/ay.xml res/ay1.xml res/bA1.png
+ res/bL.xml res/bL1.xml
+ res/bQ.png
+ res/bQ.xml res/bQ1.xml
+ res/bT.xml
+ res/bV.xml
+ res/bb.xml
+ res/bd.xml
+ res/be.png
+ res/bk.xml
+ res/bm.xml res/bm1.xml
+ res/bs.png
+ res/bt.xml
+ res/c0.xml
+ res/c2.xml
+ res/c4.xml
+ res/c5.xml
+ res/c6.xml
+ res/cA.xml res/cA1.xml
+ res/cK.xml
+ res/cL.xml
+ res/cO.xml
+ res/cV.xml
+ res/cc.xml
+ res/cm.xml ..res/color-v23/abc_color_highlight_material.xml ((res/color-v23/abc_tint_btn_checkable.xml ""res/color-v23/abc_tint_default.xml ##res/color-v23/abc_tint_edittext.xml %%res/color-v23/abc_tint_seek_thumb.xml ""res/color-v23/abc_tint_spinner.xml ''res/color-v23/abc_tint_switch_track.xml >>res/color/abc_background_cache_hint_selector_material_dark.xml ??res/color/abc_background_cache_hint_selector_material_light.xml //res/color/abc_hint_foreground_material_dark.xml 00res/color/abc_hint_foreground_material_light.xml 99res/color/abc_primary_text_disable_only_material_dark.xml ::res/color/abc_primary_text_disable_only_material_light.xml ,,res/color/abc_primary_text_material_dark.xml --res/color/abc_primary_text_material_light.xml !!res/color/abc_search_url_text.xml ..res/color/abc_secondary_text_material_dark.xml //res/color/abc_secondary_text_material_light.xml %%res/color/design_box_stroke_color.xml res/color/design_error.xml res/color/design_icon_tint.xml ,,res/color/m3_assist_chip_icon_tint_color.xml //res/color/m3_bottom_sheet_drag_handle_color.xml 11res/color/m3_button_background_color_selector.xml 11res/color/m3_button_foreground_color_selector.xml ..res/color/m3_button_outline_color_selector.xml --res/color/m3_button_ripple_color_selector.xml ,,res/color/m3_calendar_item_disabled_text.xml ++res/color/m3_calendar_item_stroke_color.xml &&res/color/m3_card_foreground_color.xml ""res/color/m3_card_ripple_color.xml ""res/color/m3_card_stroke_color.xml **res/color/m3_checkbox_button_icon_tint.xml %%res/color/m3_checkbox_button_tint.xml ''res/color/m3_chip_assist_text_color.xml &&res/color/m3_chip_background_color.xml ""res/color/m3_chip_ripple_color.xml ""res/color/m3_chip_stroke_color.xml   res/color/m3_chip_text_color.xml 00res/color/m3_dark_default_color_primary_text.xml 22res/color/m3_dark_default_color_secondary_text.xml &&res/color/m3_dark_highlighted_text.xml %%res/color/m3_dark_hint_foreground.xml //res/color/m3_dark_primary_text_disable_only.xml ++res/color/m3_default_color_primary_text.xml --res/color/m3_default_color_secondary_text.xml ++res/color/m3_efab_ripple_color_selector.xml //res/color/m3_elevated_chip_background_color.xml 33res/color/m3_fab_efab_background_color_selector.xml 33res/color/m3_fab_efab_foreground_color_selector.xml **res/color/m3_fab_ripple_color_selector.xml <<res/color/m3_filled_icon_button_container_color_selector.xml !!res/color/m3_highlighted_text.xml   res/color/m3_hint_foreground.xml 00res/color/m3_icon_button_icon_color_selector.xml ==res/color/m3_navigation_bar_item_with_indicator_icon_tint.xml >>res/color/m3_navigation_bar_item_with_indicator_label_tint.xml 55res/color/m3_navigation_bar_ripple_color_selector.xml 11res/color/m3_navigation_item_background_color.xml **res/color/m3_navigation_item_icon_tint.xml --res/color/m3_navigation_item_ripple_color.xml ++res/color/m3_navigation_item_text_color.xml >>res/color/m3_navigation_rail_item_with_indicator_icon_tint.xml ??res/color/m3_navigation_rail_item_with_indicator_label_tint.xml 66res/color/m3_navigation_rail_ripple_color_selector.xml **res/color/m3_primary_text_disable_only.xml ((res/color/m3_radiobutton_button_tint.xml ((res/color/m3_radiobutton_ripple_tint.xml 88res/color/m3_selection_control_ripple_color_selector.xml ))res/color/m3_simple_item_ripple_color.xml //res/color/m3_slider_active_tick_marks_color.xml **res/color/m3_slider_active_track_color.xml 11res/color/m3_slider_active_track_color_legacy.xml ))res/color/m3_slider_halo_color_legacy.xml 11res/color/m3_slider_inactive_tick_marks_color.xml ,,res/color/m3_slider_inactive_track_color.xml 33res/color/m3_slider_inactive_track_color_legacy.xml ##res/color/m3_slider_thumb_color.xml **res/color/m3_slider_thumb_color_legacy.xml <<res/color/m3_standard_toolbar_button_text_color_selector.xml FFres/color/m3_standard_toolbar_icon_button_container_color_selector.xml AAres/color/m3_standard_toolbar_icon_button_icon_color_selector.xml CCres/color/m3_standard_toolbar_icon_button_ripple_color_selector.xml ""res/color/m3_switch_thumb_tint.xml ""res/color/m3_switch_track_tint.xml   res/color/m3_tabs_icon_color.xml **res/color/m3_tabs_icon_color_secondary.xml ""res/color/m3_tabs_ripple_color.xml ,,res/color/m3_tabs_ripple_color_secondary.xml   res/color/m3_tabs_text_color.xml **res/color/m3_tabs_text_color_secondary.xml 66res/color/m3_text_button_background_color_selector.xml 66res/color/m3_text_button_foreground_color_selector.xml 22res/color/m3_text_button_ripple_color_selector.xml 22res/color/m3_textfield_filled_background_color.xml //res/color/m3_textfield_indicator_text_color.xml ++res/color/m3_textfield_input_text_color.xml &&res/color/m3_textfield_label_color.xml ''res/color/m3_textfield_stroke_color.xml 33res/color/m3_timepicker_button_background_color.xml //res/color/m3_timepicker_button_ripple_color.xml --res/color/m3_timepicker_button_text_color.xml ,,res/color/m3_timepicker_clock_text_color.xml 44res/color/m3_timepicker_display_background_color.xml 00res/color/m3_timepicker_display_ripple_color.xml ..res/color/m3_timepicker_display_text_color.xml >>res/color/m3_timepicker_secondary_text_button_ripple_color.xml <<res/color/m3_timepicker_secondary_text_button_text_color.xml 33res/color/m3_timepicker_time_input_stroke_color.xml 33res/color/m3_tonal_button_ripple_color_selector.xml ;;res/color/m3_vibrant_toolbar_button_text_color_selector.xml EEres/color/m3_vibrant_toolbar_icon_button_container_color_selector.xml @@res/color/m3_vibrant_toolbar_icon_button_icon_color_selector.xml BBres/color/m3_vibrant_toolbar_icon_button_ripple_color_selector.xml $$res/color/material_divider_color.xml 11res/color/material_on_primary_emphasis_medium.xml **res/color/material_on_surface_disabled.xml 44res/color/material_on_surface_emphasis_high_type.xml 11res/color/material_on_surface_emphasis_medium.xml ((res/color/material_on_surface_stroke.xml 55res/color/material_slider_active_tick_marks_color.xml 00res/color/material_slider_active_track_color.xml ((res/color/material_slider_halo_color.xml 77res/color/material_slider_inactive_tick_marks_color.xml 22res/color/material_slider_inactive_track_color.xml ))res/color/material_slider_thumb_color.xml 33res/color/material_timepicker_button_background.xml //res/color/material_timepicker_button_stroke.xml 22res/color/material_timepicker_clock_text_color.xml ++res/color/material_timepicker_clockface.xml 11res/color/material_timepicker_modebutton_tint.xml ((res/color/mtrl_btn_bg_color_selector.xml ##res/color/mtrl_btn_ripple_color.xml ,,res/color/mtrl_btn_stroke_color_selector.xml 11res/color/mtrl_btn_text_btn_bg_color_selector.xml ,,res/color/mtrl_btn_text_btn_ripple_color.xml **res/color/mtrl_btn_text_color_selector.xml --res/color/mtrl_calendar_item_stroke_color.xml **res/color/mtrl_calendar_selected_range.xml ''res/color/mtrl_card_view_foreground.xml ##res/color/mtrl_card_view_ripple.xml ((res/color/mtrl_chip_background_color.xml ''res/color/mtrl_chip_close_icon_tint.xml %%res/color/mtrl_chip_surface_color.xml ""res/color/mtrl_chip_text_color.xml //res/color/mtrl_choice_chip_background_color.xml ++res/color/mtrl_choice_chip_ripple_color.xml ))res/color/mtrl_choice_chip_text_color.xml res/color/mtrl_error.xml ((res/color/mtrl_fab_bg_color_selector.xml //res/color/mtrl_fab_icon_text_color_selector.xml ##res/color/mtrl_fab_ripple_color.xml **res/color/mtrl_filled_background_color.xml ##res/color/mtrl_filled_icon_tint.xml &&res/color/mtrl_filled_stroke_color.xml ''res/color/mtrl_indicator_text_color.xml 33res/color/mtrl_navigation_bar_colored_item_tint.xml 66res/color/mtrl_navigation_bar_colored_ripple_color.xml ++res/color/mtrl_navigation_bar_item_tint.xml ..res/color/mtrl_navigation_bar_ripple_color.xml 33res/color/mtrl_navigation_item_background_color.xml ,,res/color/mtrl_navigation_item_icon_tint.xml --res/color/mtrl_navigation_item_text_color.xml ::res/color/mtrl_on_primary_text_btn_text_color_selector.xml **res/color/mtrl_on_surface_ripple_color.xml %%res/color/mtrl_outlined_icon_tint.xml ((res/color/mtrl_outlined_stroke_color.xml **res/color/mtrl_popupmenu_overlay_color.xml ))res/color/mtrl_switch_thumb_icon_tint.xml $$res/color/mtrl_switch_thumb_tint.xml //res/color/mtrl_switch_track_decoration_tint.xml $$res/color/mtrl_switch_track_tint.xml ,,res/color/mtrl_tabs_colored_ripple_color.xml ++res/color/mtrl_tabs_icon_color_selector.xml 33res/color/mtrl_tabs_icon_color_selector_colored.xml 22res/color/mtrl_tabs_legacy_text_color_selector.xml $$res/color/mtrl_tabs_ripple_color.xml //res/color/mtrl_text_btn_text_color_selector.xml ((res/color/switch_thumb_material_dark.xml ))res/color/switch_thumb_material_light.xml
+ res/cp.xml
+ res/cs.xml
+ res/cw.xml
+ res/cy.xml
+ res/d2.xml
+ res/dC.xml
+ res/dO.xml
+ res/dQ.png
+ res/dS.xml
+ res/db.xml
+ res/df.xml res/df1.xml
+ res/dj.xml
+ res/ds.png
+ res/dw.xml res/dw1.xml
+ res/e0.xml
+ res/e1.xml
+ res/eA.xml
+ res/eD.xml
+ res/eF.xml
+ res/eH.xml res/eH1.xml
+ res/eK.xml res/eK1.xml
+ res/eM.xml res/eM1.xml
+ res/eQ.xml
+ res/eX.xml
+ res/eZ.xml
+ res/ec.xml
+ res/ej.xml
+ res/ek.xml
+ res/eq.xml
+ res/ex.xml
+ res/f0.xml
+ res/f6.xml
+ res/f7.xml
+ res/fD.xml
+ res/fG.xml
+ res/fP.xml
+ res/fW.xml
+ res/fY.xml
+ res/fb.png
+ res/fd.xml
+ res/fg.xml
+ res/fk.xml
+ res/fp.xml
+ res/fq.xml
+ res/fv.xml
+ res/g1.png
+ res/g2.png
+ res/g3.xml
+ res/g5.png
+ res/gC.xml
+ res/gD.xml
+ res/gG.xml
+ res/gP.xml
+ res/gQ.xml
+ res/ge.xml
+ res/gh.xml
+ res/h4.xml
+ res/h8.xml
+ res/hA.xml
+ res/hB.xml
+ res/hP.xml res/hP1.xml
+ res/hR.xml res/hR1.xml
+ res/hU.png
+ res/ha.xml
+ res/hb.xml
+ res/hc.xml
+ res/hk.xml
+ res/hq.xml
+ res/hu.xml
+ res/hv.xml
+ res/iI.xml
+ res/iN.xml
+ res/iQ.xml
+ res/iZ.xml res/iZ1.xml
+ res/il.jpg
+ res/j3.xml
+ res/j4.xml
+ res/j6.jpg
+ res/j7.xml
+ res/jK.ttf
+ res/jT.xml
+ res/jY.xml
+ res/je.xml
+ res/jj.xml
+ res/ju.xml
+ res/k0.xml res/k01.xml
+ res/k8.xml
+ res/k9.xml
+ res/kH.xml
+ res/kN.xml
+ res/kg.xml res/kg1.xml
+ res/kh.xml
+ res/kj.xml res/kj1.xml
+ res/kn.xml
+ res/kq.xml res/kq1.xml
+ res/ks.xml
+ res/ky.jpg
+ res/kz.xml
+ res/lJ.xml res/lJ1.xml
+ res/lN.xml
+ res/lR.xml
+ res/li.xml
+ res/lk.xml
+ res/lm.png
+ res/lm.xml res/lm1.xml
+ res/ls.xml
+ res/lv.xml res/lw.json
+ res/m9.xml
+ res/mA.xml
+ res/mI.xml res/mI1.xml
+ res/mJ.xml
+ res/mQ.xml
+ res/mU.xml
+ res/mW.xml
+ res/mx.xml
+ res/n5.xml
+ res/nD.xml
+ res/nI.png
+ res/nL.xml
+ res/nT.xml
+ res/nZ.png
+ res/nh.otf
+ res/nj.xml
+ res/nl.xml res/nl1.xml
+ res/nm.xml
+ res/no.xml
+ res/np.xml
+ res/nu.xml
+ res/nx.png
+ res/nz.xml
+ res/o1.xml
+ res/o2.xml
+ res/o3.xml
+ res/o5.xml
+ res/oC.xml
+ res/oP.xml
+ res/oR.xml
+ res/oY.xml
+ res/oa.xml res/oa1.xml
+ res/of.png
+ res/ok.xml
+ res/op.xml
+ res/ot.xml
+ res/oy.png
+ res/p0.xml res/p01.xml
+ res/p1.xml
+ res/p5.xml
+ res/pE.xml
+ res/pF.xml res/pF1.xml
+ res/pL.xml
+ res/pS.xml
+ res/pU.xml
+ res/pV.xml
+ res/pX.xml
+ res/pc.xml
+ res/pf.xml res/pf1.xml
+ res/pn.xml
+ res/po.xml
+ res/pw.xml
+ res/q5.png
+ res/q6.xml
+ res/q8.xml
+ res/qA.xml
+ res/qG.xml
+ res/qS.xml
+ res/qT.xml
+ res/qd.xml
+ res/qf.xml
+ res/qm.png
+ res/qt.xml
+ res/qx.xml
+ res/qz.xml
+ res/r0.xml
+ res/r2.xml
+ res/r9.xml
+ res/rD.xml
+ res/rI.xml res/rI1.xml
+ res/rL.xml res/rL1.xml
+ res/rM.xml
+ res/rT.xml res/rT1.xml
+ res/rW.xml
+ res/rY.xml
+ res/rd.xml
+ res/rk.png
+ res/rp.xml
+ res/rx.xml
+ res/ry.jpg
+ res/ry.xml
+ res/rz.png
+ res/s7.xml
+ res/sA.xml
+ res/sO.xml
+ res/sX.xml res/sj.json
+ res/sl.xml
+ res/sn.xml
+ res/t5.jpg
+ res/t8.xml
+ res/tI.xml
+ res/tL.xml
+ res/tS.xml
+ res/tW.png
+ res/ta.xml
+ res/tc.png
+ res/tc.xml
+ res/tp.xml
+ res/tz.xml
+ res/u0.xml
+ res/u9.xml
+ res/uD.xml
+ res/uE.png
+ res/uJ.xml
+ res/uK.xml res/uK1.xml res/uR1.xml
+ res/ua.xml
+ res/ud.xml
+ res/up.xml
+ res/ut.xml
+ res/uw.png
+ res/v3.xml
+ res/v9.xml
+ res/vG.xml
+ res/vH.xml
+ res/vJ.xml
+ res/vL.xml
+ res/vR.xml
+ res/vT.xml
+ res/vW.xml
+ res/va.png
+ res/vb.png
+ res/vd.xml res/vd1.xml
+ res/ve.xml
+ res/vf.xml
+ res/vh.xml res/vh1.xml
+ res/vl.xml
+ res/vn.xml
+ res/vq.xml res/vq1.xml
+ res/vu.xml
+ res/w9.xml
+ res/wB.xml
+ res/wC.xml
+ res/wP.xml
+ res/wj.xml
+ res/wn.jpg
+ res/wy.xml
+ res/x4.xml
+ res/xC.xml
+ res/xF.xml
+ res/xJ.xml
+ res/xK.xml
+ res/xN.png
+ res/xN.xml
+ res/xR.xml
+ res/xa.xml
+ res/xj.xml
+ res/xm.xml
+ res/xn.xml
+ res/xu.xml
+ res/xw.png
+ res/xx.xml
+ res/y3.xml
+ res/y9.xml
+ res/yB.png
+ res/yK.png
+ res/yS.xml
+ res/yT.xml
+ res/yU.xml
+ res/yV.xml
+ res/yX.png
+ res/ya.xml
+ res/yl.xml
+ res/yt.png
+ res/yv.xml
+ res/z5.xml
+ res/z8.png
+ res/z9.xml
+ res/zA.xml
+ res/zF.xml
+ res/zG.xml
+ res/zM.xml
+ res/zR.xml res/zR1.xml
+ res/zZ.xml
+ res/zc.xml
+ res/zf.xml
+ res/zj.xml
+ res/zp.xml
+ res/zq.xml
+ res/zu.png
+ res/MU.xml
+ res/WA.xml
+ res/n0.xml
+ res/7N.xml res/Fu1.xml res/GR1.xml 88res/color-night-v8/material_timepicker_button_stroke.xml 44res/color-night-v8/material_timepicker_clockface.xml ::res/color-night-v8/material_timepicker_modebutton_tint.xml <<res/color-v31/m3_dynamic_dark_default_color_primary_text.xml >>res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml 22res/color-v31/m3_dynamic_dark_highlighted_text.xml 11res/color-v31/m3_dynamic_dark_hint_foreground.xml ;;res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml 77res/color-v31/m3_dynamic_default_color_primary_text.xml 99res/color-v31/m3_dynamic_default_color_secondary_text.xml --res/color-v31/m3_dynamic_highlighted_text.xml ,,res/color-v31/m3_dynamic_hint_foreground.xml 66res/color-v31/m3_dynamic_primary_text_disable_only.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant12.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant17.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant22.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant24.xml 99res/color-v31/m3_ref_palette_dynamic_neutral_variant4.xml 99res/color-v31/m3_ref_palette_dynamic_neutral_variant6.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant87.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant92.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant94.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant96.xml ::res/color-v31/m3_ref_palette_dynamic_neutral_variant98.xml
+ res/a1.xml
+ res/uR.xml
+ res/xd.xml
+ res/0c.png
+ res/1d.png
+ res/1x.png
+ res/23.png
+ res/3Z.png
+ res/6z.png
+ res/7R.png
+ res/9x.png
+ res/BN.png
+ res/Ep.png
+ res/Ga.png
+ res/Gk.png
+ res/HQ.png
+ res/LU.png
+ res/MH.png
+ res/Mh.png
+ res/Mu.png
+ res/No.png
+ res/Nx.png
+ res/QK.png
+ res/V4.png res/Wa.9.png
+ res/Zy.png
+ res/bD.png
+ res/d7.png
+ res/do.png
+ res/fN.png
+ res/fR.png
+ res/gs.png
+ res/lP.png
+ res/my.png
+ res/o3.png
+ res/oF.png
+ res/oN.png
+ res/ob.png
+ res/rH.png
+ res/rp.png
+ res/wX.png res/0c.9.png
+ res/12.png
+ res/2d.png res/33.9.png
+ res/3a.png
+ res/47.png
+ res/4R.png
+ res/68.png
+ res/6Z.png
+ res/8P.png res/8h.9.png
+ res/BM.png
+ res/EH.png
+ res/EP.png
+ res/EU.png
+ res/Fm.png
+ res/GA.png
+ res/GM.png
+ res/Lq.png
+ res/M2.png
+ res/Mp.png res/Nk.9.png res/Nt.webp res/Pg.9.png
+ res/RL.png
+ res/Ro.png res/SV.9.png res/Su.9.png res/Tj.9.png res/UE.9.png
+ res/UP.png
+ res/VO.png res/W4.9.png
+ res/Wd.png
+ res/YD.png res/YG.9.png
+ res/Z7.png
+ res/aF.png
+ res/am.png res/d2.webp
+ res/d9.png
+ res/dP.png
+ res/eR.png
+ res/eo.png res/fM.9.png
+ res/gK.9.png
+ res/gc.png res/hZ.9.png res/i6.9.png
+ res/jd.png
+ res/mT.png
+ res/nY.png
+ res/pM.png
+ res/ph.png res/ps.9.png res/py.9.png
+ res/qp.png
+ res/s4.png
+ res/tS.png res/ut.9.png res/vL.9.png res/vz.9.png
+ res/xH.png
+ res/xM.png res/xR.9.png res/yg.9.png res/yw.webp
+ res/zE.png res/eT.9.png
+ res/0H.png
+ res/0n.png res/13.webp res/2K.9.png
+ res/2P.png
+ res/3E.png
+ res/4k.png res/5D.9.png res/5U1.png
+ res/5k.png
+ res/5t.png
+ res/6t.png res/7I.9.png
+ res/7i.png res/9X.9.png
+ res/9b.png res/9n.9.png res/Ag.9.png
+ res/B5.png res/BG.9.png
+ res/Cp.png
+ res/D7.png res/DL.9.png
+ res/Dn.png res/G2.9.png
+ res/H0.png
+ res/K5.png res/MO.webp
+ res/NP.png
+ res/OC.png
+ res/Od.png res/Pa.9.png
+ res/Qk.png
+ res/RV.png
+ res/Ra.png
+ res/S4.png res/SJ1.png
+ res/UH.png
+ res/V1.png
+ res/Wh.png
+ res/Wz.png res/Yw.9.png
+ res/Yy.png
+ res/ZI.png res/ZN.9.png res/bX.9.png
+ res/bv.png
+ res/dY.png res/ej.9.png res/ev.9.png res/fq.webp res/gt.9.png res/h7.9.png
+ res/h8.png
+ res/hE.png res/hh.9.png res/iR.9.png
+ res/ii.png
+ res/jI.png res/je.9.png
+ res/l9.png
+ res/lV.png
+ res/ln.png
+ res/ly.png
+ res/pY.png
+ res/pu.png
+ res/ql.png res/rj.9.png res/sA.9.png
+ res/sV.png res/sg.9.png res/tU.9.png
+ res/te.png
+ res/th.png
+ res/ui.png res/uj.9.png res/v4.9.png res/wN.9.png
+ res/wx.png
+ res/xu.png res/mm.9.png
+ res/0x.9.png res/1J.9.png res/1K1.png
+ res/1c.png
+ res/2S.png
+ res/35.png
+ res/3z.png res/42.9.png
+ res/5U.png
+ res/5c.png
+ res/5v.png res/65.9.png
+ res/6e.png
+ res/96.png res/9N.9.png res/9Q.webp res/AG.9.png res/BL.9.png
+ res/Bb.png res/CC1.png res/CK.9.png
+ res/CQ.png
+ res/Ei.png
+ res/Fx.png
+ res/HX.png res/IX.9.png
+ res/J1.png res/JJ.9.png res/KH.9.png
+ res/MW.png res/Ma.9.png res/Mq1.png
+ res/NW.png res/NZ.9.png res/QJ.9.png
+ res/Th.png
+ res/V5.png
+ res/Vv.png
+ res/Wr.png
+ res/Yp.png res/Yt.9.png
+ res/aU.9.png
+ res/ar.png
+ res/d3.png
+ res/dW.png res/g-1.png
+ res/hN.png
+ res/hl.png
+ res/iO.png
+ res/iQ.png res/io.9.png res/jS.9.png
+ res/jS1.9.png res/kJ.9.png res/lP.9.png
+ res/m0.png
+ res/mc.png
+ res/np.png
+ res/qU.png res/qs.webp
+ res/tK.png
+ res/tV.png res/tZ.9.png
+ res/tj.png res/u5.webp
+ res/uG.png res/uL.9.png
+ res/ua.png
+ res/uh.png
+ res/vM.png res/xa.9.png res/yH.9.png
+ res/ya.png
+ res/zC.png res/z9.9.png
+ res/1I.9.png
+ res/1K.png res/1e.9.png
+ res/3u.9.png
+ res/49.png
+ res/4F.png
+ res/4N.png res/62.9.png
+ res/6X.png res/6j.9.png
+ res/8N.png
+ res/9z.png
+ res/AI.png
+ res/Ao.png
+ res/Av.png
+ res/C6.png res/EA.9.png
+ res/Eb.png
+ res/F4.png
+ res/FW.png res/GK1.png
+ res/Gf.png
+ res/IV.png
+ res/Ir.png
+ res/JQ.png
+ res/JS.png res/Li.9.png
+ res/Mq.png
+ res/My.png
+ res/NG.png res/No.9.png
+ res/SJ.png
+ res/SY.png res/Sn.webp
+ res/UO.png
+ res/UR.png
+ res/W5.png
+ res/Wp.png res/X3.9.png res/X4.9.png res/Y7.9.png
+ res/YF.png
+ res/Z8.png
+ res/aH.png
+ res/bA.png res/d5.9.png
+ res/eO.png
+ res/gX.png res/gZ.9.png res/gj.9.png
+ res/hQ.png res/iE.webp
+ res/jW.png res/j_.webp
+ res/jt.png
+ res/kp.png res/nI.9.png
+ res/nf.png
+ res/o1.png res/o9.9.png res/op.9.png res/qD.9.png
+ res/s0.png res/s3.9.png res/uu.9.png res/x3.9.png
+ res/yS.png res/yY.9.png
+ res/zN.png res/zV.9.png res/7o.9.png res/-6.webp
+ res/121.png
+ res/1W.png
+ res/4v.png
+ res/50.png res/5c.webp
+ res/6G.png res/7C.9.png
+ res/7E.png
+ res/7o.png
+ res/8L.png
+ res/8h.png res/EU1.png
+ res/Fr.png res/Gt.9.png
+ res/KM.png
+ res/Kd.png res/MF.9.png
+ res/MQ.png res/NA.9.png
+ res/Pb.png
+ res/Ur.png
+ res/WB.png
+ res/dt.png
+ res/dv.png
+ res/eC.png
+ res/fz.png
+ res/hu.png
+ res/j4.png
+ res/pg.png
+ res/pk.png res/sK.webp
+ res/tG.png
+ res/u3.png
+ res/vu.png
+ res/yF.png res/wL.9.png
+ res/0K.xml
+ res/77.xml
+ res/BW.xml
+ res/Ce.xml res/DG1.xml
+ res/Fg.xml
+ res/Fr.xml
+ res/G0.xml
+ res/GC.xml
+ res/H4.xml
+ res/Ja.xml
+ res/N4.xml
+ res/NH.xml
+ res/Nn.xml
+ res/O5.xml
+ res/P8.xml
+ res/TV.xml
+ res/UH.xml
+ res/Ui.xml res/WV1.xml
+ res/a9.xml
+ res/gM.xml
+ res/hM.xml
+ res/he.xml
+ res/io.xml
+ res/kD.xml
+ res/q2.xml res/r21.xml
+ res/rm.xml
+ res/t6.xml res/ta1.xml
+ res/um.xml
+ res/zb.xml  Not Applicable %1$.2f Mbps CC%1$s is having trouble with Google Play services. Please try again. 66%1$s won't run unless you update Google Play services. JJ%1$s won't run without Google Play services, which are currently updating. PP%1$s won't run without Google Play services, which are missing from your device. TT%1$s won't run without Google Play services, which are not supported by your device. 77%1$s won't work unless you enable Google Play services.
+ %d new notification %d new notificationsâ€™ t switch off the Ignition key during the flashing.
+â€™ t switch off the Engine kill switch during the flashing.
+â€™ t press back button in tablet till completion of flashing process.
+  4. Battery voltage should be above 12 volts.
+  5. Diagnostic device(Samsung Tablet)charge should be above 30%
+  6. If any App crashes please contact 
+  Contact number : 1800 266 8871 1. Ensure the Kill Switch is ON during Neutral(N) Gear Learning.
+  2. Ensure the engine is running during Gear Learning (1st to 6th gear).
+ 5.1 surround sound 7.1 surround sound About Ride Scan Address Alternate Alternative Email ID **Android Application to diagnose TVS Bikes. Answer Are you sure want to exit?   Are you sure you want to logout? [[As location permission has not been granted, this app cannot scan for Bluetooth LE devices. Audio Auto BOSCH Barcode Scanner ??Barcode scanning library for Android, using ZXing for decoding. Bluetooth Bluetooth permission JJBluetooth permission is required by this App. Please grant in next dialog. ``Bluetooth permission was permanently denied. You have to enable permission "%s" in App settings. CHANGE ACCOUNT? CONNECTED CLUSTER Cancel Change Change Language Change to next month Change to previous month %%Character limit exceeded %1$d of %2$d Characters entered %1$d of %2$d Check ECU Communication Checked 22Chunk data chunk transferred... %1$d/%2$d for %3$s --Chunk data transferring... %1$d/%2$d for %3$s Clear query
+ Clear text Collapse Collapse the bottom sheet Collapsed
+ Commentary Connected Connected Cluster
+ Contact Us --Current mode: Repeat all. Toggle repeat mode. ..Current mode: Repeat none. Toggle repeat mode. --Current mode: Repeat one. Toggle repeat mode. Dealer Code Decline Description Dialog Icon Disable shuffle mode Disable subtitles 11Do not close the app until the flash is completed ##Do you want to change your account? Done Download Download completed Download failed Downloading Downloading File... Downloading HEX file Downloads Downloads paused Downloads waiting for WiFi Downloads waiting for network Drag down to stop the recording Drag handle ECU Flashing ECU Flashing completed ECU Info Status ECU Reset ECU Security Authentication Email ID Email link for VCI Update Tool Enable Enable Google Play services Enable shuffle mode Enable subtitles Engine Management System Enter 10 digit Mobile number Enter 4 digit PIN Enter 6 Digit OTP Enter @string/dealercode Enter Confirm VIN
+ Enter Data Enter Dealer code Enter Programming Session Enter VIN Enter Your Email ID Enter fullscreen Enter number of services Enter odometer 55Enter the email address associated
+ with your account. Erase Request for %1$s Error Error: invalid Exit Exit fullscreen Expand halfway Expand the bottom sheet Expanded Extended session sent Fast forward Fast forward %d second Fast forward %d seconds File size max has been reached. Flash File Name Fuel Pump
+ Fuel Pump ISG Function+ Get Google Play services HHGet help and support, troubleshoot your problem or get in touch with us. !!Google Play services availability Google Play services error Hang Up Hello blank fragment Hide additional settings Hide player controls If the update is not required this time, you can skip the VCI Upgrade now.But you are only allow to skip the upgrade only 5 times
+ Incoming call Install Instrument Cluster JourneyApps KEIHIN Live Data Recording Live Parameter Loading Location permission Login Login Email ID Logout NNM 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1 DDM0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16 DDM0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16 DDM1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16
+M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z
+ ))M13.4,15 11,15 11,17 13.4,17 21,17 21,15z //M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z DDM2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16 NNM2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z JJM2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z SSM23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z eeM23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z M3.27,4.27 L19.74,20.74 DDM4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16 >>M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16 Memory check for %1$s Model Mono   More than %1$d new notifications Name Navigate to current year %1$d Navigate to year %1$d Navigate up New notification JJNew version of Google Play services needed. It will update itself shortly. Next No DTC's Found   No Internet Connection Available None Normal Not checked 33One Time Password (OTP) has been sent to your Email \\One Time Password (OTP) has been sent to your Email ******@gmail.com, Please enter it below. Ongoing call
+ Open on phone 99PAIRING requested
+ -> Perform pairing steps. Connect again PICK PIN must contain 4 characters. Partially checked Pause ;;Place a barcode inside the viewfinder rectangle to scan it. Play Playback progress Previous Pricol + With Kill Switch Proceed Profile
+ RIDE Scan 2.0 Read DTCs Reading Battery Voltage Recording your screen Registration Remove %1$s Removing downloads Request Transfer Data for %1$s Resend Again
+ Resend Again.
+ Resend OTP Rewind Rewind %d second Rewind %d seconds Routine Control SEDEMAC SEDEMAC (Non-UDS ) SELECT ECU MANUFACTURER STANDARD CLUSTER Save Screening an incoming call Search Search Select AM or PM Select Booloader type
+ Select ECU Select IMAGE type Select Model Type Select Motorcycle Select Standard
+ Select VCI Select Variant
+Select the button below, and a link to the PC application will be emailed to your registered account email. Once you download the PC application, and plug your VCI in to the PC, Select the Perform VCI Update button.
+ Selected : Send Key for Authentication Send OTP Settings Share Log Shift+ Show Log Show additional settings Show dropdown menu
+ Show password Show player controls
+ Side Sheet Something went wrong TTSorry, the Android camera encountered a problem. You may need to restart the device. Speed Start %%Starting Chunk Data transfer for %1$s Starting flashing process Status: Stereo Stop Submit Submit query
+ Supplementary Surround sound Switch to Calendar view Switch to calendar input mode Switch to text input mode Switch to year view Switched to Calendar view Switched to year view System Monitoring TODO TVS Jupiter with CONTI PUMP Tablet IMEI No. TechPRO S.No Test Stamp Write TesterPresent Communication This app does not use location information, but scanning for Bluetooth LE devices requires this permission. Please grant in next dialog. Title
+ Toast message
+ Today %1$s Transfer exit for %1$s Unknown Unknown (%1$s) Update Update Google Play services VCI Firmware Updates Available! VR mode Variant coding Version Video
+ Video Library Voice search Welcome, Without Ride mode
+ Write Data Write Flash Date Write Sender Data ]]You are increasing the odometer reading.This cannot be reduced later.Do you want to continue? ZXing Android Embedded androidx.startup
+ apache_2_0 button button path circle circle_group EEcom.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior ;;com.google.android.material.bottomsheet.BottomSheetBehavior @@com.google.android.material.theme.MaterialComponentsViewInflater IIcom.google.android.material.transformation.FabTransformationScrimBehavior IIcom.google.android.material.transformation.FabTransformationSheetBehavior cubic-bezier(0, 0, 0.2, 1) cubic-bezier(0, 0, 1, 1)   cubic-bezier(0.0, 0.0, 0.2, 1.0)   cubic-bezier(0.0, 0.0, 1.0, 1.0) cubic-bezier(0.2, 0, 0, 1) cubic-bezier(0.4, 0, 1, 1)   cubic-bezier(0.4, 0.0, 0.2, 1.0)   cubic-bezier(0.4, 0.0, 1.0, 1.0) delete enter 55https://github.com/journeyapps/zxing-android-embedded https://journeyapps.com/ icon icon path null TTpath(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)
+ sans-serif sans-serif-light sans-serif-medium space true ab%1$s no es pot executar sense Serveis de Google Play, que no Ã© s compatible amb el teu dispositiu. 89%1$s no funcionarÃ   si no actives Serveis de Google Play. []%1$s no s'executarÃ   sense Serveis de Google Play, que s'estÃ   actualitzant en aquest moment. OR%1$s no s'executarÃ   si Serveis de Google Play no estÃ   instalÂ· lat al dispositiu. =>%1$s no s'executarÃ   si no actualitzes Serveis de Google Play.Ã©  problemes amb Serveis de Google Play. Torna-ho a provar.Â  notificacions novesÂ  notificaci ACTIVA Activa Activa Serveis de Google Play Activa el mode aleatori Activa els subtÃ­ tols ./Actual: no repeteixis. Commuta mode repetici -.Actual: repeteix tot. Commuta mode repetici ,-Actual: repeteix un. Commuta mode repetici
+ Actualitza !!Actualitza Serveis de Google Play Alternativa ""Amaga els controls del reproductor -.Amaga les opcions de configuraciÃ³  addicionals Ansa per arrossegar Anterior Atura
+ AutomÃ  tica AvanÃ  pidament AvanÃ  pidament %dÂ  segon AvanÃ  pidament %dÂ  segons Avui, dia %1$s Baixa Baixades SVCal una nova versiÃ³  de Serveis de Google Play. S'actualitzarÃ   automÃ  ticament aviat.
+ Cancel Canvia a l'any %1$d  Canvia a la visualitzaci &'Canvia a la visualitzaciÃ³  de calendari Canvia al mes anterior Canvia al mes seg 34Canvia al mode d'introducciÃ³  de dades del calendari $%Canvia al mode d'introducciÃ  cters introdu Cerca
+ Cerca per veu Cerca
+ Comentaris Complement
+ Configuraci D'acord DESACTIVA Desa Desactiva el mode aleatori Desactiva els subtÃ­ tols
+ Desconegut Desconegut (%1$s) Desmarcat Desplega el full inferior Desplega fins a la meitat ((Disponibilitat de serveis de Google Playâ€™ acord Entra a la pantalla completa Envia la consulta Error de Serveis de Google Play Error: no v Esborra el text Esborra la consulta Espai Icona del quadre de di
+ Les baixades estan en pausa %'Les baixades estan esperant una Wi %%Les baixades estan esperant una xarxa Marcat Marcat parcialment Mostra el menÃº  desplegable ##Mostra els controls del reproductor Mostra la contrasenya *+Mostra opcions de configuraciÃ³  addicionalsÃ© s de %1$dÂ  notificacions noves Navega cap amunt Navega fins a l'any actual %1$d No s'ha pogut baixar Notificaci Obre al telÃ© n Serveis de Google Play Panell lateral Penja
+ Posa en pausa ;;Poseu un codi de barres dins el rectangle per escanejar-lo. ProgrÃ© s de la reproducci Rebobina Rebobina %dÂ  segon Rebobina %dÂ  segons Rebutja Replega Replega el full inferior
+ Reprodueix Respon Retorn S'estan suprimint les baixadesÃ   carregantÃ   filtrant una trucada entrant %&S'ha canviat a la visualitzaci ,-S'ha canviat a la visualitzaciÃ³  de calendari S'ha completat la baixada ^`S'ha produÃ¯ t un problema amb la cÃ  mera de l'Android. Potser haureu de reiniciar el dispositiu. 13S'ha superat el lÃ­ mit de car Selecciona a. So envoltant So envoltant 5.1 So envoltant 7.1
+ SubtÃ­ tols Supr Suprimeix %1$s Surt de la pantalla completa Tabulador Trucada en curs Trucada entrant Velocitat udio RT%1$s fungerer ikke uden Google Play-tjenester, som ikke understÃ¸ ttes pÃ¥  din enhed. 89%1$s har problemer med Google Play-tjenester. Pr JL%1$s kan ikke kÃ¸ re uden Google Play-tjenester, som i Ã¸ jeblikket opdateres. AB%1$s kan ikke kÃ¸ re, medmindre du opdaterer Google Play-tjenester. %d ny notifikation %d nye notifikationer 7.1 surroundsound Afslut fuld sk Afspil Afspilningsstatus Afvis Aktiv
+ AktivÃ© r Bland AktivÃ© r Google Play-tjenester AktivÃ© r undertekster Alternativt spor Annuller
+ Automatisk VXBeklager, Android-kameraet er stÃ¥  et problem. Du skal muligvis genstarte enheden. Besvar Deaktiver Bland Deaktiver undertekster Delvist markeret Download mislykkedes Downloaden er udf
+ Downloader Downloads er sat pÃ¥  pause !#Downloads venter pÃ¥  Wi-Fi-netv ')Downloads venter pÃ¦ rksforbindelse GIDu har brugt %1$d tegn og dermed overskredet tegnbegrÃ¦ nsningen p !!Du har brugt %1$d ud af %2$d tegn @@Du skal aktivere Google Play-tjenester, for at %1$s kan fungere. hjDu skal bruge en ny version af Google Play-tjenester. Opdateringen gennemfÃ¸ res automatisk om et Ã¸ jeblik. ILDu skal installere Google Play-tjenester, fÃ¸ r %1$s kan kÃ¥  din enhed. Et indgÃ¥ ende opkald screenes Fane Fejl Fejl i Google Play-tjenester
+ Fejl: ugyldig Felt i siden
+ Fjern %1$s Fjerner downloads !!Flere end %1$d nye notifikationer %&Google Play-tjenesters tilgÃ¦ ngelighedÃ¥  til indevÃ¦ rende  Hastighed Hent Google Play-tjenesterÃ¥ ndtag
+ I dag %1$s IgangvÃ¦ rende opkald
+ Ikke markeret Ikon for dialogboks IndgÃ¥ ende opkald Indl Indsend forespÃ¸ rgsel
+ Indstillinger Ingen Installer
+ Kommentarspor Markeret Ny notifikation Opdater Opdater Google Play-tjenester 8:PlacÃ© r en stregkode inden i firkanten for at afl Ryd forespÃ¸ rgsel Ryd tekst Skift til forrige m %%Skift til input-tilstand for kalender ""Skift til input-tilstand for tekst Skift til kalendervisning Skift til n Skift til Ã¥ rsvisning Skiftede til kalendervisning Skiftede til Ã¥ rsvisning Skjul Skjul afspilningsknapper Skjul feltet i bunden Skjul yderligere indstillinger Spol %d sekund frem Spol %d sekund tilbage Spol %d sekunder frem Spol %d sekunder tilbage Spol frem Spol tilbage Supplerende spor
+ Surroundsound TalesÃ¸ gning *+Tilstand: Gentag alle. SlÃ¥  Gentag til/fra. *+Tilstand: Gentag ikke. SlÃ¥  Gentag til/fra. (*Tilstand: Gentag Ã¥  Gentag til/fra. Udvid feltet i bunden Udvid halvdelen Ukendt
+ Undertekster VR-tilstand Vis adgangskode Vis afspilningsknapper Vis rullemenuen Vis yderligere indstillingerÃ¦ lg AM eller PM mellemrum slet bn fuld skÃ¥  telefonen
+  Google Play  Google Play   Google Play   Google Play   Google Play  Google Play  Google Play  Google Play  Google Play  Google Play  Google Play  Google Play Google Play Google Play Google Play
+ Delete Enter *Google Play  ,Google Play )Google Play .tGoogle Play )Google Play ,Google Play
+  Google Play   Google Play   Google Play 
+  Google Play Services-  Google Play Services-  Google Play Services-  Google Play   Google Play Services-áƒ¡  Google Play Services- 1Google Play Services- #=Google Play Services- .Google Play Services- 'IGoogle Play services-
+  Google Play Services
+  Google Play Services-
+€Ç %1$s Google Play €¼ %1$s Google Play €¯ %1$s Google Play   Google Play   Google Play   Google Play 
+ 4Google Play  >Google Play €Ì Google Play  "HGoogle Play   BGoogle Play  >Google Play 
+€Ì Google Play €Ø Google Play  =Google Play  8|Google Play  %UGoogle Play  =Google Play  Google Play €À Google Play  .Google Play 
+  Google Play 
+ , Google Play 
+   %1$d av %2$d tegn er skrevet inn ?A%1$s fungerer ikke med mindre du slÃ¥  Google Play-tjenester. ;=%1$s har problemer med Google Play-tjenester. Pr VX%1$s kan ikke kjÃ¸ re uten Google Play-tjenester, som ikke er installert pÃ¥  enheten din. PR%1$s kan ikke kjÃ¸ re uten Google Play-tjenester, som ikke stÃ¸ ttes av enheten din.Ã¸ rer ikke med mindre du oppdaterer Google Play Tjenester. GI%1$s kjÃ¸ rer ikke uten Google Play-tjenester, som oppdateres akkurat n %d nye varsler %d nytt varsel 5.1 surround-lyd 7.1 surround-lyd Avbryt Avmerket Avslutt fullskjerm Avspillingsfremdrift Avvis Bytt til kalenderinndatamodus Bytt til kalendervisning Bytt til tekstinndatamodus Bytt til Ã¥ rsvisning Byttet til kalendervisning Byttet til Ã¥ rsvisning Delvis avmerket Dialogboksikon fgDu mÃ¥  installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund. Endre til forrige m Endre til neste m Feil
+ Feil: ugyldig Ferdig Filtrerer et innkommende anrop
+ Fjern teksten Fjerner nedlastinger Flere enn %1$d nye varsler Funksjon+ Google Play Tjenester-feil %%Google Play Tjenester-tilgjengelighetÃ¥  til dette Ã¥ ndtak
+ Ikke avmerket Innkommende anrop
+ Innstillinger Installer Google Play-tjenester Kommentarer Lagre Last ned
+ Laster inn
+ Laster ned Legg p ,,Modus: gjenta alle. Endre gjentakelsesmodus. --Modus: gjenta ingen. Endre gjentakelsesmodus. *+Modus: gjenta Ã© n. Endre gjentakelsesmodus. Naviger til  Nedlastingen er fullf Nedlastingen mislyktes Nedlastinger Nedlastinger er satt pÃ¥  pause '(Nedlastinger venter pÃ¥  Wi-FI-tilkobling !"Nedlastinger venter pÃ¥  nettverket Neste Nytt varsel Oppdater Oppdater Google Play-tjenesterÃ¥ ende samtale Se i fullskjerm
+ Sett pÃ¥  pause Sideark Skjul avspillingskontrollene Skjul feltet nederst Skjul flere innstillinger Slett sÃ¥  av modus for tilfeldig rekkefÃ¥  av underteksteneÃ¥  Google Play-tjenesterÃ¥  modus for tilfeldig rekkefÃ¥  undertekstene Spill av Spol %d sekund bakover Spol %d sekund fremover Spol %d sekunder bakover Spol %d sekunder fremover Spol forover Spol tilbake Stopp Surround-lyd Svar )+Tegngrensen er overskredet  Teksting Tilleggsspor Ukjent
+ VR-modus Velg AM eller PM Vis avspillingskontrollene Vis feltet nederst Vis flere innstillinger Vis halve feltet nederst
+ Vis passordet Vis rullegardinmenyen mellomrom slettÃ¥  telefonen 77Letakkan barcode di dalam kotak jendela untuk memindai. HHMaaf, kamera mengalami masalah. Anda mungkin perlu me-restart perangkat.
+  Google Play,   Google Play,   Google Play,   Google Play.  Google Play.
+  Google Play  Google Play
+  Google Play
+  Google Play  Google Play. 
+  Google Play.   Google Play
+ %1$s entfernen DD%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste. JJ%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal. HI%1$s wird nur ausgefÃ¼ hrt, wenn du die Google Play-Dienste aktualisierst.Â  Sekunde vorspulenÂ  Sekunde zurÃ¼ ckspulenÂ  Sekunden vorspulenÂ  Sekunden zurÃ¼ ckspulenÂ  neue BenachrichtigungÂ  neue Benachrichtigungen 0,25-fach 0,75-fach 1,25-fach 2-fach 5.1-Surround-Sound 7.1-Surround-Sound Abbrechen Ablehnen
+ Aktivieren Aktiviert
+ Aktualisieren Aktueller Anruf >?Aktueller Modus: alles wiederholen. Wiederholungsmodus Ã¤ ndern. DEAktueller Modus: einen Titel wiederholen. Wiederholungsmodus Ã¤ ndern. ?@Aktueller Modus: nichts wiederholen. Wiederholungsmodus Ã¤ ndern. Alternativer Track Anfrage senden Annehmen ""Ansicht am unteren Rand maximieren ""Ansicht am unteren Rand minimieren $$Auf Netzwerkverbindung wird gewartet Auf Smartphone Ã¶ ffnen !!Auf WLAN-Verbindung wird gewartet Auflegen Automatisch Beenden Dialogfeldsymbol Download abgeschlossen Download fehlgeschlagen Downloads pausiert Downloads werden entfernt Drop-down-MenÃ¼  anzeigen fhEine neue Version der Google Play-Dienste wird benÃ¶ tigt. Diese wird in KÃ¼ rze automatisch aktualisiert. Eingabetaste ""Eingegebene Zeichen: %1$d von %2$d Eingehender Anruf
+ Einstellungen Fehler **Fehler bei Zugriff auf Google Play-Dienste Fehler: ungÃ¼ ltig Fertig Filter fÃ¼ r eingehenden Anruf Funktionstaste Geschwindigkeit Google Play-Dienste aktivieren !!Google Play-Dienste aktualisieren   Google Play-Dienste installieren
+ Herunterladen
+ Heute %1$s $$In den Kalendereingabemodus wechseln   In den Texteingabemodus wechseln Installieren Jahresansicht wird angezeigt Kalenderansicht wird angezeigt
+ Kommentare LeertasteÃ¶ schen %&Mehr als %1$dÂ  neue Benachrichtigungen
+ Meta-Taste
+ Minimieren psMit der Android-Kamera ist leider ein Fehler aufgetreten. Es kÃ¶ nnte sein, dass Sie das GerÃ¤ t neu starten m Nach oben Neue Benachrichtigung Nicht aktiviert Ohne Passwort anzeigen Pausieren Player-Steuerelemente anzeigen   Player-Steuerelemente ausblenden 77Positionieren Sie den Barcode innerhalb des Rechteckes. Seitenblatt Speichern Sprachsuche Standard Strg Suchanfrage lÃ¶ schen Suche Suchen Surround-Sound Sym-Taste Teilweise aktiviert
+ Text lÃ¶ schen Umschalttaste Unbekannt Unbekannt (%1$s)
+ Untertitel Untertitel aktivieren Untertitel deaktivieren VR-ModusÃ¼ gbarkeit von Google Play-Diensten Vollbild aktivieren Vollbild beenden %&Vormittags oder Nachmittags auswÃ¤ hlen Vorspulen Weiter Wiedergabefortschritt Wiedergeben Wird geladen Wird heruntergeladen ,.ZeichenbeschrÃ¤ nkung Ã¼ berschritten: %1$d/%2$d Ziehpunkt Zufallsmix aktivieren Zufallsmix deaktivieren Zum JahrÂ  %1$d wechseln  !Zum aktuellen JahrÂ  %1$d wechselnÃ¤ chsten Monat wechseln Zum vorherigen Monat wechselnÃ¤ lfte maximieren Zur Jahresansicht wechseln Zur Kalenderansicht wechseln jlZur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf deinem GerÃ¤ t nicht unterstÃ¼ tzt werden. [[Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden. lmZur Nutzung von %1$s sind die Google Play-Dienste erforderlich, die auf deinem GerÃ¤ t nicht installiert sind.
+Ã¼ ckspulen
+ ZusatzinhalteÃ¤ tzliche Einstellungen ausblendenÃ¤ tzliche Einstellungen einblenden
+€Á %1$s Google Play services   Google Play services €Î %1$s Google Play services   Google Play services   Google Play services   Google Play 
+ "NCalendar  7Google Play €³ Google Play  #MGoogle Play  %SGoogle Play  $PGoogle Play  :Google Play €¾ Google Play 
+€• %1$s Google Play €¼ %1$s Google Play €“ %1$s Google Play €© %1$s Google Play  +Google Play  (Google Play  "JGoogle Play  4Google Play   FGoogle Play 
+  Google Play 
+  Google Play   Google Play 
+ HH%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer. PP%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie. DD%1$s sal nie sonder Google Play Dienste werk nie, wat tans opdateer. <<%1$s sal nie werk nie tensy jy Google Play Dienste aktiveer. <<%1$s sal nie werk nie tensy jy Google Play Dienste opdateer. \\%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie. %d nuwe kennisgewing %d nuwe kennisgewings 5.1-omringklank 7.1-omringklank
+ Aanvullend Aflaai Aflaai is voltooi Aflaaie Aflaaie is onderbreek Aflaaie wag tans vir netwerk Aflaaie wag tans vir wi-fi Afwisselend Aktiveer Aktiveer Google Play Dienste Aktiveer onderskrifte Aktiveer skommelmodus Antwoord &&Beskikbaarheid van Google Play Dienste Dateer Google Play Dienste op Dateer op Deaktiveer onderskrifte Deaktiveer skommelmodus Dialoogikoon Dien navraag in Fout Fout: ongeldig Funksie+ Gaan na huidige jaar %1$d Gaan na jaar %1$d Gaan na volskerm Gaan op Gedeeltelik gemerk Geen Gemerk Google Play Services-fout 22Huidige modus: herhaal alles. Wissel herhaalmodus. 00Huidige modus: herhaal een. Wissel herhaalmodus. 11Huidige modus: herhaal niks. Wissel herhaalmodus. Inkomende oproep
+ Installeer Instellings
+ Kanselleer Kantblad $$Karakterlimiet oorskry %1$d van %2$d !!Karakters ingevoer: %1$d van %2$d Keur tans 'n inkomende oproep Kies vm. of nm. Kieslys+ Klaar
+ Kommentaar Kon nie aflaai nie Kry Google Play Dienste Laai tans Laai tans af Lui af Maak oop op foon Meer as %1$d nuwe kennisgewings Nie gemerk nie Normaal Nuwe kennisgewing PPNuwe weergawe van Google Play Dienste is nodig. Dit sal binnekort self opdateer. Omringklank Onbekend Onbekend (%1$s)
+ Onderbreek Onderskrifte Oorgeskakel na jaaraansig Oorgeskakel na kalenderaansig Oortjie Oproep aan die gang Oudio Outo Simbool+ Skakel oor na jaaraansig Skakel oor na kalenderaansig !!Skakel oor na kalenderinvoermodus Skakel oor na teksinvoermodus Sleephandvatsel Soek Speel Spoed Spoel %d sekonde terug   Spoel %d sekonde vinnig vorentoe Spoel %d sekondes terug !!Spoel %d sekondes vinnig vorentoe Spoel terug Spoel vorentoe Stemsoektog Stoor Terugspeelvordering Vandag %1$s Vee navraag uit Vee teks uit Verander na volgende maand Verander na vorige maand Verlaat volskerm Versteek bykomende instellings Versteek spelerkontroles
+ Verwyder %1$s Verwyder tans aflaaie Volgende Vorige Vou die onderste blad in Vou die onderste blad uit Vou halfpad uit Vou in Wys af Wys aftrekkieslys Wys bykomende instellings Wys spelerkontroles Wys wagwoord
+ spasiebalk
+  Google Play.   Google Play.  Google Play.   Google Play.  Google Play   Google Play 
+  Google Play
+  Google Play
+  Google Play
+  Google Play
+  Google Play
+  Google Play. 
+  Google Play  Google Play  Google Play   Google Play   Google Play   Google Play 
+  Bottom Sheet
+  Google Play  Google Play  Google Play   Google Play  Bottom Sheet
+  Google Play  Google Play
+Â  merkkiÃ¤  kirjoitettu CC%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue. MS%1$s ei toimi ilman Google Play Palveluita, joita pÃ¤ ivitet II%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi. 9<%1$s ei toimi, ellet ota Google Play Palveluita k 46%1$s ei toimi, ellet pÃ¤ ivitÃ¤  Google Play Palveluita.Â  uusi ilmoitusÂ  uutta ilmoitusta 5.1-surround- 7.1-surround- Asenna Asenna Google Play Palvelut 24Aseta viivakoodi neliÃ¤ lle skannataksesi sen. Asetukset
+ Automaattinen Avaa puhelimessa Edellinen
+ Ei valittu !!Google Play Palveluiden saatavuus Haku Haku Kelaa eteenp Kelaa taaksep KommenttiraitaÃ¤ ynnissÃ¤  oleva puhelu Laajenna alapaneeli Laajenna puolivÃ¤ liin Ladataan Lataa !"Lataukse odottavat verkkoyhteytt Lataukset Lataukset keskeytetty "#Lataukset odottavat Wi-Fi-yhteytt Lataus epÃ¤ onnistui
+ Lataus valmisÃ¤ materiaali Lopeta
+ Lopeta puhelu
+Ã¤  kysely Merkkiraja ylitetty: %1$d/%2$d Nopeus NormaaliÃ¤  avattava valikkoÃ¤  soittimen s timet Osittain valittu !$Ota Google Play Palvelut k Ota satunnaistoisto k Ota tekstitykset k Peru Piilota lisÃ¤ asetukset Poista %1$s "Poista satunnaistoisto k Poista tekstitykset k Poistetaan latauksia PuhehakuÃ¤ ivitÃ¤  Google Play Palvelut Saapuva puhelu Seulotaan saapuvaa puhelua Seuraava Siirry eteenpÃ¤ in %d sekunti Siirry eteenpÃ¤ in %d sekuntia Siirry koko nÃ¶ n tilaan Siirry kuluvaan vuoteen: %1$d Siirry taaksepÃ¤ in %d sekunti Siirry taaksepÃ¤ in %d sekuntia Siirry vuoteen %1$d Siirry yl
+ Sivupalkki OPSovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. YritÃ¤  uudelleen. Sulje koko nÃ¶ n tila
+ Surround- Tallenna Tekstitykset Tiivist TiivistÃ¤  alapaneeli Tila: Toista kaikki. Vaihda. Tila: Toista yksi. Vaihda.Ã¤  toista. Vaihda. Toista Toiston edistyminen
+ Tuntematon Tuntematon (%1$s) TyhjennÃ¤  kysely TyhjennÃ¤  teksti ABUusi Google Play Palveluiden versio tarvitaan. Se pÃ¤ ivittyy pian.
+ Uusi ilmoitus VR-tila Vaihda edelliseen kuukauteen Vaihda kalenterin Vaihda seuraavaan kuukauteen  Vaihda syÃ¶ tavaksi kalenteri Vaihda vuosin  Vaihdettiin kalenterin Vaihdettiin vuosin Vaihto+ Vaihtoehtoinen Valikko+ Valintaikkunan kuvake djValitettavasti Androidin kameran toimiinta hÃ¤ iriintyi. Joudut ehk n laitteen uudelleen. Valitse AP tai IP Valitse syÃ¶ tavaksi teksti Valittu Valmis Vastaa Vetokahva Virhe Virhe Google Play -palveluissa Virhe: ei kelpaa
+Ã¤ lilehti Yli %1$d uutta ilmoitusta
+  Google Play   Google Play   Google Play   Google Play   Google Play 
+ AGoogle Play  ;Google Play  8Google Play €µ Google Play   BGoogle Play  #KGoogle Play 
+ , Android 
+  Google Play 
+  Google Play 
+ %Google Play  !GGoogle Play €ƒ Google Play  /Google Play  2Google Play €Ó Google Play  !CGoogle Play   Google Play  , Google Play   Google Play 
+ , Google Play 
+á»¥  Google Play. Thiá»§ a Google Play. Dá»§ a Google Play. Thiá»¥  Google Play.á»§ a Google Play.á»¥  Google Play. Há»§ a Google Play
+  xem theo L  xem theo náº¿ p theo Chuy
+á»§ a Google Playá»¥  Google Play. Dá»§ a Google Play
+ Di chuy
+Ã´ m nay %1$sá»§ a Google Playáº¡ m vi cung cá»¥  Google Play
+áº¿ p theo
+ Trang b Tua nhanh %d gi
+áº­ p %1$d trong s
+  Google Play   Google Play  -Calendar  FuGoogle Play  )Google Play  <bGoogle Play  1Google Play  9\Google Play  +Google Play €  Google Play   3Google Play  (CGoogle Play 
+  Google Play 
+  Google Play.   Google Play.  Google Play.  Google Play   Google Play   Google Play, 
+  Google Play
+  Google Play  Google Play
+  Google Play
+  Google Play.   Google Play
+Ã©  upozorneniaÃ©  upozornenieÃ½ ch upozornen
+ Aktualizova  "AktualizÃ¡ cia sluÅ¾ ieb Google Play 4:AktuÃ¡ lny reÅ¾ im: NeopakovaÅ¾ im opakovania 8>AktuÃ¡ lny reÅ¾ im: OpakovaÅ¥  jedno. PrepnÅ¾ im opakovania 9@AktuÃ¡ lny reÅ¾ im: OpakovaÅ¡ etky. PrepnÅ¾ im opakovania AlternatÃ­ vna stopa @EAplikÃ¡ cia %1$s bude fungovaÅ¾  po povolenÅ¾ ieb Google Play. DIAplikÃ¡ cia %1$s mÃ¡  problÃ© my so sluÅ¾ bami Google Play. SkÃº ste to znova. IPAplikÃ¡ ciu %1$s bude moÅ¾  po aktualizÃ¡ cii sluÅ¾ ieb Google Play. _fAplikÃ¡ ciu %1$s nebude moÅ¾ ieb Google Play, ktorÅ¡ e zariadenie nepodporuje. Automaticky 27Bol prekroÄ  et znakov (%1$d z Chyba Chyba sluÅ¾ ieb Google Play Chyba: neplatn Dnes %1$s DoplnkovÃ¡  stopa  DostupnosÅ¾ ieb Google Play HlasovÃ¡ vanie Hotovo Ikona dial
+Å¾ by Google Play Koment V]Na spustenie aplikÃ¡ cie %1$s sa vyÅ¾ adujÅ¾ by Google Play, ktorÃ©  na zariaden \cNa spustenie aplikÃ¡ cie %1$s sa vyÅ¾ adujÅ¾ by Google Play, ktorÃ©  sa momentÃ¡ lne aktualizuj
+ Nastavenia
+ tava sa Nepodarilo sa stiahnu
+ NezaÄ  iarknutÃ©  upozornenie
+ Odmietnu
+ OdoslaÅ¥  dopyt OdstraÅˆ uje sa stiahnutÃ½  obsah Odstr ^eOspravedlÅˆ ujeme sa, fotoaparÃ¡ t narazil na problÅ¾ no bude potrebnÅ¡ tartovaÅ¥  zariadenie. OtvoriÅ¾ by Google Play PovoliÅ¥  titulky
+ Pozastavi PrebiehajÃº ci hovor PredchÃ¡ dzaj PredchÃ¡ dzajÃº ci mesiac PrehraÅ¾ imu celej obrazovky PrejsÃ¡ lny rok %1$d PrejsÅ¥  na rok %1$d
+ PrejsÅ¥  nahor  "PrepnutÃ©  na zobrazenie kalend PrepnutÃ©  na zobrazenie rokov  na kalendÅ¾ im vstupu #Prepn  na textovÅ¾ im vstupu "Prepn  na zobrazenie kalend Prepn  na zobrazenie rokov
+ PresÃº vadlo PretoÅ¥  dopredu !PretoÅ¥  dopredu oÂ  sekundu !PretoÅ¥  dopredu oÂ  sekundy !PretoÅ¥  dopredu o
+Â  sekundu  PretoÂ  sekundy  Preto  "Preveruje sa prichÃ¡ dzajÃº ci hovor PrichÃ¡ dzajÃº ci hovor Priebeh prehrÃ¡ vania Priestorov PriestorovÃ½  zvuk 5.1 PriestorovÃ½  zvuk 7.1 Prija RozbaliÅ¥  napoly
+ SkrytÃ©  titulkyÃ¡ dacie prvky prehrÅ¡ ie nastavenia
+ StiahnutÅ¥ ahovanie bolo dokonÅ¥ ahovanie je pozastaven
+Å¥ ahuje sa
+ TabulÅ¾ im celej obrazovky CLUmiestnite Ä  iarovÃº tra obd nika h iku pre skenovanieÃ½ ch upozornen Vyberte AM alebo PM
+ VymazaÅ¥  dopyt
+ VymazaÃ¡ hodnÃ© ho prehrÃ¡ vania ZbVyÅ¾ aduje sa novÃ¡  verzia sluÅ¾ ieb Google Play. AktualizujÃº  sa automaticky vÂ  najbli ZadanÃ©  znaky: %1$d zÃ¡ hodnÃ© ho prehrÃ¡ vania Zastavi
+ ZobraziÅ¥  heslo #'ZobraziÃ¡ dacie prvky prehr ZobraziÅ¥  rozbaÄ¾ ovaciu ponuku ZobraziÅ¡ ie nastavenia Zvuk
+ medzern
+  Google Play,   Google Play,   Google Play,   Google Play.  Google Play.  Google Play
+  Google Play
+  Google Play  Google Play.   Google Play.   Google Play
+  Google Play
+  Google Play. 
+  Google Play  Google Play  Google Play
+  Google Play.   Google Play,   Google Play,   Google Play.  Google Play,   Google Play.  Google Play
+  Google Play
+ CD%1$s non funcionarÃ¡  a menos que actives os servizos de Google Play. HI%1$s non se executarÃ¡  a menos que actualices os servizos de Google Play. YZ%1$s non se executarÃ¡  se o teu dispositivo non ten instalados os servizos de Google Play. ab%1$s non se executarÃ¡  sen os servizos de Google Play, que non son compatibles co teu dispositivo. ^`%1$s non se executarÃ¡  sen os servizos de Google Play, que se estÃ¡ n actualizando neste momento. ?@%1$s ten problemas cos servizos de Google Play. TÃ© ntao de novo. %d notificaciÃ³ n nova %d notificaciÃ³ ns novas ACTIVADO Abrir no telÃ© fono Acceder a pantalla completa Aceptar Activa os subtÃ­ tulos Activar %&Activar modo de reproduciÃ³ n aleatoria Activar servizos de Google Play
+ Actualizar %%Actualizar os servizos de Google Play &'As descargas estÃ¡ n agardando pola rede &'As descargas estÃ¡ n agardando pola wifi As descargas estÃ¡ n en pausa
+ Avance rÃ¡ pido Avanza rapidamente %d segundo Avanza rapidamente %d segundos Borra a consulta Borra texto
+ Busca por voz Busca Cambiar ao mes anterior Cambiar ao mes seguinte ((Cambiar ao modo de entrada de calendario '(Cambiar ao modo de introduciÃ³ n de texto Cambiar Ã¡  vista de ano Cambiar Ã¡  vista de calendario Cambiouse Ã¡  vista de ano  Cambiouse Ã¡  vista de calendario Cancelar Cargando Chamada en curso Chamada entrante Colgar Comentarios Complementaria Completouse a descarga
+ Configuraci Contestar Contrae Contrae o panel inferior Controlador de arrastre DESACTIVADO Desactiva os subtÃ­ tulos ()Desactivar modo de reproduciÃ³ n aleatoria Descargando Descargar !!Descargar servizos de Google Play Descargas DescoÃ± ecido Desco Desprega o panel inferior Despregar ata a metade DeterÃ± ibilidade dos servizos de PlayÃ­ a a consulta   Erro nos servizos de Google Play Erro: Non vÃ¡ lida Feito Filtrando chamada entrante
+ Folla lateral
+ Funci Icona de cadro de diÃ¡ logo Instalar &'IntroducÃ­ ronse %1$d caracteres de %2$d 7:IntroducÃ­ ronse %1$d caracteres, pero o l Ir ao ano %1$d Ir ao ano actual (%1$d) Marcouse Marcouse parcialmente Modo RV 67Modo actual: Non repetir. Alternar modo de repetici BCModo actual: Repetir todas as pistas. Alternar modo de repetici =>Modo actual: Repetir unha pista. Alternar modo de repetici  !Mostra a configuraciÃ³ n adicional Mostra o contrasinal Mostra o menÃº  despregable Mostrar controis do reprodutorÃ¡ is de %1$d notificaciÃ³ ns novas NPNecesÃ­ tase a nova versiÃ³ n dos servizos de Google Play. Actualizarase en breve. Ningunha pista
+ Non se marcou NotificaciÃ³ n nova  !Oculta a configuraciÃ³ n adicional Ocultar controis do reprodutor Pausar Pestana Pista automÃ¡ tica Produciuse un erro Produciuse un erro na descarga Progreso da reproduci
+ Quita %1$s Quitando descargas Realiza buscas Rebobina %d segundo Rebobina %d segundos
+ Reproducir
+ Retroceder RexeitarÃ­ r de pantalla completa Seguinte Seleccionar a.m. ou p.m. Son envolvente Son envolvente 5.1 Son envolvente 7.1
+ SubtÃ­ tulos Vai cara arriba
+ Velocidade eliminar espazo intro (Google Play  =Google Play €è Google Play  Google Play €Û Google Play €Û Google Play  &XGoogle Play  4Google Play  )aGoogle Play 
+  Google Play   Google Play 
+  Google Play 
+ %1$d van %2$d tekens opgegeven aa%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt. \]%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geÃ¼ pdatet. hh%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat. HH%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet. HH%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw. %1$s verwijderen 77%1$s werkt niet, tenzij je Google Play-services aanzet. %d nieuwe melding %d nieuwe meldingen %d seconde terugspoelen %d seconde vooruitspoelen %d seconden terugspoelen %d seconden vooruitspoelen 5.1 surroundgeluid 7.1 surroundgeluid
+ Aangevinkt Aanvullende instellingen tonen ""Aanvullende instellingen verbergen Aanzetten Actief gesprek Afspeelbediening tonen Afspeelbediening verbergen Afspeelvoortgang Afspelen Alternatief Annuleren Beantwoorden ((Beschikbaarheid van Google Play-services
+ Commentaar
+ Downloaden Downloaden mislukt Downloaden voltooid Downloads gepauzeerd Downloads verwijderen Downloads wachten op netwerk Downloads wachten op wifi Dropdownmenu tonen Een inkomend gesprek screenen llEr is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd. Fout met Google Play-services Functie + Gedeeltelijk aangevinkt Gesproken zoekopdracht Google Play-services aanzetten Google Play-services ophalen Google Play-services updaten Half uitvouwen Handgreep voor slepen Het blad onderaan samenvouwen Het blad onderaan uitvouwen 22Huidige modus: 1 herhalen. Herhaalmodus schakelen. 66Huidige modus: Alles herhalen. Herhaalmodus schakelen. 66Huidige modus: Niets herhalen. Herhaalmodus schakelen. Icoon voor dialoogvenster Inkomend gesprek Installeren Instellingen Laden Meer dan %1$d nieuwe meldingen Naar het huidige jaar %1$d gaan Naar jaar %1$d navigeren Naar volgende maand gaan Naar vorige maand gaan Niet aangevinkt Nieuwe melding Omhoog navigeren Ondertiteling aanzetten Ondertiteling uitzetten Openen op telefoon Ophangen Opslaan   Overgeschakeld naar jaarweergave $$Overgeschakeld naar kalenderweergave %%Overschakelen naar agenda-invoermodus !!Overschakelen naar agendaweergave Overschakelen naar jaarweergave ##Overschakelen naar tekstinvoermodus Pauzeren ::Plaats een barcode binnen de rechthoek om deze te scannen. Samenvouwen Selecteer a.m. of p.m. Shuffle aanzetten Shuffle uitzetten Snelheid [[Sorry, er is een probleem met de Android-camera. Probeer je telefoon opnieuw op te starten. Stoppen Tabblad ,,Tekenlimiet heeft %1$d van %2$d overschreden Tekst wissen Terugspoelen Updaten Vandaag %1$s Volledig scherm openen Volledig scherm sluiten Vooruitspoelen Wachtwoord tonen Weigeren Zijblad Zoeken Zoeken Zoekopdracht verzenden Zoekopdracht wissen spatie EH%1$s ma problem z dostÄ™ pem do UsÅ‚ ug Google Play. SprÃ³ buj jeszcze raz. ai%1$s nie bÄ™ dzie dziaÅ‚ ug Google Play, ktÄ…  obecnie obsÅ‚ ugiwane przez urzÄ… dzenie. QW%1$s nie bÄ™ dzie dziaÅ› li nie zainstalujesz na urzÄ… dzeniu UsÅ‚ ug Google Play.Â  nowe powiadomieniaÂ  nowe powiadomienieÂ  nowego powiadomieniaÂ  nowych powiadomie
+ Aktualizuj Anuluj X^Aplikacja %1$s nie bÄ™ dzie dziaÅ‚ ug Google Play, ktÄ…  obecnie aktualizowane. HOAplikacja %1$s nie bÄ™ dzie dzia czysz UsÅ‚ ug Google Play. NSAplikacja %1$s nie bÄ™ dzie dziaÅ› li nie zaktualizujesz UsÅ‚ ug Google Play.
+ Arkusz boczny
+ Automatycznie cy tryb: Nie powtarzaj. Prze cz na tryb powtarzania. cy tryb: PowtÃ³ rz jeden. Prze cz na tryb powtarzania. cy tryb: PowtÃ³ rz wszystkie. Prze cz na tryb powtarzania. BrakÅ‚ ug Google Play d: nieprawid ciowo zaznaczonoÅ‚ ug Google Play Dzisiaj %1$sÄ™ k przestrzenny  $Filtruj czenie przychodz
+ Funkcyjny+ Gotowe
+ Ikona okna Karta Komentarz )*Liczba nowych powiadomieÅ„  przekracza %1$d MateriaÅ‚ y dodatkowe Napisy Nast Nie zaznaczono Nieznane (%1$s) Nieznany Normalna Nowe powiadomienie Odbierz OdrzuÃ³ rz na telefonieÅ‚ ny ekran Pobieram !"Pobierane pliki oczekujÄ…  na Wi-Fi  "Pobierane pliki oczekuj
+ Pobieranie Pobierz Pobierz UsÅ‚ ugi Google PlayÅ¼  elementy sterujÄ… ce odtwarzacza
+ Poka
+ PokaÅ¼  ustawienia dodatkowe Poprzedni PostÄ™ p odtwarzania czenie przychodz cego roku %1$d Przejd
+ '*Przekroczono limit znak hmPrzepraszamy, aparat Android napotkaÅ‚  problem. MoÅ¼ e wystÄ‡  potrzeba ponownego uruchomienia urzÄ… dzenia. PrzewiÅ„  do przodu  PrzewiÅ„  do przodu oÂ  sekund !PrzewiÅ„  do przodu oÂ  sekundy "PrzewiÅ„  do przodu oÂ  sekund  PrzewiÂ  sekundy !Przewi Prze cz na widok kalendarza Prze cz na widok roku czono na widok Kalendarza Prze czono na widok roku Rozwi RozwiÅ„  plansz !#System dÄ™ ku przestrzennego 5.1 !#System dÄ™ ku przestrzennego 7.1 Szukaj Szukaj
+ Trwa po czenie Tryb VR Uchwyt do przeciÄ… gania $%Ukryj elementy sterujÄ… ce odtwarzacza Ukryj ustawienia dodatkowe 8<Umie  kod paskowy w prostokÄ… cie wizjera aby zeskanowa
+ Ustawienia Usuwam pobrane
+ Wersja alternatywna Wideo Wstrzymaj Wstrzymano pobieranie (*Wybierz: przed poÅ‚ udniem czy po poÅ‚ udniu
+ Wyczy  tekst Wyczy  zapytanie WZWymagana jest nowa wersja UsÅ‚ ug Google Play. WkrÃ³ tce nastÄ… pi automatyczna aktualizacja. Wyszukiwanie gÅ‚ osowe
+ cz tryb odtwarzania losowegoÅ› lij zapytanieÅ‚ ugi Google Play cz kalendarzowy tryb wprowadzania cz tekstowy tryb wprowadzania cz tryb odtwarzania losowego
+ Zainstaluj ZakoÅ„ czono pobieranie Zaktualizuj UsÅ‚ ugi Google Play Zamknij peÅ‚ ny ekran Zapisz Zatrzymaj
+ Zaznaczono Zmie ZmieÅ„  na poprzedni miesi spacja %d nova obvestila %d novi obvestili %d novih obvestil %d novo obvestilo 0,25-kratna
+ 0,5-kratna 0,75-kratna 1,25-kratna
+ 1,5-kratna 2-kratna Aktivni klic EFAplikacija %1$s ima teÅ¾ ave s storitvami Google Play. Poskusite znova. EGAplikacija %1$s ne bo delovala, Ä  e ne omogoÄ  ite storitev Google Play. FGAplikacija %1$s ne bo delovala, Ä  e ne posodobite storitev Google Play. TUAplikacija %1$s ne deluje brez storitev Google Play, ki jih vaÅ¡ a naprava ne podpira. QQAplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo. MMAplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.
+ Danes %1$s Delno potrjeno Dodatek Dodatni posnetek Dohodni klic Dostopnost storitev Google Play Glasovno iskanje Hitrost IZKLOP Ikona pogovornega okna Iskanje Iskanje  )*Izberite dopoldanski ali popoldanski  Izbris besedila Izbris poizvedbe  Izhod iz celozaslonskega na Nalaganje Namesti Namestitev storitev Google Play Napaka Napaka storitev Google Play Napaka: Neveljavno Naprej
+ Nastavitve Nazaj
+ Nepotrjeno Neznano Neznano (%1$s) Novo obvestiloÄ  ajna Odpiranje v telefonu Odstranite %1$s Odstranjevanje prenosov 01Omejitev Å¡ tevila znakov je presegla %1$d od %2$dÄ  anje naÄ  ina nakljuÄ  nega predvajanja OmogoÄ  anje podnapisov  OmogoÄ  anje storitev Google Play Omogo +.OnemogoÄ  anje naÄ  ina nakljuÄ  nega predvajanja OnemogoÄ  anje podnapisov ]_Oprostite, Android kamera je naletela na teÅ¾ ave. MogoÄ  e boste morali ponovno zagnati napravo. Podnapisi Pomik na leto %1$d Pomik na trenutno leto %1$d
+ Pomik navzgor Posodobi   Posodobitev storitev Google Play Potek predvajanja NOPotrebujete novo razliÄ  ico storitev Google Play. V kratkem se bodo posodobile. PotrjenoÅ¡ iljanje poizvedbe Predvajanje Prekini klic Prekli  Preklop na naÄ  in vnosa besedila  !Preklop na naÄ  in vnosa v koledar Preklopi na pogled koledarja Preklopi na pogled leta   Preklopljeno na pogled koledarja Preklopljeno na pogled leta Premik naprej za %d sekund Premik naprej za %d sekunde Premik naprej za %d sekundi Premik naprej za %d sekundo Premik nazaj za %d sekund Premik nazaj za %d sekunde Premik nazaj za %d sekundi Premik nazaj za %d sekundo
+ PrenaÅ¡ anje Prenos Prenos je kon Prenos ni uspel Prenosi  !Prenosi so zaÄ  asno zaustavljeni. !"Prenosi Ä  akajo na povezavo Wi-Fi. &(Prenosi Ä  akajo na povezavo z omre Preverjanje dohodnega klica Previjanje naprej Previjanje nazaj Prikaz dodatnih nastavitev Prikaz gesla !!Prikaz kontrolnikov predvajalnika Prikaz spustnega menija Prostorski zvok Prostorski zvok 5.1 Prostorski zvok 7.1Å¡ iritev razdelka na dnu zaslonaÅ¡ irjanje na pol viÄ  ica za vleÄ  enje Samodejno Shrani Skrivanje dodatnih nastavitev $$Skrivanje kontrolnikov predvajalnika Sprejmi Spremeni na naslednji mesec Spremeni na prejÅ¡ nji mesec
+ Stranski list Strnitev   Strnitev razdelka na dnu zaslona ?ATrenutni naÄ  in: Brez ponavljanja. Preklopite naÄ  in ponavljanja. 9;Trenutni naÄ  in: Ponovi eno. Preklopite naÄ  in ponavljanja. 9;Trenutni naÄ  in: Ponovi vse. Preklopite naÄ  in ponavljanja. Ustavitev V redu VKLOPÄ   kot toliko novih obvestil: %1$d Vstop v celozaslonski na ./Za branje postavite Ä  rtno kodo znotraj iskala. Zaustavitev Zavihek ZavrniÄ  ni posnetki preslednicaÅ  tevilo vnesenih znakov je %1$d od %2$d %d bagong notification %d na bagong notification 5.1 na surround sound 7.1 na surround sound Alisin ang %1$s Alternatibo ''Availability ng serbisyo ng Google Play
+ Awtomatiko Bagong notification Bahagyang may check Bilis Buksan sa telepono 55Current mode: Ulitin lahat. I-toggle ang repeat mode. 77Current mode: Walang uulitin. I-toggle ang repeat mode. $$Error sa Mga Serbisyo ng Google Play
+ Hindi Alam Hindi Alam (%1$s) QQHindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play. PPHindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play. [[Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update. XXHindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device. iiHindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device. Hindi na-download I-clear ang query I-clear ang text
+ I-collapse I-collapse ang bottom sheet I-disable ang mga subtitle I-disable ang shuffle mode
+ I-download I-drag ang handle I-enable ((I-enable ang mga serbisyo ng Google Play I-enable ang mga subtitle I-enable ang shuffle mode I-expand ang bottom sheet I-expand hanggang gitna I-fast forward !!I-fast forward nang %d na segundo I-fast forward nang %d segundo I-install I-pause I-play I-rewind I-rewind nang %d na segundo I-rewind nang %d segundo I-save I-update ((I-update ang mga serbisyo ng Google Play Ibaba Icon ng Dialog Ihinto Inaalis ang mga na-download Ipakita ang dropdown na menu ##Ipakita ang mga karagdagang setting !!Ipakita ang mga kontrol ng player Ipakita ang password Isumite ang query !!Itago ang mga karagdagang setting Itago ang mga kontrol ng player iiKailangan ang bagong bersyon ng mga serbisyo ng Google Play. Mag-a-update itong mag-isa sa ilang sandali.
+ Kanselahin
+ Karagdagan Kasalukuyang tawag
+ Komentaryo %%Kunin ang mga serbisyo ng Google Play Lumabas sa fullscreen ::Lumampas sa limitasyon sa bilang ng character %1$d sa %2$d Lumipat sa nakaraang buwan 00Lumipat sa pamamaraan ng pag-input ng kalendaryo **Lumipat sa pamamaraan ng pag-input ng text Lumipat sa susunod na buwan Lumipat sa view ng Kalendaryo Lumipat sa view ng taon Mag-fullscreen Mag-navigate pataas ""Mag-navigate patungo sa taong %1$d &&Mag-navigate sa kasalukuyang taon %1$d Maghanap Maghanap %%Mahigit %1$d (na) bagong notification May check Mga Download Mga Setting &&Mga character na nailagay %1$d sa %2$d Na-pause ang mga pag-download Nagda-download ((Naghihintay ng WiFi ang mga pag-download ''Naghihintay ng network ang pag-download JJNagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukan ulit.
+ Naglo-load   Nagsi-screen ng papasok na tawag Nakaraan Ngayon %1$s Paghahanap gamit ang boses Papasok na tawag Piliin ang AM o PM Progreso ng pag-playback Sagutin Susunod Tanggihan Tapos na Tapos na ang pag-download Wala Walang check
+á‰  Google Play   Google Play   Google Play  Google Play 
+ 1Google Play  +YGoogle Play  0fGoogle Play  .Google Play  1Google Play  .Google Play 
+á‹¨ Google Play á‹¨ Google Play 
+  Google Play   Google Play   Google Play   Google Play   Google Play  Google Play
+  Google Play  Google Play
+  Google Play
+  Google Play
+  Google Play ACalendar  >Google Play €Š Google Play €” Google Play €› Google Play  +Google Play  >Google Play €¿ Google Play  =Google Play  7Google Play €´ Google Play 
+  Google Play   Google Play 
+ ==%1$s mengalami masalah dengan layanan Google Play. Coba lagi. DD%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan. CC%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui. TT%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui. UU%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda. \\%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda. %d notifikasi baru AKTIF Aktifkan Aktifkan layanan Google Play Aktifkan mode acak Aktifkan subtitel
+ Alternatif Batal   Beralih ke mode masukan kalender Beralih ke mode masukan teks Beralih ke tampilan Kalender Beralih ke tampilan tahun Berhenti
+ Berikutnya Buka di ponsel Buka tahun %1$d Ciutkan Dapatkan layanan Google Play Dicentang Dicentang sebagian Download dijeda Download gagal $$Download menunggu konektivitas Wi-Fi ''Download menunggu konektivitas jaringan Download selesai Error: tidak valid Handel geser Hapus kueri
+ Hari ini %1$s Ikon Dialog Instal Jawab Jeda ''Karakter yang dimasukkan %1$d dari %2$d Kecepatan Keluar dari layar penuh Kembali ke atas Kesalahan layanan Google Play   Ketersediaan layanan Google Play Kirim kueri Lebih dari %1$d notifikasi baru Luaskan setengah
+ Maju cepat Maju cepat %d detik Masuk layar penuh &&Melebihi batas karakter %1$d dari %2$d Meluaskan sheet bawah Memuat Menampilkan kontrol pemutar Menciutkan sheet bawah Mendownload Menghapus %1$s Menghapus download Menghapus teks Menyaring panggilan masuk Menyembunyikan kontrol pemutar Mode VR 55Mode saat ini: Tidak berulang. Alihkan mode berulang. 33Mode saat ini: Ulang sekali. Alihkan mode berulang. 22Mode saat ini: Ulang semua. Alihkan mode berulang. Mundur %d detik NONAKTIF Nonaktifkan mode acak Nonaktifkan subtitel Notifikasi baru Otomatis Panggilan masuk Panggilan sedang berlangsung Penelusuran suara Perbarui layanan Google Play FFPerlu versi baru layanan Google Play. Akan segera memperbarui sendiri. Pilih AM atau PM Pilih tahun ini %1$d Progres pemutaran Putar Putar Ulang
+ Sebelumnya Selesai Sembunyikan setelan tambahan Setelan
+ Sheet Samping Simpan Suara surround Tambahan Tampilkan menu dropdown Tampilkan sandi Tampilkan setelan tambahan Telusuri Telusuri... Tidak ada Tidak dicentang Tidak diketahui Tidak diketahui (%1$s) Tolak Tutup Ubah ke bulan berikutnya Ubah ke bulan sebelumnya spasi
+  LCalendar  7Calendar  (Google Play  1Google Play €Í Google Play €² Google Play  @Google Play  #OGoogle Play €± Google Play €° Google Play 
+  Google Play   %1$s, Google Play   Google Play 
+  Google Play   Google Play   Google Play Ð³  Google Play-
+ )Google Play  "7Google Play  1Google Play €¤ Google Play  .MGoogle Play-
+  Google Play   Google Play 
+  Google Play ëŠ” ) Google Play   Google Play 
+ Google Play  *Google Play  Google Play  "Google Play  Google Play  +SGoogle Play  'IGoogle Play   Google Play 
+  Google Play 
+  Google Play   Google Play.   Google Play   Google Play  Google Play.  Google Play,   Google Play  'KGoogle Play Services   Google Play   Google Play
+  Google Play
+  Google Play  Google Play @C%1$s nu va funcÈ› iona decÄƒ  activezi serviciile Google Play. >@%1$s nu va rula decÄƒ  actualizezi serviciile Google Play. QT%1$s nu va rula fÄƒ  serviciile Google Play, care lipsesc de pe dispozitivul t KN%1$s nu va rula fÄƒ  serviciile Google Play, care momentan se actualizeaz X[%1$s nu va rula fÄƒ  serviciile Google Play, care nu sunt acceptate de dispozitivul tÃ¢ mpinÄƒ  probleme privind serviciile Google Play. ÃŽ ncearcÄƒ  din nou. %d de notificÄƒ ri noi %d notificare nou %d notificÄƒ ri noi ACTIVAT AcceptÃ® n ecran complet
+ Activeaz !"ActiveazÄƒ  modul sortare aleatorie  !ActiveazÄƒ  serviciile Google Play ActiveazÄƒ  subtitrÄƒ rile
+ Actualizeaz #$ActualizeazÄƒ  serviciile Google PlayÈ› i meniul drop-downÄƒ  comenzile playeruluiÄƒ rile suplimentare
+ Alternativ Anula Apel primitÃ® n desf urare Ascunde comenzile playerului Ascunde setÄƒ rile suplimentareÄƒ zi, la %1$s AutomatÈ› i trecut la afiÈ™ area CalendarÈ› i trecut la afiÈ™ area pe ani Bifat ""Caractere introduse: %1$d din %2$d Caut
+ ComentariiÈ› i la modul de introducere a textuluiÈ› i la modul introducere Ã® n calendarÄƒ utare vocal
+ DEZACTIVAT DeruleazÃ® nainte (*DeruleazÃ® nainte cu %d de secunde %'DeruleazÃ® nainte cu %d secunde %(DeruleazÃ® nainte cu %d secundÃ® napoi !#DeruleazÃ® napoi cu %d de secunde  DeruleazÃ® napoi cu %d secunde !DeruleazÃ® napoi cu %d secund Descarc  DescarcÄƒ  serviciile Google Play Deschide pe telefon DescÄƒ rcarea a fost finalizat DescÄƒ rcarea nu a reu
+Äƒ rile au fost Ã® ntrerupteÄƒ rile aÈ™ teaptÄƒ rile aÈ™ teaptÈ› eaua Wi-Fi $%DezactiveazÄƒ  modul sortare aleatorie DezactiveazÄƒ  subtitrÄƒ rile ((Disponibilitatea serviciilor Google Play Elimina Eroare   Eroare a serviciilor Google Play Eroare: nevalid \`Este necesarÄƒ  versiune a serviciilor Google Play. Se vor actualiza automat  Extinde pe ecran complet !"ExtindeÈ› i foaia din partea de jos Foaie lateral Gata Ghidaj de tragereÈ™ i din ecranul complet
+ Instaleaz +-Limita de caractere a dep it %1$d din %2$d Meniu+ Mod RV 02Mod actual: nu se repetÄƒ  modul repetare. 13Mod actual: se repetÄƒ  una. ComutÄƒ  modul repetare. 13Mod curent: se repetÄƒ  tot. ComutÄƒ  modul repetare. NavigaÈ› i la anul %1$d NavigaÈ› i la anul actual %1$d Navigheaz
+ Necunoscut Necunoscut Notificare nou Peste %1$d notificÄƒ ri noi PictogramÄƒ  de dialog ?APlaseazÄƒ  codul de bare Ã® n interiorul vizorului pentru a-l scana 12Probleme cu camera foto. ReporneÈ™ te dispozitivul. Progresul red Respinge
+ RestrÈ› i foaia din partea de josÄƒ spunde Salva Se descarcÄƒ rile Se filtreazÄƒ  un apel primit
+ Sunet surround Sunet surround 5.1 Sunet surround 7.1 Suplimentar TreceÈ™ area Calendar TreceÈ™ area pe ani TreceÈ› i la luna anterioar TreceÈ› i la luna urmÄƒ toare Trimite interogarea Vitez
+ terge interogarea tergeÈ› i textul :<%1$s ka probleme me shÃ« rbimet e Google Play. Provo s KO%1$s nuk do tÃ«  funksionojÃ« se nuk aktivizon shÃ« rbimet e "Luaj me Google". LR%1$s nuk do tÃ«  funksionojÃ« rditÃ« son shÃ« rbimet e "Luaj me Google". [b%1$s nuk do tÃ«  funksionojÃ« rbimet e Google Play, tÃ«  cilat mungojnÃ«  pajisjen t `e%1$s nuk do tÃ«  funksionojÃ« rbimet e Google Play, tÃ«  cilat nuk mbÃ« shteten nga pajisja jote. [a%1$s nuk do tÃ«  funksionojÃ« rbimet e Google Play, tÃ«  cilat po pÃ« rditÃ« sohen aktualisht. %d njoftim i ri %d njoftime t AKTIV Aktivizo !"Aktivizo modalitetin e pÃ« rzierjes %&Aktivizo shÃ« rbimet e "Luaj me Google" Aktivizo titrat Alternative Anulo Asnj
+ Automatike
+Ã« simet Dil nga ekrani i plot +.DisponueshmÃ« rbimeve tÃ«  Google Play Doreza e zvarritjes
+Ã« rgo pyetjen
+ E panjohur E panjohur (%1$s) E pazgjedhur
+ E zgjedhur
+ Fleta anÃ« sore Fshih cilÃ« simet shtes Fshih komandat e luajt
+ Funksioni+ Gabim %'Gabim nÃ« rbimet e "Luaj me Google" Gabim: E pavlefshme Hape nÃ«  telefonÃ«  luajtjen me ekran t Ikona e dialogut Instalo JOAKTIV +,Kalo te modaliteti i "Hyrjes sÃ«  kalendarit" ()Kalo te modaliteti i "Hyrjes sÃ«  tekstit" Kalo te pamja e kalendarit Kalo te pamja e vitit Kaloi nÃ«  pamjen e "Kalendarit" Kaloi nÃ«  pamjen vjetore ""Karakteret e futura: %1$d nga %2$d Komente 02Kufiri i karaktereve Ã«  kaluar: %1$d nga %2$d Luaj Mbyll Menyja+ !"Merr shÃ« rbimet e "Luaj me Google"
+ Modaliteti RV TZModaliteti aktual: Mos pÃ« rit asnjÃ« . Aktivizo/Ã§ aktivizo modalitetin e pÃ« ritjes. NTModaliteti aktual: PÃ« rit njÃ« . Aktivizo/Ã§ aktivizo modalitetin e pÃ« ritjes. TZModaliteti aktual: PÃ«  gjitha. Aktivizo/Ã§ aktivizo modalitetin e pÃ«  se %1$d njoftime t Navigo te viti %1$d Navigo te viti aktual %1$d Ndalo Ndrysho te muaji i ardhsh Ndrysho te muaji i kaluar lsNevojitet njÃ«  version i ri i shÃ« rbimeve tÃ«  "Luaj me Google". Ai do tÃ« rditÃ« sohet automatikisht sÃ«  shpejti. Ngjitu lart Njoftim i ri Normale
+ Palos Palos fletÃ« n e poshtme Para Pastro pyetjen Pastro tekstin Pauz PjesÃ« risht e zgjedhur
+ PlotÃ« suese  #Po filtron njÃ«  telefonat Po ngarkohet
+ Po shkarkohet Prapa Progresi i luajtjesÃ« rbimet e "Luaj me Google"
+Ã« rparo me shpejt Refuzo Rikthe Ruaj Shfaq cilÃ« simet shtes Shfaq fjalÃ« kalimin Shfaq komandat e luajt  Shfaq menynÃ« shim posht
+ Shkarkimet Shkarkimet nÃ«  pritje t !Shkarkimet nÃ«  pritje tÃ«  rrjetit Shkarkimet po hiqen !Shkarkimet u vendos Shkarkimi dÃ« shtoi Shkarkimi pÃ« rfundoi Shkarko Shko prapa %d sekonda Shko prapa %d sekond Shpejt pÃ« rpara %d sekonda Shpejt pÃ« rpara %d sekond
+Ã«  vazhdim Tingull rrethues 5.1 Tingull rrethues 7.1 Tingulli rrethues Titrat U krye Zgjero fletÃ« n e poshtme Zgjeroje deri nÃ«  gjysm Zgjidh paradite ose pasdite
+Ã‡ aktivizo modalitetin e pÃ« rzierjes aktivizo titrat
+  Android. 
+  Google Play  Google Play  Google Play  Google Play  Google Play.   Google Play   Google Play  Google Play  Google Play.  Google Play.  Google Play  Google Play.  hi%1$s ne fonctionnera pas sans les services GoogleÂ  Play, qui ne sont pas compatibles avec votre appareil. eg%1$s ne fonctionnera pas sans les services GoogleÂ  Play, qui ne sont pas installÃ© s sur votre appareil. Y[%1$s ne fonctionnera pas sans les services GoogleÂ  Play, qui sont en cours de mise  SU%1$s ne fonctionnera pas tant que vous n'aurez pas activÃ©  les services Google WY%1$s ne fonctionnera pas tant que vous n'aurez pas mis Ã   jour les services GoogleÂ  nouvelle notificationÂ  nouvelles notificationsÃ© e en cours Activer Activer le mode alÃ© atoire Activer le mode plein Ã© cran  !Activer les services GoogleÂ  Play Activer les sous-titres Afficher le menu dÃ© roulant Afficher le mot de passe !!Afficher les commandes du lecteur ')Afficher les paramÃ¨ tres supplÃ© mentaires Annuler Appel en cours
+ Appel entrant Aucun Aujourd'hui Automatique
+ Avance rapide Avancer de %dÂ  seconde Avancer de %dÂ  secondes !CaractÃ¨ res saisis %1$d sur
+ Chargement Commentaires &(DisponibilitÃ©  des services GoogleÂ  PlayÃ© sactiver le mode alÃ© atoireÃ© sactiver les sous-titresÃ© ra Android a rencontrÃ©  un problÃ¨ me. Un redÃ© marrage de l'appareil est peut-Ã© velopper en entierÃ© velopper la bottom sheet Effacer la requ Effacer le texte 77Encadrez un code-barres avec le viseur pour le balayer. Enregistrer Envoyer la requ Erreur $&Erreur liÃ© e aux services GoogleÂ  Play ErreurÂ  : Non valide Feuille latÃ© rale Filtrage d'un appel entrant Fonction+Ã´ ne de la boÃ® te de dialogue Inconnu Inconnu (%1$s) "#Installer les services GoogleÂ  Play ]`L'application %1$s rencontre des problÃ¨ mes avec les services GoogleÂ  Play. Veuillez rÃ© essayer. imLa nouvelle version des services GoogleÂ  Play est nÃ© cessaire. Elle sera bientÃ´ t installÃ© e automatiquement. Lecture   Masquer les commandes du lecteur &(Masquer les paramÃ¨ tres supplÃ© mentaires
+ Mettre  &(Mettre Ã   jour les services GoogleÂ  Play Mode RV :?Mode actuelÃ© tition. Changer le mode rÃ© tition. 7<Mode actuelÃ© ter. Changer le mode rÃ© tition. 9>Mode actuelÃ© tition. Changer le mode r 49Nombre maximal de caract
+ Nouvelle notification Onglet Ouvrir sur le tÃ© phone
+ ParamÃ¨ tres Partiellement coch Passer au mode de saisie Agenda Passer au mode de saisie Texte Passer au mois prÃ© dent Passer au mois suivant Passer Ã   la vue d'agenda Passer Ã   la vue des ann Piste alternative Piste supplÃ© mentaire $%Plus de %1$dÂ  nouvelles notifications PoignÃ© placement Progression de la lectureÃ© dent Quitter le mode plein Ã© cran
+ Raccrocher Recherche vocale
+ Rechercher
+ Rechercher Refuser Retour arri  "Revenir en arriÂ  seconde !#Revenir en arriÂ  secondes Revenir en haut de la pageÃ© duire la bottom sheetÃ© pondre Son surround Son surround Sous-titres Suivant  $Suppression des tÃ© chargements Supprimer %1$sÃ© lectionner le format AM ou PMÃ© chargement terminÃ© chargementsÃ© chargements en attente de Wi-FiÃ© chargements en attente de rÃ© seauÃ© chargements mis en pauseÃ© chargement
+ Vitesse Vue "Agenda" activ espace supprimerÃ© chargement =@%1$s ima poteÄ‡ a s uslugama Google Playa. PokuÅ¡ ajte ponovo.Ä‡ e funkcionirati ako ne aÅ¾ urirate Google Play usluge.Ä‡ e funkcionirati ako ne omoguÄ‡ ite usluge Google Playa. WZ%1$s neÄ‡ e funkcionirati bez usluga Google Playa koje nisu instalirane na vaÅ¡ em ure LP%1$s neÄ‡ e funkcionirati bez usluga Google Playa koje vaÄ‘ aj ne podr LO%1$s neÄ‡ e se pokrenuti bez usluga Google Playa koje se trenutaÅ¾ uriraju. %d nova obavijest %d nove obavijesti %d novih obavijesti 5.1-kanalni okruÄ‡ i zvuk 7.1-kanalni okruÄ‡ i zvuk Alternativna verzija
+ Audiozapis
+ AutomatskiÅ¾ uriranje usluga Google Playa
+Ä  ni list Brisanje teksta Brzina Brzo unaprijed Danas: %1$s DjelomiÄ  no potvr
+ Dolazni poziv Dopunska verzija   Dostupnost usluga za Google Play Filtriranje dolaznog poziva Glasovno pretraÅ¾ ivanje Gotovo
+ ISKLJU Idi na trenutaÄ  nu godinu %1$d Ikona dijaloga
+ Instaliraj
+ IzbriÅ¡ i upit Kartica Marker za povlaÄ  enje Napredak reprodukcije Natrag Nepoznato Nepoznato (%1$s) Nije potvr Nova obavijest %%Odaberite prijepodne ili poslijepodne Odbij Odgovori Odustani OkruÄ‡ i zvuk Omogu OmoguÄ‡ i titloveÄ‡ ite naÄ  in nasumiÄ  ne reprodukcijeÄ‡ ivanje usluga Google Playa OnemoguÄ‡ i titlove (+OnemoguÄ‡ ite naÄ  in nasumiÄ  ne reprodukcije $$Otvaranje prikaza na cijelom zaslonu Otvori na telefonu Pauza Pogre PogreÅ¡ ka Usluga za Google Play PogreÅ¡ ka: nije va Pomicanje na prethodni mjesec Postavke EGPotrebna je nova verzija usluga Google Playa. Uskoro Å¾ urirati.
+ Potvr Poziv u tijeku
+Å¡ alji upit Prebacite se na prikaz godine PrebaÄ  eno na prikaz godine PrebaÄ  eno na prikaz kalendara Prekini Prelazak na prikaz kalendara 46PremaÅ¡ eno je ograniÄ  enje broja znakova: %1$d od %2$d $$Premotavanje unaprijed za %d sekunde $$Premotavanje unaprijed za %d sekundi $$Premotavanje unaprijed za %d sekundu ""Premotavanje unatrag za %d sekunde ""Premotavanje unatrag za %d sekundi ""Premotavanje unatrag za %d sekundu Prethodno Pretra Preuzimanja Preuzimanja su pauzirana Preuzimanja Ä  ekaju Wi-Fi Preuzimanja Ä  ekaju mre Preuzimanje Preuzimanje je dovr Preuzimanje nije uspjelo Preuzimanje usluga Google Playa Preuzmi Prijelaz na godinu %1$d Prijelaz na naÄ  in unosa teksta #$Prijelaz na naÄ  in unosa u Kalendaru Prijelaz na sljedeÄ‡ i mjesec PrikaÅ¾ i dodatne postavke PrikaÅ¾ i kontrole playera PrikaÅ¾ i padajuÄ‡ i izbornik PrikaÅ¾ i zaporkuÅ¡ iri donju polovicuÅ¡ irite donju tablicu Reproduciraj Sakrij dodatne postavke Sakrij kontrole playeraÅ¾ mite donju tablicu Sljede Spremi ;=TrenutaÄ  no: Bez ponavljanja. Promijenite naÄ  in ponavljanja. 8:TrenutaÄ  no: Ponovi jedno. Promijenite naÄ  in ponavljanja. 68TrenutaÄ  no: Ponovi sve. Promijenite naÄ  in ponavljanja. U redu
+ UKLJU Uklanjanje preuzimanja Ukloni %1$s Unatrag Uneseno znakova: %1$d od %2$d
+ UobiÄ  ajeno
+ Verzija s komentarima Verzija s titlovima
+ VideozapisÅ¡ e od %1$d novih obavijesti %%Zatvaranje prikaza na cijelom zaslonu Zaustavi svemir  Google Play 
+  HCalendar  2Google Play €­ Google Play  1Google Play  "Google Play  (Google Play  /Google Play €½ Google Play 
+ , Google Play   Google Play   Google Play 
+ , Google Play   Google Play   Google Play à¬°  Google Play  !GGoogle Play  #MGoogle Play  $PGoogle Play €» Google Play  "JGoogle Play  CGoogle Play €Í Google Play   Google Play   Google Play 
+  Google Play   Google Play   Google Play   Google Play   Google Play   Google Play   Google Play 
+  Google Play 
+  Google Play 
+  Google Play 
+  Google Play 
+  Google Play 
+ ;;%1$s ima problema sa Google Play uslugama. Probajte ponovo. ?A%1$s ne moÅ¾ e da se pokrene ako ne aÅ¾ urirate Google Play usluge. TV%1$s ne moÅ¾ e da se pokrene bez Google Play usluga, koje nisu instalirane na ure NP%1$s ne moÅ¾ e da se pokrene bez Google Play usluga, koje se trenutno aÅ¾ uriraju. KN%1$s ne moÅ¾ e da se pokrene bez Google Play usluga, koje ureÄ‘ aj ne podrÌ  e funkcionisati ako ne omogucÌ  ite Google Play usluge. %d nova obaveÅ¡ tenja %d novih obaveÅ¡ tenja %d novo obaveÅ¡ tenje AlternativnoÅ¾ urirajte Google Play usluge
+Ä  na tabela
+ Danas %1$s DelimiÄ  no ozna Dodatno Dostupnost Google Play usluga Glasovna pretragaÅ¡ ka Google Play usluga Idite na aktuelnu godinu %1$d Idite na godinu %1$d Idite nagore   Izaberite pre podne ili po podneÄ‘ i iz celog ekrana Napredovanje reprodukcije
+ Nije ozna Nijedna Normalno !Novih obaveÅ¡ tenja: viÅ¡ e od %1$d Novo obaveÅ¡ tenje
+ ObriÅ¡ i tekst
+ ObriÅ¡ ite upit Omoguc OmogucÌ  i titlove OmogucÌ  ite Google Play usluge OmogucÌ  ite nasumi OnemogucÌ  i titlove OnemogucÌ  ite nasumi Pauziraj PodeÅ¡ avanja EGPotrebna je nova verzija Google Play usluga. Uskoro cÅ¾ urirati. Potvrdi Poziv je u tokuÅ¡ aljite upit Prekini vezu 68PrekoraÄ  eno je ograniÄ  enje broja znakova: %1$d od %2$d Premotaj unapred Premotaj unazad Premotajte %d sekunde unapred Premotajte %d sekunde unazad Premotajte %d sekundi unapred Premotajte %d sekundi unazad Premotajte %d sekundu unapred Premotajte %d sekundu unazad Prethodna
+ Pretra Preuzima se Preuzimanja se uklanjaju Preuzimanja Ä  ekaju na WiFi Preuzimanja Ä  ekaju na mre Preuzimanje je zavr Preuzimanje nije uspelo Preuzmite Google Play uslugeÄ‘ i na ceo ekranÄ‘ ite na prethodni mesecÄ‘ ite na prikaz godineÄ‘ ite na prikaz kalendaraÄ‘ ite na reÅ¾ im unosa tekstaÄ‘ ite na reÅ¾ im unosa u KalendaruÄ‘ ite na sledecÌ  i mesecÅ¡ li ste na prikaz godineÅ¡ li ste na prikaz kalendara PrikaÅ¾ i dodatna podeÅ¡ avanja PrikaÅ¾ i kontrole plejera PrikaÅ¾ i lozinku PrikaÅ¾ i padajucÌ  i meni Prostorni zvuk Prostorni zvuk 5.1 Prostorni zvuk 7.1 Proverava se dolazni pozivÅ¡ irite do polaÅ¡ irite donju tabelu PustiÄ  ica za prevlaÄ  enje Sakrij dodatna podeÅ¡ avanja Sakrij kontrole plejeraÄ  uvaj Skupi Skupite donju tabelu Sledec Titl
+ Uklonite %1$s Uneti znakovi: %1$d od %2$d
+Å¾ im: Bez ponavljanja. UkljuÄ  ite/iskljuÅ¾ im: Ponovi jedno. UkljuÄ  ite/iskljuÅ¾ im: Ponovi sve. UkljuÄ  ite/isklju taster za razmak   %1$d adetten fazla yeni bildirim bh%1$s, Google Play hizmetleri olmadan  maz ve bu hizmetler cihazÄ± z tarafÄ± ndan desteklenmiyor. LO%1$s, Google Play hizmetleriyle ilgili sorun yaÃ¼ tfen tekrar deneyin.ÅŸ u anda cihazÄ± zda bulunmayan Google Play hizmetleri olmadan Ã¼ ncellenmekte olan Google Play hizmetleri olmadan  %d saniye geri sar %d saniye ileri sar %d yeni bildirim 5.1 surround ses 7.1 surround ses Alt sayfayÄ±  daralt Alt sayfay Altyaz "AltyazÃ¶ ster Barkod Taray BGBarkodu taramak iÃ§ in vizÃ¶ rdeki dikdÃ¶ rtgenin iÃ§ erisine yerleÅŸ tirin.
+ Bilinmiyor Bilinmiyor (%1$s) Bitti Daralt Devam eden arama Duraklat Durdur Ek ayarlarÄ±  gizle Ek ayarlarÃ¶ ster Ek kanal Etkinle Gelen arama Gelen arama s Geri sar 47GeÃ§ erli mod: Birini tekrarla. TekrarlamayÃ§ erli mod: Tekrarlama. TekrarlamayÃ§ erli mod: TÃ¼  tekrarla. Tekrarlamay Girilen karakter: %1$d / %2$d Google Play Hizmetleri hatas Google Play hizmetlerini edinin &'Google Play hizmetlerini etkinleÅŸ tirin ;?Google Play hizmetlerini etkinleÅŸ tirmezseniz %1$s  <@Google Play hizmetlerini gÃ¼ ncellemezseniz %1$s  mayacak. $%Google Play hizmetlerini gÃ¼ ncelleyin ,.Google Play hizmetlerinin kullanÄ± labilirli ]dGoogle Play hizmetlerinin yeni sÃ¼  gerekiyor. Kendisini kÃ§ inde gÃ¼ ncelleyecektir.Ã¼ ncelle Hata KAPAT Kapat "(Karakter sÄ± rma modunu devre dÄ± rma modunu etkinleÄ± smi olarak iÅŸ aretlendi Metin giriÅŸ  moduna ge
+ Metni temizle Otomatik OynatÄ±  kontrollerini gizle  OynatÄ±  kontrollerini gÃ¶ ster Reddet Sekme Sesli arama Sonraki Sonraki aya de Sorguyu gÃ¶ nder Sorguyu temizle Surround sesÃ¼ kleme tutamac Takvim giriÅŸ  moduna geÃ§ ildi Tam ekrana ge Tam ekrandan  Tamam
+ Telefonda a VR modu Yan Sayfa
+ Yeni bildirim
+ alma ilerleme durumu nceki aya de
+ st Karakter+Ã¼ z, Android kamera bir sorunla karÄ±  yeniden baÅŸ latmanÄ± z gerekebilir.
+ letiÅŸ im kutusu simgesi
+ ndirilemedi
+ ndirilenler ndirilenler kald ndiriliyor ndirme iÅŸ lemi tamamland ndirmeler duraklatÄ° ndirmeler iÄŸ  bekleniyorÄ° ndirmeler iÃ§ in kablosuz aÄŸ  bekleniyor
+ aretlenmedi ifreyi gÃ¶ ster
+ %1$s Google Play â€  %1$s Google Play â€  %1$s Google Play   Google Play â€  Google Play â€  Google Play â€  Google Play â€  Google Play â€  Google Play  Google Play   Google Play   Google Play €Œ %1$s Google €¥ %1$s Google 
+ 5Google Play €Ã Google Play  #MGoogle Play
+  Google Play   Google Play 
+  Google Play 
+ %d nova obavjeÅ¡ tenja %d novih obavjeÅ¡ tenja %d novo obavjeÅ¡ tenje Alternativni zapis FGAplikacija %1$s ima problema s Google Play uslugama. PokuÅ¡ ajte ponovo. @BAplikacija %1$s neÄ‡ e raditi ako ne aÅ¾ urirate Google Play usluge. @BAplikacija %1$s neÄ‡ e raditi ako ne omoguÄ‡ ite Google Play usluge. OQAplikacija %1$s neÄ‡ e raditi bez Google Play usluga, koje se trenutno aÅ¾ uriraju. PTAplikacija %1$s neÄ‡ e raditi bez Google Play usluga, koje vaÄ‘ aj ne podr PSAplikacija %1$s neÄ‡ e raditi bez Google Play usluga, kojih na vaÅ¡ em ureÄ‘ aju nema.Å¾ uriranje Google Play usluga %'Broj novih obavjeÅ¡ tenja: viÅ¡ e od %1$d DjelimiÄ  no ozna
+ Dodatni zapisÅ¡ ka Google Play uslugeÄ  . prikaza preko cijelog ekrana Komentari Nabavite Google Play usluge Naprijed Nazad Novo obavjeÅ¡ tenje ObriÅ¡ i upit Odbaci Odlazak na %1$d. godinu Odlazak na trenutnu godinu %1$d 02OgraniÄ  enje broja znakova premaÅ¡ uje %1$d od %2$dÄ‡ avanje nasumiÄ  nog naÄ  ina rada OmoguÄ‡ avanje titlova OmoguÄ‡ ite Google Play usluge %(OnemoguÄ‡ avanje nasumiÄ  nog naÄ  ina rada OnemoguÄ‡ avanje titlova HJPotrebna je nova verzija Google Play usluga. Ubrzo Ä‡ e se samo aÅ¾ urirati. Poziv u toku %&Prebacivanje na naÄ  in unosa kalendara "#Prebacivanje na naÄ  in unosa teksta Prebacivanje na prikaz godine   Prebacivanje na prikaz kalendara PrebaÄ  eno je na prikaz godineÄ  eno je na prikaz kalendara   Premotavanje %d sekunde naprijed Premotavanje %d sekunde nazad   Premotavanje %d sekundi naprijed Premotavanje %d sekundi nazad   Premotavanje %d sekundu naprijed Premotavanje %d sekundu nazad Premotavanje unaprijed Premotavanje unazad
+ Pretra
+ PretraÅ¾ ivanje Preuzimanja Ä  ekaju WiFi ')Preuzimanja Ä  ekaju povezivanje s mre Prikaz dodatnih postavki Prikaz preko cijelog ekrana PrikaÅ¾ i padajuÄ‡ i meni Promijeni na prethodni mjesec Promijeni na sljedeÄ‡ i mjesec Prostorno ozvuÄ  enje Prostorno ozvu Prostorno ozvuÅ¡ irivanje donje tabeleÅ¡ irivanje dopola Reproduciranje Sakrivanje dodatnih postavki SuziÅ¾ avanje donje tabele Titlovi 34Trenutni naÄ  in: Ne ponavljaj. Uklj./isklj. ponavlj. 34Trenutni naÄ  in: Ponovi jedno. Uklj./isklj. ponavlj. 12Trenutni naÄ  in: Ponovi sve. Uklj./isklj. ponavlj. Uredu
+Ä  in rada
+ Zaustavljanje ikona dijaloÅ¡ kog okvira razmak Aktivace sluÅ¾ eb Google Play "Aktivovat nÃ¡ hodn Aktualizace sluÅ¾ eb Google Play Aktualizovat 28AktuÄ› : Nic neopakovat. ZapnÄ› : Opakovat jednu poloÄ› : Opakovat v
+ Alternativn HMAplikace %1$s mÅ¾ bami Google Play. Zkuste to pros 06Byl pÅ™ ekroÄ  en povolen Chyba sluÅ¾ eb Google Play $Deaktivovat nÃ¡ hodn
+ Dostupnost sluÅ¾ eb Google Play HlasovÃ©  vyhled Hledat Ikona dialogovÃ© ho okna Instalace sluÅ¾ eb Google Play
+ Instalovat QVJe vyÅ¾ adovÃ¡ na novÃ¡  verze sluÅ¾ eb Google Play. NovÃ¡  verze se brzy sama nainstaluje.Ã­  aplikace %1$s je tÅ™ eba aktivovat sluÅ¾ by Google Play. CHKe spuÃ­  aplikace %1$s je tÅ™ eba aktualizovat sluÅ¾ by Google Play. ZcKe spuÃ­  aplikace %1$s jsou potÅ™ eba sluÅ¾ by Google Play, kterÄ›  aktualizovÃ­  aplikace %1$s jsou potÅ™ eba sluÅ¾ by Google Play, kterÃ­  nejsou podporovÃ­  aplikace %1$s jsou potÅ™ eba sluÅ¾ by Google Play, kter
+ NezaÅ¡ krtnuto Nezn
+ Odeslat dotaz
+Ã­ tnout Odstranit poloÃ© ho obsahu ZcOmlouvÃ¡ me se, zjistili jsem problÃ© m s fotoaparÃ¡  bude nutnÃ©  restartovat zaÂ  telefonu Postrann Posunout vpÂ  sekund Posunout vpÂ  sekundu Posunout vpÂ  sekundy Povolit
+ Pozastavit ProbÃ­  hovor Prostorov ProstorovÃ½  zvuk 5.1 ProstorovÃ½  zvuk 7.1 chozÃ­ ho hovoruÅ¾ imu celÃ©  obrazovkyÃ­ t na rok %1$d
+Å™ epnout na reÅ¾ im zadÃ­  do kalendÅ™ epnout na reÅ¾ im zadÅ™ epnout na zobrazenÃ­  kalendÅ™ epnout na zobrazenÅ™ epnuto na roÅ™ epnuto na zobrazenÃ­  Kalend
+ chozÃ­  hovor Rozbalit nap Rozbalit spodnÃ­  tabulku
+ Rychle vp Rychlost Sbalit Sbalit spodnÃ­  tabulku Smazat dotaz StahovÃ­  bylo dokonÃ­  pozastaveno StahovÃ¡ hnout Titulky UkonÅ¾ im celÃ©  obrazovky Vyberte AM nebo PM Vyhledat Vymazat text Vypnout titulkyÅ¾  %1$d novÃ½ ch oznÄ  tvercem na  Zapnout titulky Zastavit
+Å¡ krtnuto Zobrazit dal  nastaven Zobrazit heslo "'Zobrazit ovl Zobrazit rozbalovac chyt pro p DE%1$s no funcionarÃ¡  hasta que no actualices Servicios de Google Play. CD%1$s no funcionarÃ¡  hasta que no habilites Servicios de Google Play. ^`%1$s no se ejecutarÃ¡  hasta que finalice la actualizaciÃ³ n en curso de Servicios de Google Play. []%1$s no se ejecutarÃ¡  si los Servicios de Google Play no estÃ¡ n instalados en tu dispositivo.Â  notificaciones nuevasÂ  notificaciÃ³ n nueva Abrir en telÃ© fono Activar pantalla completa ""Actualiza Servicios de Google Play Ajustes
+ AutomÃ¡ tico Avanzar %dÂ  segundo Avanzar %dÂ  segundos Avanzar rÃ¡ pidamente Borrar consulta Borrar texto Buscar BuscarÃº squeda por voz Cambiar a la vista de a   Cambiar a la vista de calendario Cambiar al mes anterior Cambiar al mes siguiente *+Cambiar al modo de introducciÃ³ n Calendario %&Cambiar al modo de introducciÃ³ n Texto %%Caracteres introducidos: %1$d de %2$d RTColoque un cÃ³ digo de barras en el interior del rectÃ¡ ngulo del visor para escanear. Descarga de archivos completado ""Descargar Servicios de Google Play Descargas en espera de Wi-Fi Descargas en espera de red Descargas pausadas Desconocido Desconocido (%1$s) Desplazarse hacia arriba Desplegar hasta la mitad Detener ''Disponibilidad Servicios de Google Play Enviar consulta !!Error de Servicios de Google Play Error: no vÃ¡ lida Espacio Filtrando una llamada entrante Funci Guardar !!Habilita Servicios de Google Play Habilitar Habilitar modo aleatorio Habilitar subtÃ­ tulos Hecho Hoja lateral Hoy, %1$s Icono del cuadro de diÃ¡ logo Inhabilitar modo aleatorio Inhabilitar subtÃ­ tulos IntroÃ± o actual, %1$d YZLa aplicaciÃ³ n %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo. Llamada en curso Llamada entrante noLo sentimos, la cÃ¡ mara de Android ha encontrado un problema. Es posible que necesite reiniciar el dispositivo.Ã­ mite de caracteres superado (%1$d de %2$d) Marcada Marcada parcialmente ))Modo actual: No repetir. Cambiar de modo. ++Modo actual: Repetir todo. Cambiar de modo. **Modo actual: Repetir uno. Cambiar de modo. Modo Mostrar ajustes adicionales Mostrar contrase !!Mostrar controles del reproductor Mostrar la hoja inferior Mostrar menÃº  desplegableÃ¡ s de %1$dÂ  notificaciones nuevas Ninguna vwNo es posible ejecutar la aplicaciÃ³ n %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo. No se ha podido descargar NotificaciÃ³ n nueva Ocultar Ocultar ajustes adicionales Ocultar controles de jugador Ocultar la hoja inferior Pesta Progreso de reproducci Rebobinar Rechazar Responder Retirar %1$s Retroceder %dÂ  segundo Retroceder %dÂ  segundos Salir de pantalla completa  !Se ha cambiado a la vista de a ''Se ha cambiado a la vista de calendario SUSe necesita una nueva versiÃ³ n de Servicios de Google Play. Se actualizarÃ¡  en breve. Selecciona AM o PM Siguiente
+ Sin marcar Sonido envolvente Sonido envolvente Sonido envolvente Suprimir Velocidad <A%1$s getur ekki keyrt nema Ã³ nustu Google Play. PV%1$s getur ekki keyrt Ã³ nustu Google Play, sem er ekki studd af t GN%1$s getur ekki keyrt Ã³ nustu Google Play, sem vantar  GM%1$s getur ekki keyrt Ã³ nustu Google Play, sem veri :>%1$s virkar ekki nema Ã³ nustu Google Play virka.Ã³ nustu Google Play. Reyndu aftur.Ã½  tilkynningÃ½ jar tilkynningarÃ° arlykill+ Breyta  Ekkert
+ Ekki merkt Fara upp Fela spilunarstÃ½ ringar Fela viÃ³ tarstillingar FjarlÃ¦ gir niÃ° urhal Fjarl Flipi Framvinda spilunar Fyrri
+ Gluggat
+ Hreinsa fyrirspurn
+ Hreinsa textaÃ°  nota allan skj Innslegnir stafir %1$d af %2$d KVEIKT Kveikja Kveikja Ã¡ texta Kveikja Ã¡  stokkun Leggja  Leit LeitaÃ½ singar Merkt Merkt viÃ°  hluta til Minnka Minnka bla
+ MyndsÃ­ mtalÃ° urhal mistÃ° urhali loki a eftir WiFi a eftir netkerfi Nota allan skj
+Ã½  tilkynningÃ³ nustu Google Play vantar. HÃº n uppfÃ¦ rir sig sjÃ¡ lf innan skamms.Ã­ manum Raddleit Senda fyrirspurn Setja upp
+Ã¡ lfvirkt Skipt yfir Ã­  dagatalsyfirlit Skipt yfir Ã¡ rsyfirlit Skipta yfir Ã­  dagatalsyfirlit +/Skipta yfir Ã°  fyrir dagatal )-Skipta yfir Ã°  fyrir texta Skipta yfir 
+Ã¡  stokkun SpilaÃ³ la til bakaÃ³ la til baka um %d sekÃ³ la til baka um %d sekÃº ndur
+Ã¡ fram um %d sekÃ¡ fram um %d sekÃº ndurÃ³ nustu Google Play ;<Stilling nÃº : Endurtaka allt. Breyta endurtekningastillingu. ;<Stilling nÃº : Endurtaka eitt. Breyta endurtekningastillingu. =>Stilling nÃº : Endurtaka ekkert. Breyta endurtekningastillingu.
+ StillingarÃ³ nustu Google PlayÃ­ mtal sem berst
+Ã­ mtal berstÃ½ na fellivalmyndÃ½ na spilunarstÃ½ ringarÃ³ tarstillingar UppfÃ³ nustu Google Play Valmynd+ Velja f.h. e Venjulegt Villa Villa Ã³ nustu Google Play
+Ã“ gilt Virkja Ã³ nustu Google Play Vista Yfir %1$d nÃ½ jar tilkynningarÃ¡ marksstafafjÃ¶ lda, %1$d af %2$d bilslÃ½ ndarveruleikastilling
+ KK%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi. NN%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play. MM%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play. dd%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan. ff%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda. oo%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda. %d pemberitahuan baharu $$Aksara dimasukkan %1$d daripada %2$d Alih keluar %1$s Automatik !!Beralih kepada mod input kalendar Beralih kepada mod input teks Beralih kepada paparan Kalendar Beralih kepada paparan tahun Biasa Buka pada telefon Bunyi keliling Bunyi keliling 5.1 Bunyi keliling 7.1 Cari Carian suara Cari !!Dapatkan perkhidmatan Google Play Dayakan Dayakan mod rombak   Dayakan perkhidmatan Google Play Dayakan sari kata Ditandai Fungsi+ HIDUP Helaian Sisi Kelajuan Keluar dari skrin penuh Kemajuan main balik
+ Kemas kini %%Kemaskinikan perkhidmatan Google Play Kembangkan helaian bawah %%Ketersediaan perkhidmatan Google Play Kosongkan pertanyaan Kosongkan teks Kuncupkan helaian bawah ((Lebih daripada %1$d pemberitahuan baharu Lumpuhkan mod rombak Lumpuhkan sari kata MATI Main Mandir Mandir %d saat Masuk ke skrin penuh &&Melebihi had aksara %1$d daripada %2$d Memuat turun Memuatkan Mengalih keluar muat turun Mod VR ,,Mod semasa: Tidak berulang. Togol mod ulang. ((Mod semasa: Ulang satu. Togol mod ulang. ))Mod semasa: Ulang semua. Togol mod ulang.
+ Muat turun Muat turun dijeda Muat turun gagal Muat turun menunggu Wi-Fi Muat turun menunggu rangkaian Muat turun selesai Mundar laju Mundar laju %d saat Navigasi ke atas Navigasi ke tahun %1$d Navigasi ke tahun semasa %1$d Pasang Pemberitahuan baharu Pemegang seret Ralat Ralat perkhidmatan Google Play Ralat: tidak sah Runtuhkan Sebahagiannya ditandai Sembunyikan kawalan pemain Sembunyikan tetapan tambahan Serah pertanyaan
+ Seterusnya Tamatkan Panggilan Tetapan Tiada Tidak ditandai Tukar kepada bulan sebelumnya Tukar kepada bulan seterusnya Tunjukkan kata laluan Tunjukkan kawalan pemain Tunjukkan menu lungsur Tunjukkan tetapan tambahan Ulasan eeVersi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi. ruang
+Ã¤ rguannet 0,25-kordne
+ 0,5-kordne 0,75-kordne 1,25-kordne
+ 1,5-kordne 2-kordne
+ Ahendamine
+ Allalaadimine Allalaadimine ebaÃµ nnestus Allalaadimine lÃµ petati Allalaadimised "#Allalaadimised on WiFi-vÃµ rgu ootel Allalaadimised on vÃµ rgu ootel Allalaadimised peatati Allalaadimiste eemaldamine Alternatiiv Alumise lehe ahendamine Alumise lehe laiendamine
+ Automaatne
+ Ava telefonis Avamine tÃ¤ isekraanil Dialoogi ikoon Edasi Eelmine Esita Funktsiooniklahv + Google Play teenuste hankimine Google Play teenuste lubamine !!Google Play teenuste saadavalolek "#Google Play teenuste vÃ¤ rskendamine Heli
+ lotsing Installi Juhuesituse reÅ¾ iimi keelamine Juhuesituse reÅ¾ iimi lubamine Keela subtiitrid Keeldu Keri %d sekund edasi Keri %d sekund tagasi Keri %d sekundit edasi Keri %d sekundit tagasi
+ Keri edasi Keri tagasi Kiirus
+ Kustuta tekst Kuva lisaseaded Kuva pleieri juhtnupud Kuva rippmenÃ¤ imasolev k
+Ã¼ lgmine leht Laadimine Laiendamine poolenisti
+ Liigu  Lisalugu Lohistamispide Luba Luba subtiitrid
+Ã¼ litu kalendrisisestusreÅ¾ iimileÃ¼ litu tekstisisestusreÅ¾ iimileÃ¼ litumine aasta valimise vaateleÃ¼ litumine kalendrivaateleÃ¼ lituti aasta kuvaleÃ¼ lituti kalendri kuvale Mine aastasse %1$d
+Ã¤ rkimata ##Navigeerige praegusele aastale %1$d Osaliselt mÃ¤ rgitud
+ Otsige  Otsing Parooli kuvamine Peata Peida lisaseaded Peida pleieri juhtnupud 7:Praegune reÅ¾ iim: Korda kÃµ iki. Aktiveerige kordusre 69Praegune reÅ¾ iim: Korda Ã¼ hte. Aktiveerige kordusre 58Praegune reÃ„ ra korda. Aktiveerige kordusreÃ¤ ringu esitamineÃ¤ ringu tÃ¼ histamine TWRakendus %1$s t tab ainult koos Google Play teenustega, mida praegu vÃ¤ rskendatakse. VXRakendus %1$s t tab ainult koos Google Play teenustega, mida teie seadmes ei toetata. PRRakendus %1$s t tab ainult koos Google Play teenustega, mida teie seadmes pole. BDRakendus %1$s t tab ainult siis, kui lubate Google Play teenused. CFRakenduse %1$s t tamiseks peate vÃ¤ rskendama Google Play teenuseid. EERakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti. Rohkem kui %1$d uut mÃ¤ rguannet Ruumiline heli Ruumiline heli 5.1 Ruumiline heli 7.1 SEES Salvesta Seaded  "Sisestatud t Sissetulev k Sissetuleva kÃµ ne filtreerimine
+ Subtiitrid Taasesitus on pooleli Tavaline Teadmata Teadmata (%1$s)Ã¤ rgipiirang on 
+Ãµ stuklahv +
+ Vaheleht Vaheta eelmisele kuule Vaheta jÃ¤ rgmisele kuule GHVajalik on Google Play teenuste uus versioon. See vÃ¤ rskendab end peagi. Valige AM v Vasta Viga Viga Google Play teenustes Viga: sobimatuÃ¤ ljumine tÃ¤ isekraanilt
+Ã¤ rskenda kustuta
+ sisestusklahv ksuse %1$s eemaldamine   %1$d caratteri inserirti su %2$d 9:%1$s non funzionerÃ   se non aggiorni Google Play Services. 78%1$s non funzionerÃ   se non attivi Google Play Services. UV%1$s non funzionerÃ   senza Google Play Services, attualmente in fase di aggiornamento. ST%1$s non funzionerÃ   senza Google Play Services, non supportati dal tuo dispositivo. AA%1$s sta riscontrando problemi con Google Play Services. Riprova. %d nuova notifica %d nuove notifiche Aggiorna Aggiorna Google Play Services Annulla ((Applicazione filtro a chiamata in arrivo Apri sul telefono Attiva Attiva Google Play Services Attiva i sottotitoli Attiva la riproduzione casuale Attiva schermo intero Audio surround Audio surround 5.1 Audio surround 7.1 Avanti Avanti di %d secondi Avanti di %d secondo
+ Avanti veloce Avanzamento della riproduzione CANC Cancella query Cancella testo Caricamento in corso Chiamata in arrivo Chiamata in corso Commenti Comprimi Comprimi riquadro inferiore Contenuti supplementari Disattiva i sottotitoli !!Disattiva la riproduzione casuale %&DisponibilitÃ   di Google Play Services Download completato Download in attesa di Wi-Fi Download in attesa di rete Download in corso Download in pausa Download non riuscito Errore Errore Google Play Services Errore: non valido Esci da schermo intero Espandi a met Espandi riquadro inferiore
+ FUNZIONE + Fine INVIO Icona della finestra di dialogo Impostazioni Indietro Indietro di %d secondi Indietro di %d secondo Installa Installa Google Play Services
+ Interrompi Invia query WXL'app %1$s non funzionerÃ   senza Google Play Services, non presente sul tuo dispositivo. EGModalitÃ   attuale: Non ripetere nulla. Cambia modalitÃ   di ripetizione. ?AModalitÃ   attuale: Ripeti tutto. Cambia modalitÃ   di ripetizione. =?ModalitÃ   attuale: Ripeti uno. Cambia modalitÃ   di ripetizione. Mostra i controlli del player Mostra il menu a discesa Mostra impostazioni aggiuntive Mostra password Nascondi i controlli del player   Nascondi impostazioni aggiuntive Nessuno Non selezionata Nuova notifica Oggi %1$s Parzialmente selezionata Passa al mese precedente Passa al mese successivo ,-Passa alla modalitÃ   di immissione Calendario '(Passa alla modalitÃ   di immissione Testo Passa alla visualizzazione Anno %%Passa alla visualizzazione Calendario ..Passaggio alla visualizzazione Anno effettuato 44Passaggio alla visualizzazione Calendario effettuato PausaÃ¹  di %1$d nuove notifiche KKPosiziona un codice a barre dentro il mirino rettangolare per la scansione. Punto di trascinamento
+ Riaggancia Riavvolgi Ricerca vocale Rifiuta Rimozione dei download Rimuovi %1$s Riproduci Rispondi SPAZIO Salva Scarica Scheda Scheda secondaria Sconosciuta Sconosciute (%1$s) Seleziona AM o PM Selezionata >?Sono presenti %2$d caratteri in piÃ¹  rispetto al limite di %1$d Sottotitoli qqSpiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo. Torna indietro Vai all'anno %1$d Vai all'anno corrente %1$d Velocit Versione alternativaÃˆ  richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrÃ   eseguito a breve. %d naujas praneÅ¡ imas %d nauji praneÅ¡ imai %d naujo prane 5.1 erdvinis garsas 7.1 erdvinis garsas Alternatyvus
+ Ankstesn Atidaryti telefone
+Å« rimo eiga Atlikta Atmesti $(Atnaujinkite â€ž Google Playâ€œ  paslaugas
+ Atnaujinti Atsakyti
+ Atsisiuntimai Atsisiuntimai pristabdyti Atsisiuntimo procesas baigtas
+ AtsisiunÄ  iama
+ Atsisi Atsukti atgal %d sekundes Atsukti atgal %d sekund Atsukti atgal %d sekund Atsukti atgal %d sekundÅ¡ aukti
+ Automatin Baigti pok. +-Dabart. reÅ¾ .: kart. vienÄ… . Perj. pakart. r. +-Dabart. reÅ¾ .: kart. viskÄ… . Perj. pakart. r. -.Dabart. reÅ¾ .: nekart. nieko. Perj. pakart. r. Dialogo lango piktogramaÄ¯  %1$d metusÄ¯  dabartinius metus %1$d Erdvinis garsas Garso  #Gaukite â€ž Google Playâ€œ  paslaugas Gaunamasis skambutis Gaunamojo skambuÄ  io tikrinimas GeraiÅ¡  dalies paÅ¡ jungti maiÅ¡ ymo reÅ¡ jungti subtitrusÅ¡ jungti viso ekrano re
+Å¡ skleisti apatinÅ¡ skleisti iki pusÅ¡ valyti tekstÅ¡ valyti uÅ¾ klaus Kitas Klaida Klaida: netinkama
+ Komentaras Leisti Monofoninis XeNaudojant programâ€œ  kilo problemâ€ž Google Playâ€œ  paslaugÅ³ . Bandykite dar kart Naujas praneÅ¡ imasÅ³ : daugiau nei %1$d Nepavyko atsisi
+Å¾ inomas $%Norint tÄ™ sti atsis., laukiama tinklo %*Norint tÄ™ sti atsis., laukiama 
+ Nustatymai
+ PaieÅ¡ ka balsu Pakeisti Ä¯  ankstesn
+ Papildomas '1Pasirinkite â€ž iki piet Pateikti uÅ¾ klausÅ¡ alinami atsisiuntimaiÅ¡ alinti %1$s
+ !Perjungta Ä¯  Kalendoriaus rodin Perjungta Å³  rodin !Perjungti Ä¯  Kalendoriaus rodin (,Perjungti Ä¯  kalendoriaus Ä¯ vesties re Perjungti Å³  rodin "&Perjungti Ä¯ vesties re Prasukti pirmyn %d sekundes Prasukti pirmyn %d sekund Prasukti pirmyn %d sekund Prasukti pirmyn %d sekund Pristabdyti \jPrograma â€œ  nebus paleidâ€ž Google Playâ€œ  paslaugÄ¯ renginys nepalaiko. S`Programa â€œ  nebus paleidâ€ž Google Playâ€œ  paslaugÄ¯ renginyje. LQReikia naujos versijos â€ž Google Playâ€œ  paslaugÅ³ . Jos netrukus bus atnaujintos.  Rodyti iÅ¡ skleidÄ¯  meniu Rodyti leistuvÄ— s valdiklius Rodyti papildomus nustatymus Rodyti slaptaÄ— pti leistuvÄ— s valdikliusÄ— pti papildomus nustatymus Sparta
+ Stereofoninis Subtitrai Sukti atgal Sukti pirmyn
+ Sustabdyti Sutraukti Sutraukti apatin
+Å¾ imas
+ Vaizdo  Vilkimo rankenÅ¡ ytas simboliÄ  ius: %1$d i Vykstantis skambutisÄ® galinkite â€ž Google Playâ€œ  paslaugas galinti maiÅ¡ ymo re galinti subtitrus jungti viso ekrano reÄ® vesta simboli
+ iandien %1$s
+ oninis lapasâ€œ  nebus paleidâ€ž Google Playâ€œ  paslaugÅ³ , kurios Å¡ iuo metu atnaujinamos.â€œ  nebus paleidÅ¾ iama, jei neatnaujinsite â€ž Google Playâ€œ  paslaugâ€œ  neveiks, jei neÄ¯ galinsite â€ž Google Playâ€œ  paslaugâ€ž Google Playâ€œ  paslaugÅ³  klaidaâ€ž Google Playâ€œ  paslaugÅ³  pasiekiamumas
+ ATIVADO AlguÃ¡  ligando 56Alinhar cÃ³ digo de barras com o exemplo para ser lido. Andamento da reprodu Atender Ativar legendas  !Ativar o modo de ordem aleat
+ AutomÃ¡ tica Avan AvanÃ§ ar %d segundo AvanÃ§ ar %d segundos Chamada em andamento ComentÃ¡ rios Complementar
+ Conclu
+ DESATIVADO Desativar legendas #$Desativar o modo de ordem aleat Desconhecido Desconhecido (%1$s) `bDesculpe, a cÃ¢ mera do Android encontrou um problema. PoderÃ¡  precisar de reiniciar o dispositivo. Desligar Download conclu ()Downloads aguardando uma conexÃ£ o de rede ##Downloads aguardando uma rede Wi-Fi Downloads pausados Entrar no modo de tela cheia Exibir configura es extras Falha no download Fazendo o download Fazer o download  Filtrando uma liga o recebida Limpar consulta 47Modo atual: nÃ£ o repetir. Alternar modo de repeti 57Modo atual: repetir tudo. Alternar modo de repeti 8:Modo atual: repetir um item. Alternar modo de repeti Mostrar controles do player Navegar para cima Nenhuma Ocultar configura es extras Ocultar controles do player Parar Pesquisa por voz Pesquisar
+ Pesquisar Recolher Recusar Removendo downloads
+ Reproduzir Sair do modo de tela cheia Sistema surround Sistema surround 5.1 Sistema surround 7.1 Voltar Voltar %d segundo Voltar %d segundos espa udio %%%1$d jakinarazpen berri baino gehiago %1$d/%2$d karaktere idatzi dira hh%1$s aplikazioa ezin da erabili Google Play Services gabe, baina zure gailua ez da harekin bateragarria. HH%1$s aplikazioak arazoak ditu Google Play Services-ekin. Saiatu berriro. LL%1$s aplikazioak ez du funtzionatuko Google Play Services gaitzen ez baduzu. BB%1$s ez da exekutatuko Google Play Services eguneratzen ez baduzu. RR%1$s ez da exekutatuko Google Play Services gabe, baina ez dago halakorik gailuan. SS%1$s ez da exekutatuko Google Play Services gabe; zerbitzu hori eguneratzen ari da. %d jakinarazpen berri 5.1 soinu inguratzailea 7.1 soinu inguratzailea AKTIBATU Abiadura Ados Ahozko bilaketa Alboko orria Aldatu Calendar-en ikuspegira Aldatu aurreko hilabetera   Aldatu da egutegiaren ikuspegira Aldatu da urtearen ikuspegira $$Aldatu egutegiaren idazketa-metodora Aldatu hurrengo hilabetera Aldatu testua idazteko modura Aldatu urtearen ikuspegira Amaitu deia Arrastatzeko kontrol-puntua Atzeratu Atzeratu %dÂ  segundo Audioa Aurrekoa Aurreratu Aurreratu %dÂ  segundo Automatikoa Azpitituluak XXBarkatu, Android kamerak arazo bat izan du. Behar bada gailua berrabiarazi beharko duzu. Barra-kode Eskanerra
+ Bat ere ez Baztertu Bidali kontsulta Bideoa Bilatu Bilatu DESAKTIBATU
+ Deia abian da %%Desgaitu ausaz erreproduzitzeko modua Desgaitu azpitituluak Deskargak Deskargak kentzen Deskargak pausatuta daude 22Deskargak sare mugikorrera konektatzeko zain daude ((Deskargak wifira konektatzeko zain daude Deskargatzen
+ EBko modua Eginda Eguneratu Eguneratu Google Play Services 00Erakutsi erreproduzigailua kontrolatzeko aukerak Erakutsi ezarpen gehigarriak Erakutsi goitibeherako menua Erakutsi pasahitza Erantzun Erdi-markatuta Erreprodukzioaren garapena
+ Erreproduzitu Erreproduzitu pantaila osoan Errorea Errorea: ez du balio Estereoa Ezarpenak Ezezaguna Ezezaguna (%1$s) Ezin izan da deskargatu 00Ezkutatu erreproduzigailua kontrolatzeko aukerak Ezkutatu ezarpen gehigarriak Fitxa
+ Funtzioa + Gaitu Gaitu Google Play Services ""Gaitu ausaz erreproduzitzeko modua Gaitu azpitituluak Garbitu kontsulta Garbitu testua Gaur %1$s Gelditu VVGoogle Play Services-en bertsio berria behar da. Berehala eguneratuko da automatikoki. ))Google Play Services-en erabilgarritasuna Google Play Services-en errorea Gorde Hautatu AM edo PM Hurrengoa Instalatu Ireki telefonoan Irten pantaila osotik Iruzkinak Jakinarazpen berria Joan %1$d. urtera Joan aurtengo ikuspegira %1$d Joan gora %%Karaktere-muga gainditu da: %1$d/%2$d Kargatzen
+ Kendu %1$s ::Kokatu barra-kode bat laukizuzenaren barruan eskaneatzeko. Leihoko ikonoa Lortu Google Play Services Markatu gabe Markatuta Monoa Normala ::Oraingo modua: errepikatu bat. Aldatu errepikatzeko modua. >>Oraingo modua: errepikatu guztiak. Aldatu errepikatzeko modua. 99Oraingo modua: ez errepikatu. Aldatu errepikatzeko modua. Ordezkoa Osagarria Osatu da deskarga Pausatu Sarrerako dei bat bistaratzen Sarrerako deia Soinu inguratzailea Tolestu 22Tolestu pantailaren behealdean ainguratutako orria Utzi Zabaldu erdiraino 22Zabaldu pantailaren behealdean ainguratutako orria ezabatu sartu zuriunea  Google Play €¤ %1$s, Google Play €” %1$s, Google Play €œ %1$s, Google Play  5Google Play  +Google Play  5Google Play €´ Google Play  :Google Play  +Google Play 
+  Google Play   Google Play 
+ '*A Google Play-szolgÃ¡ ltatÃ¡ sok beszerz '+A Google Play-szolgÃ¡ ltatÃ¡ sok friss bnA Google Play-szolgÃ¡ ltatÃ© g. A szolgÃ¡ ltatÃ¡ s hamarosan frissÃ© sek Wi-Fi-re vÃ¡ rakoznakÃ³ zatra vÃ¡ rakoznak X^A(z) %1$s alkalmazÃ¡ s csak akkor fog mÃ¶ dni, ha frissÃ­ ti a Google Play-szolgÃ¡ ltatÃ¡ sokat. W]A(z) %1$s alkalmazÃ¡ s csak akkor mÃ¶ dik, ha engedÃ© lyezi a Google Play-szolgÃ¡ ltatÃ¡ sokat. elA(z) %1$s alkalmazÃ¡ s nem fut a Google Play-szolgÃ¡ ltatÃ¼ l, amelyek frissÃ© se folyamatban van. bjA(z) %1$s alkalmazÃ¡ s nem fut a Google Play-szolgÃ¡ ltatÃ¼ l, amelyek hiÃ¡ nyoznak az eszk `gA(z) %1$s alkalmazÃ¡ s nem fut a Google Play-szolgÃ¡ ltatÃ¼ l, amelyeket eszkÃ¡ mogat. jwA(z) %1$s alkalmazÃ¡ s problÃ¶ tt a Google Play-szolgÃ¡ ltatÃ¡ sok hasznÃ¡ lata sor
+ BGAndroid kamera hiba. Lehet, hogy Ãº jra kell indÃ­ tania a k Automatikus Az alsÃ³  lap kibont
+Ã© pelt karaktersz
+Ã¡ sodperccel EngedÃ© lyez Felirat Feliratok bekapcsol Feliratok kikapcsol ',Google Play-szolgÃ¡ ltatÃ¡ sok elÃ© rhet (,Google Play-szolgÃ¡ ltatÃ¡ sok engedÃ© lyez !%Google Play-szolgÃ¡ ltat Hang HangalapÃº  keresÃ¡ s folyamatban
+ Ismeretlen Ismeretlen (%1$s) -2Jelenlegi: Egy ism .3Jelenlegi: Nincs ism 06Jelenlegi: Ã– sszes ism JelszÃ³  megjelenÃ³ d bekapcsolÃ³ d kikapcsol
+Ã© s a teljes kÃ© perny
+Ã¡ si folyamat
+Ã© s folyamatban
+Ã© sek szÃ¼ neteltetveÃ© se folyamatbanÃ¡ lis karaktersz MegnyitÃ¡ s a telefonon Ment Nincs Nincs bejelÃ­ cionÃ¡ lja a vonalkÃ³ dot a keresÃ© glalapba a szkennelÃ¡ rbeszÃ© dpanel ikonjaÃ© szlegesen bejel
+ Teljes kÃ© pernyÃ¡ sok elrejtÃ¡ sok megjelenÃ¶ bb mint %1$d Ã¡ s ehhez az 
+ Visszateker VisszatekerÃ¡ sodperccelÃ¡ lassza ki, hogy dÃ¡ s naptÃ¡ rbeviteli mÃ¶ vegbeviteli mÃ¡ ltott a napt
+  Google Play
+  Google Play.  Google Play
+  GoogleÂ  Play
+  GoogleÂ  Play
+  Google Play. 
+  GoogleÂ  Play
+ ==%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi. VV%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho. %d izaziso ezintsha
+ Abahlaziyi Akumakiwe Akwaziwa Akwaziwa (%1$s) Amasethingi   Bonisa imenyu yokudonsela phansi Bonisa iphasiwedi Bonisa izilawuli zesidlali   Bonisa izilungiselelo ezingeziwe !!Buyekeza amasevisi we-Google Play Buyisela emuva Dlala Dlulisela phambili ((Dlulisela phambili ngamasekhondi angu-%d Faka Faka isikrini esigcwele Fihla izilawuli zesidlali Fihla izilungiselelo ezingeziwe Funa onyakeni wamanje %1$d Goqa Goqa ishidi eliphansi Hlehlisa ngamasekhondi angu-%d Hudula isibambi PPI-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play. DDI-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play. bbI-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho. WWI-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo. I-Stereo Ikholi engenayo Ikholi eqhubekayo Imenyu+ ;;Imodeli yamanje: Ungaphindi lutho. Guqula imodi yokuphinda. 55Imodi yamanje: Phinda kanye. Guqula imodi yokuphinda. 55Imodi yamanje: Phinda konke. Guqula imodi yokuphinda. Inqubekela phambili yokudlala Inqubo ye-VR Iphutha !!Iphutha lamasevisi we-Google Play Iphutha: okungavumelekile Isaziso esisha Ishidi Eliseceleni Ishintshele ekubukeni konyaka Isibuyekezo Isithonjana sebhokisi Isivinini Ithebhu Ividiyo Iyalanda
+ Iyalayisha ))Izaziso ezintsha ezingaphezu kokungu-%1$d --Izinhlamvu ezifakiwe ezingu-%1$d zokungu-%2$d KULUNGILE Khansela Khetha u-AM noma u-PM Khubaza imibhalo engezansi Khubaza imodi yokushova SSKudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze. Kumakiwe Kumakwe kancane Kususwa okulandiwe Kwenziwe Landa Londoloza Lutho Misa Namuhla %1$s Nika amandla %%Nika amandla amasevisi we-Google Play Nika amandla imibhalo engezansi Nika amandla imodi yokushova Nweba ishidi eliphansi Nweba phakathi Okujwayelekile Okukodwa Okulandelayo Okulandwayo kumiswe isikhashana
+ Okungeziwe Okunye Okuzenzakalelayo Okwangaphambilini Phendula Phuma kusikrini esigcwele Phumula Sesha Sesha   Shintshela ekubukeni Kwekhalenda Shintshela ekubukeni konyaka Shintshela kunyanga edlule Shintshela kunyanga elandelayo &&Shintshela kwimodi yokufaka yekhalenda $$Shintshela kwimodi yokufaka yombhalo   Shintshele ekubukeni Kwekhalenda Sula inkinga Sula umbhalo Susa i-%1$s Thola amasevisi we-Google Play Thumela umbuzo Ukulanda kuhlulekile Ukulanda kulinde i-WiFi Ukulanda kulinde inethiwekhi Ukulanda kuqedile Ukulandwa ))Ukungatholakali kwamasevisi e-Google Play Ukusesha ngezwi Ukuveza ikholi engenayo 00Umkhawulo wezinhlamvu udlule u-%1$d kokungu-%2$d Umsindo Umsindo ozungelezile Umsindo ozungelezile ongu-5.1 Umsindo ozungelezile ongu-7.1 VALA VULA Vala Ucingo Vula kufoni Yenqaba Zulazulela phezulu Zulela onyakeni %1$dÂ  jauni paziÅ† ojumiÂ  jauns paziÅ† ojumsÂ  jaunu paziÅ† ojumu AizvÄ“ rt pilnekr Altern anas tausti Atcelt
+ Atjaunin 6BAtlasiet Å¡ anas norise AtspÄ“ jot subtitrus
+Ä“ rt pilnekr
+ AutomÄ  tisks Cilne Cits DialoglodziÅ† a ikona Funkcijas taustiÂ  Play pakalpojumu atjauninÂ  Play pakalpojumu iegÂ  Play pakalpojumu iesp  GoogleÂ  Play pakalpojumu kÂ  Play pakalpojumu pieejam  zvana filtr
+ Iepriek jais IeskaujoÄ  rtot vienu. PÄ  rtot visu. P .3Iesl.: neatkÄ  rtot nevienu. P Iesniegt vaicÄ  jumu Iesp IespÄ“ jot subtitrus IestatÄ« jumi QWIr nepiecieÅ¡ ama jauna GoogleÂ  Play pakalpojumu versija. DrÄ   tiks instalÄ“ rst ekrÄ  na apakÄ« dz pusei Jauns paziÅ† ojums
+ Koment Labi HMLai lietotne %1$s darbotos, ierÄ  instalÄ“  GoogleÂ  Play pakalpojumi. ADLai lietotne %1$s darbotos, ir jÄ  iespÄ“ jo GoogleÂ  Play pakalpojumi. bhLai lietotne %1$s darbotos, ir jÄ  instalÄ“  GoogleÂ  Play pakalpojumi. PaÅ¡ laik notiek to atjaunin eiLai lietotne %1$s darbotos, ir nepiecieÅ¡ ami Google Play pakalpojumi, taÅ« su ierÄ« ce tos neatbalsta. HJLai lietotne %1$s darbotos, jums ir jÄ  atjaunina GoogleÂ  Play pakalpojumi. LejupielÄ  de ir pabeigta LejupielÄ  de neizdev
+ ()LejupielÄ  des gaida savienojumu ar Wi-Fi. (*LejupielÄ  des gaida savienojumu ar tÄ  rtrauktas. Lejupiel _fLietotnÄ“  %1$s ir radusies problÄ“ ma ar Google Play pakalpojumu darb iniet vÄ“ lreiz.
+ MeklÄ“ jiet MeklÄ“ t ar balsi Meta tausti Notiek iel Notiek lejupiel  Notiek lejupielÄ« t vaicÄ  jumu
+Ä  kamais Papildu PauzÅ¡ reizÄ“ jais zvans Poga IzvÄ  riet uz iepriekÄ  riet uz nÄ  kamo mÄ“ nesiÄ  riet uz paÅ¡ reizÄ“ jo gadu (%1$d)Å¡ o gadu: %1$dÄ“ gties uz KalendÄ  ra skatuÄ“ gties uz gada skatuÄ“ gties uz kalendÄ  ra ievades reÄ“ gties uz teksta ievades reÄ“ gts uz KalendÄ  ra skatuÄ“ gts uz gada skatuÅ¡ anas taustiÄ  rsniegts rakstzÄ« mju skaita ierobeÅ¾ ojums (%1$d
+Ä« t uz priekÄ« t uz priekÄ« t uz priekÄ  rvietoties uz augÄ  ja vadÄ« klasÄ« t nolaiÅ¾ amo izvÄ« t papildu iestatÄ« jumusÄ« t paroli SaglabÄ¼ aut ekrÄ  na apakÄ¼ as lapu Simbolu taustiÄ“ gtie parakstiÄ  ja vadÄ« klasÄ“ pt papildu iestatÄ« jumus
+ anas taustiÂ  jauni paziÅ† ojumi VilkÅ¡ anas turis atstarpes tausti anas tausti ievad anas tausti
+ %1$d av %2$d tecken har angetts =>%1$s fungerar inte om du inte aktiverar Google Play-tjÃ¤ nster. JM%1$s fungerar inte utan Google Play-tjÃ¤ nsterna, som inte stÃ¥  enheten. AC%1$s kan inte kÃ¶ ras om du inte uppdaterar Google Play-tjÃ¤ nsterna. SW%1$s kan inte kÃ¶ ras utan Google Play-tjÃ¤ nster, och dessa uppdateras fÃ¤ rvarande. GJ%1$s kan inte kÃ¶ ras utan Google Play-tjÃ¤ nsterna, som saknas pÃ¥  enheten. %d ny avisering %d nya aviseringar 5.1-kanaligt surroundljud 7.1-kanaligt surroundljud Aktivera Aktivera Google Play-tjÃ¤ nster Aktivera blandningsl Aktivera helsk Aktivera undertexter 7;Aktuellt lÃ¤ ge: Upprepa alla. Ã„ ndra lÃ¶ r upprepning. 59Aktuellt lÃ¤ ge: Upprepa en. Ã„ ndra lÃ¶ r upprepning. 7;Aktuellt lÃ¤ ge: Upprepa inga. Ã„ ndra lÃ¶ r upprepning.Ã¥  sidan av skÃ¤ rmen Automatiskt Avvisa $%Byt till kalender som inmatningsl Byt till kalendervy  !Byt till text som inmatningsl Byt till Ã¥ rsvy Ctrl Delvis markerad MQDet har uppstÃ¥ tt ett fel mellan %1$s och Google Play-tjÃ¤ nsterna. F ./Det uppstod tyvÃ¤ rr ett fel med Androidkameran.
+ Dialogikon Du har bytt till kalendervy Du har bytt till Ã¥ rsvyÃ¶ lj spelarkontrollerÃ¶ lj ytterligare instÃ¤ llningar RTEn ny version av Google Play-tjÃ¤ nster krÃ¤ vs. Den uppdateras automatiskt inom kort. Ett inkommande samtal filtrerasÃ¥  Google Play-tjÃ¤ nster
+ Fel: ogiltigtÃ¤ n %1$d nya aviseringar Flik
+ Funktion
+Ã¥ ende HandtagÃ¤ mta Google Play-tjÃ¤ nster Idag %1$s Inaktivera blandningsl Inaktivera undertexter Inkommande samtal
+ Installera
+ InstÃ¤ llningar
+ Inte markerad Klar Kommentar
+ Komprimera *,Komprimera arket pÃ¥  nedre delen av skÃ¤ rmen Ladda ned
+ Laddar ned LjudÃ¤ ser in Markerad Meny !"Navigera till innevarande  Navigera till  Navigera upp
+ Nedladdningar Nedladdningar har pausats Nedladdningar tas bort !$Nedladdningar vÃ¤ ntar pÃ¤ tverket Nedladdningar vÃ¤ ntar p Nedladdningen misslyckades Nedladdningen Ã¤ r klar Ny avisering
+ <?Placera steckkoden inom sÃ¶ karens rektangel fÃ¥ ende samtal
+ Rensa text
+Ã¶ kning
+ Skicka fr
+ Snabbspola fram Spara Spela upp Spola framÃ¥ t %d sekund Spola framÃ¥ t %d sekunder Spola tillbaka Spola tillbaka %d sekund Spola tillbaka %d sekunder Stoppa Surroundljud Symbol Ta bort (%1$s) Ta bort fr ,.TeckengrÃ¤ nsen har Ã¶ verskridits: %1$d av %2$dÃ¤ nglighet fÃ¶ r Google Plays tjÃ¤ nster Till Undertexter Uppdatera Uppdatera Google Play-tjÃ¤ nster UppspelningsfÃ¶ rloppÃ¶ ka arket pÃ¥  nedre delen av skÃ¤ rmenÃ¶ ka till hÃ¤ lften
+ Visa lÃ¶ senord Visa rullgardinsmenyn Visa spelarkontroller Visa ytterligare instÃ¤ llningarÃ¤ lj mellan FM och EM blanksteg retur ndra till f ndra till n ppna pÃ¥  mobilen
+  Google Play.  Google Play,   Google Play.   Google Play.   Google Play.  Google Play,   Google Play,   Google Play  Google Play  Google Play  Google Play  Google Play ]]%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako. [[%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako. OO%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa. 99%1$s haitafanya kazi hadi usasishe huduma za Google Play. <<%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play. KK%1$s inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena. (%1$s) isiyojulikana Aikoni ya Kidirisha Aikoni ya buruta
+ Arifa %d mpya
+ Arifa mpya %%Badilisha utumie mwonekano wa Kalenda ##Badilisha utumie mwonekano wa mwaka Chagua AM au PM Cheza Endelea Ficha mipangilio ya ziada Ficha vidhibiti vya kichezaji Funga skrini nzima Fungua kwenye simu Fungua skrini nzima Futa hoja Futa maandishi Ghairi Haijulikani
+ Hakijateuliwa Hali ya Uhalisia Pepe 00Hali ya sasa: Rudia moja. Geuza hali ya kurudia. 00Hali ya sasa: Rudia zote. Geuza hali ya kurudia. 44Hali ya sasa: Usirudie yoyote Geuza hali ya kurudia. Hamna Hifadhi Hitilafu %%Hitilafu kwenye huduma za Google Play Hitilafu: si sahihi IMEWASHWA IMEZIMWA Imepakuliwa Imeshindwa kupakua   Imesimamisha shughuli ya kupakua Inachuja simu unayopigiwa Inaondoa vipakuliwa Inapakia Inapakua Jibu Kasi Kata simu Kataa Kiasi cha uchezaji Kichupo Kimeteuliwa Kimeteuliwa kwa kiasi fulani Kunja Kunja safu ya chini Kutafuta kwa kutamka Laha ya Pembeni Manukuu Mbadala Mbps %1$.2f
+ Mipangilio ''Mwonekano umebadilishwa kuwa wa Kalenda %%Mwonekano umebadilishwa kuwa wa mwaka Nenda kwenye mwezi unaofuata
+ Nimemaliza
+ Ondoa %1$s Onyesha menyu kunjuzi Onyesha mipangilio ya ziada Onyesha nenosiri Onyesha vidhibiti vya kichezaji Otomatiki Pakua
+ Panua nusu Panua safu ya chini Pata huduma za Google Play Rudi kwenye mwezi uliotangulia
+ Rudisha nyuma Rudisha nyuma kwa sekunde %d Sakinisha Sasisha Sasisha huduma za Google Play Sauti Sauti inayozingira Sauti inayozingira ya 5.1 Sauti inayozingira ya 7.1 Sawa Simamisha Simu inayoendelea Simu uliyopigiwa Sitisha
+ Sogeza juu Sogeza kwenye mwaka huu %1$d Sogeza kwenye mwaka wa %1$d Sogeza mbele haraka ""Sogeza mbele haraka kwa sekunde %d Tafuta Tafuta UUToleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi. ..Tumia programu ya kuingiza data kwenye kalenda ,,Tumia programu ya kuingiza data ya maandishi Uchambuzi Uliotangulia 33Umepitisha idadi ya juu ya herufi %1$d kati ya %2$d   Umeweka herufi %1$d kati ya %2$d Upakuaji unasubiri Wi-Fi Upakuaji unasubiri mtandao $$Upatikanaji wa huduma za Google Play
+ Vipakuliwa Wa ziada Washa Washa hali ya kuchanganya Washa huduma za Google Play
+ Washa manukuu Wasilisha hoja
+ Ya kawaida Zaidi ya arifa %1$d mpya Zima hali ya kuchanganya Zima manukuu
+  Google Play   Google Play   Google Play   Google Play   Google Play   Google Play  ,KGoogle Play  $:Google Play 
+Õ§  Google Play 
+  Google Play 
+  Google Play 
+  Google Play 
+  Google Play   Google Play  5VGoogle Play  +Google Play   3Google Play  5VGoogle Play  1Google Play €› Google Play   3Google Play   3Google Play  BmGoogle Play  K}Google Play 
+  Google Play 
+  3Google Play  $RGoogle Play  (^Google Play  !IGoogle Play €¦ Google Play €ß Google Play  Google Play  -mGoogle Play  !KGoogle Play €³ Google Play 
+  Google Play 
+ %1$d/%2$d simvol daxil edilib 4;%1$s Google Play xidm ;D%1$s Google Play xidmÉ™ rini aktiv ed LT%1$s cihazÃ¶ vcud olmayan Google Play xidmÉ™ ri olmadan  mayacaq. IS%1$s hal-hazÉ™ n Google Play xidmÉ™ ri olmadan  mayacaq.
+ %1$s silinÉ™ tbiqi ilÉ™  Google Play xidmÉ™ ri arasÄ± nda problem var. Daha sonra yenid %d yeni bildiri
+ Aktiv edin Avtomatik Axtar
+ lan menyunu g =ACari rejim: Birini tÉ™ krarlayÉ™ krarlanma rejimini ke ?FCari rejim: HamÉ™ krarlanma rejimini ke CHCari rejim: HeÃ§  birini tÉ™ krarlamayÉ™ krarlanma rejimini ke Cavab verin \nCihazÉ™ n Google Play xidmÉ™ ri olmadan %1$s tÉ™ tbiqi i
+ Dialoq ikonas Endirilir EndirilÉ™ r silinir Endirin Endirm EndirmÉ™  durdurulub EndirmÉ™  tamamland
+ !Google Play xidm #%Google Play xidmÉ™ rini aktiv edin '-Google Play xidm dirin "&Google Play xidm RaGoogle Play xidmÉ™ rinin yeni versiyas %,Google Play xidm
+ v edin Menyu+ Minimum %1$d yeni bildiriÉ™ tn daxiletmÉ™  rejiminÉ™ ni alan Oxudun OxutmanÄ± n gediÄ± rma rejimini aktiv edinÄ± rma rejimini deaktiv edin Qism
+ &)Simvol limiti %1$d/%2$d d
+ÄŸ unu silin SubtitrlÉ™ ri aktiv edin SubtitrlÉ™ ri deaktiv edin
+ Tam ekrana daxil olun Tam ekrandan É™ ndirin Telefonda aÉ™ qvim daxiletmÉ™  rejiminÃ§ ildi VR rejimi
+ Yeni bildiri Yoxdur Yuxar
+ daxil olun silin mtina edin
+ %1$d/%2$d ta belgi kiritildi bd%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qoâ€˜ llab-quvvatlamaydi. OS%1$s ilovasini Google Play xizmatlariga ulab boâ€˜ lmadi. Qaytadan urinib ko SS%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda. KM%1$s ishlashi uchun qurilmangizda Google Play xizmatlarini oâ€˜ rnatish lozim. %d soniya oldinga %d soniya orqaga %d ta yangi bildirishnoma 5.1 qamrovli ovoz 7.1 qamrovli ovoz Avvalgi oyga oÊ» zgartirish Avvalgisi Bekor qilish Belgilangan
+ Belgilanmagan
+ Bugun %1$s Butun ekran rejimidan chiqish Butun ekran rejimiga kirish Google Play xizmatlari xatosi >>Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi. 66Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi. "$Google Play xizmatlarini oâ€˜ rnatish ""Google Play xizmatlarini yangilash Google Play xizmatlarini yoqish %%Google Play xizmatlarining mavjudligi XZGoogle Play xizmatlarining yangi versiyasi zarur. U oâ€˜ zini qisqa vaqt ichida yangilaydi. 11Harflar soni (%1$d) cheklovdan (%2$d) oshib ketdi Hech qanday Ijro Ijro rivoji Javob berish Joriy chaqiruv ?@Joriy rejim: Barchasi takrorlanadi. Takrorlash rejimiga o >?Joriy rejim: Bittasi takrorlanadi. Takrorlash rejimiga o CDJoriy rejim: Hech qaysi takrorlanmaydi. Takrorlash rejimiga o Joriy yilga oÊ» tish %1$d Keyingi oyga oÊ» zgartirish Keyingisi Kiruvchi chaqiruv Kiruvchi chaqiruvni filtrlash Matn kiritish rejimiga oÊ» tish Matnni tozalash Muloqot ikonkasi Muqobil Noaniq Notanish (%1$s) Oldinga oâ€˜ tkazish Olib tashlash: %1$s Orqaga qaytarish Ovozli qidiruvâ€˜ rnatish Parol ochiq tursin   Pastga ochiluvchi menyuni ochish Pleyer tugmalarini berkitish Pleyer tugmalarini chiqarish Probel
+ Qamrovli ovoz Qidirish Qidiruv Qisman belgilangan
+Ê» shimcha sozlamalarni chiqarishÊ» shimcha sozlamalarni yashirish Quyi ekranni kengaytirish Quyi ekranni yig Rad etish Saqlash Sharh
+ Sozlamalarâ€˜ rov yaratishâ€˜ rovni oâ€˜ chirish Surish dastagi Tab : Varaq Taglavhalar Taglavhalarni faolsizlantirish Taglavhalarni yoqish  Taqvim kiritish rejimiga oÊ» tish Taqvim rejimiga almashdi Taqvim rejimiga oÊ» tish ""Tasodifiy rejimni faolsizlantiring Tasodifiy rejimni yoqing Telefonda ochish Tezlik
+â€˜ xtatish Tugatish &&Tushdan oldin yoki keyinligini tanlang Xato Xato: yaroqsiz YONIQ
+ YOQILMAGAN !!Yana %1$d dan ortiq bildirishnoma Yangi bildirishnoma Yangilash Yarmiga kengaytirish Yil rejimiga almashdi Yilga nazar solish: %1$d Yillik rejimga oÊ» tish Yon varaq Yopish Yoqish
+ Yuklab olindi Yuklab olinmadi Yuklab olinmoqda Yuklab olish Yuklanmalar $$Yuklanmalar Wi-Fi aloqasini kutmoqda ))Yuklanmalar internetga ulanishni kutmoqda Yuklanmalar olib tashlanmoqda Yuklanmalar pauzada Yuklanmoqda %d notificaciones nuevas %d notificaciÃ³ n nueva Cambiar a la vista anual   Cambiar a la vista de Calendario ((Cambiar al modo de entrada de calendario ##Cambiar al modo de entrada de texto ##Caracteres ingresados: %1$d de %2$d Contraer la hoja inferior Error: No vÃ¡ lido Expandir hasta la mitad Expandir la hoja inferiorÃ¡ s de %1$d notificaciones nuevas Navegar al a Navegar al aÃ± o actual (%1$d) Quitar %1$s "#Se cambiÃ³  a la vista de Calendario Se cambiÃ³  a la vista de a 24Se excediÃ³  en %1$d el lÃ­ mite de caracteres de %2$d Selecciona a.m. o p.m. Verificado parcialmente cono de diÃ¡ logo %1$s Aujourd'hui YZ%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis  ST%1$s ne fonctionnera pas tant que vous n'aurez pas activÃ©  les services Google Play. WX%1$s ne fonctionnera pas tant que vous n'aurez pas mis Ã   jour les services Google Play. ACTIVER !"Activer le mode lecture alÃ© atoire   Activer les services Google Play Activez le mode plein Ã© cran Afficher d'autres paramÃ¨ tres
+ Autre version  !Avancer rapidement de %dÂ  seconde !"Avancer rapidement de %dÂ  secondes Chargement en cours &'DisponibilitÃ©  des services Google Play
+Ã© sactiver le mode lecture alÃ© atoireÃ© velopper la zone de contenu dans le bas de l'Ã© cranÃ© velopper Ã   moiti ErreurÂ  : incorrecte Faire glisser la poign Filtrer un appel entrantÃ® te de dialogue ""Installer les services Google Play xxL'application %1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil. Y]L'application %1$s Ã© prouve un problÃ¨ me avec les services GoogleÂ  Play. Veuillez rÃ© essayer. ilLa nouvelle version des services Google Play est nÃ© cessaire. Elle sera bientÃ´ t installÃ© e automatiquement. ,0Limite de caract Lire Masquer les autres paramÃ¨ tres &'Mettre Ã   jour les services Google Play =BMode actuelÂ  : aucune rÃ© tition. Basculer le mode rÃ© tition. <AMode actuelÃ© ter une fois. Basculer le mode rÃ© tition. 8=Mode actuelÃ© ter. Basculer le mode rÃ© tition. Naviguer vers l'ann  "Naviguer Ã© e en cours %1$d Passer au mode d'entrÃ© e Agenda Passer au mode d'entrÃ© e Texte  !Passer Ã   l'affichage de l'agenda Passer Ã   la vue annuelle PassÃ   la vue annuelle PassÃ   la vue d'Agenda $$Plus de %1$d nouvelles notifications Quittez le mode plein Ã© cran Reculer de %dÂ  seconde Reculer de %dÂ  secondes Revenir en arriÃ© duire la zone de contenu dans le bas de l'Ã© cran Son ambiophonique Son ambiophonique Son ambiophonique Sous-titres cod SupplÃ© mentaire )-Suppression des tÃ© chargements en coursÃ© lectionner AM ou PM TerminÃ© chargement en coursÃ© chargements en attente du Wi-FiÃ© chargements en attente du rÃ© seauÃ© chargements interrompus
+ Dialogue Icon Downloads waiting for Wi-Fi Error: Invalid Fast-forward Fast-forward %d second Fast-forward %d seconds Hang up
+ Not ticked
+ On-going call Partially ticked Select a.m. or p.m. Show drop-down menu
+ Side sheet Switched to calendar view Ticked Screening an incoming call Submit query Voice search Clear query Incoming call Navigate up Ongoing call !Google Play  Google Play   Google Play 
+  Google Play  Google Play   Google Play   Google Play 
+  Google Play   Google Play 
+  Google Play   Google Play 
+  Google Play   Google Play 
+ Enter  !CGoogle Play  !Google Play  Google Play
+  Google Play   Google Play 
+  Google Play   Google Play   Google Play   Google Play   Google Play 
+  Google Play 
+Ã£ o funciona sem o Google Play Services, o qual estÃ¡  sendo atualizado no momento.Ã³  funciona com o Google Play Services ativado.Ã³  funciona com uma versÃ£ o atualizada do Google Play Services. %d nova notifica %d novas notifica Abrir a pÃ¡ gina inferior Abrir no smartphone Alterar para o mÃª s anterior Alterar para o prÃ³ ximo mÃ§ a de arrastar Ativar Ativar o Google Play Services Atualizar   Atualizar o Google Play Services ""Caracteres inseridos: %1$d de %2$d
+ Carregando
+ Desmarcada ''Disponibilidade do Google Play Services Erro Erro do Google Play Services Erro: invÃ¡ lido Exibir senha Expandir atÃ©  a metade Fechar a pÃ¡ gina inferior Guia Hoje %1$s Instalar o Google Play Services Ir para o ano %1$d Ir para o ano atual %1$d **Limite de %2$d caracteres excedido em %1$d Limpar texto !Mais de %1$d novas notifica Mostrar menu suspenso #%Mudar para a visualiza o da Agenda  "Mudar para a visualiza &&Mudar para o modo de entrada da agenda %%Mudar para o modo de entrada de texto #%Mudou para a visualiza o de Agenda  "Mudou para a visualiza Nova notifica JKO app %1$s estÃ¡  com problemas com o Google Play Services. Tente novamente. adO app %1$s nÃ£ o funciona sem o Google Play Services, o qual nÃ¡  instalado no seu dispositivo. `dO app %1$s nÃ£ o funciona sem o Google Play Services, o qual nÃ©  compatÃ­ vel com seu dispositivo. Parcialmente marcadaÃ¡ gina lateral Remover %1$s Salvar Selecionar AM ou PMÃ‰  necessÃ¡ ria uma nova versÃ£ o do Google Play Services. Ele serÃ¡  atualizado em breve. cone de caixa de diÃ¡ logo FG%1$s no funcionarÃ¡  a menos que habilites los servicios de Google Play. IJ%1$s no se ejecutarÃ¡  a menos que actualices los servicios de Google Play. ab%1$s no se ejecutarÃ¡  sin los servicios de Google Play, que no son compatibles con tu dispositivo. jl%1$s no se ejecutarÃ¡  sin los servicios de Google Play. La plataforma se estÃ¡  actualizando en este momento. KK%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo. ACTIVAR Abrir en el telÃ© fono ##Actualizar servicios de Google Play Adelantar %dÂ  segundo Adelantar %dÂ  segundos Ahora: no repite. Cambia modo. Ahora: rep. todo. Cambia modo. Ahora: repetir 1. Cambia modo. Avanzar Contraer
+ DESACTIVAR (/Disp. de los Servicios de Google Play Error de Google Play Services Esperando Wi-Fi para descargas Esperando red para descargas Funci  !Habilitar reproducciÃ³ n aleatoria ""Habilitar servicios de Google Play "#Inhabilitar reproducciÃ³ n aleatoria Iniciar pantalla completa Listo
+Ãº scula+  Mostrar configuraciÃ³ n adicional Navegar hacia arriba No se pudo descargar   Obtener servicios de Google Play  Ocultar configuraciÃ³ n adicional !!Ocultar controles del reproductor ReproducciÃ³ n en curso Se completÃ³  la descarga hkSe necesita una nueva versiÃ³ n de los servicios de Google Play. Se actualizarÃ¡ n automÃ¡ ticamente en breve. Se pausaron las descargas Sonido envolvente 5.1 Sonido envolvente 7.1 borrar espacio JL%1$s estÃ¡  a ter problemas com os ServiÃ§ os do Google Play. Tente novamente.
+ A carregar !A filtrar uma chamada recebida A remover as transferÃª ncias
+ A transferir Abrir no telem Ativar modo aleat Ativar serviÃ§ os do Google Play !"Atualizar serviÃ§ os do Google Play $$Carateres introduzidos: %1$d de %2$d Chamada em curso Chamada recebida
+ Coment
+ Desativar modo aleat Desconhecida '(Disponibilidade ServiÃ§ os do Google Play  !Erro dos ServiÃ§ os do Google Play Erro: invÃ¡ lida Expanda a sec o inferior Expandir atÃ©  metade Falha na transferÃª ncia
+ Indicador para arrastar Legendas **Limite de carateres excedido: %1$d de %2$d !Mais de %1$d notifica es novas .1Modo atual: nÃ£ o repetir. Ative/des. repeti .0Modo atual: repet. tudo. Ative/des. repeti -/Modo atual: repetir um. Ative/des. repeti
+ Modo de RV Mostrar controlos do leitor Mostrar defini es adicionais Mostrar menu pendente Mostrar palavra-passe Mudar para a vista de ano  !Mudar para a vista do Calend Mudar para ecrÃ£  inteiro -0Mudar para o modo de introdu o de calend (*Mudar para o modo de introdu o de texto Mudar para o mÃª s anterior Mudar para o mÃª s seguinte Mudou para a vista de ano  !Mudou para a vista do Calend Navegar para o ano atual %1$d Navegue para o ano %1$dÃ£ o selecionadaÃ­ vel executar o %1$s sem os ServiÃ§ os do Google Play, os quais nÃ£ o compatÃ­ veis com o seu dispositivo. CFO %1$s nÃ£ o funciona enquanto nÃ£ o ativar os serviÃ§ os do Google Play. IMO %1$s nÃ©  executado enquanto nÃ£ o atualizar os serviÃ§ os do Google Play. bfO %1$s nÃ©  executado sem os ServiÃ§ os do Google Play, os quais estÃ£ o em falta no seu dispositivo.Ã©  executado sem os serviÃ§ os do Google Play, os quais estÃ£ o a ser atualizados. Obter serviÃ§ os do Google Play Ocultar controlos do leitor Ocultar defini es adicionais Parcialmente selecionada Progresso da reprodu Recuar Reduza a sec o inferior Reduzir Retroceder %d segundo Retroceder %d segundos Sair do ecrÃ£  inteiro Selecionada Separador Som surround Som surround 5.1 Som surround 7.1 Suplementar
+ Transferir TransferÃª ncia conclu TransferÃª ncias  TransferÃª ncias a aguardar Wi-Fi "#TransferÃª ncias a aguardar uma rede !"TransferÃª ncias colocadas em pausaÃ‰  necessÃ¡ ria uma nova versÃ£ o dos serviÃ§ os do Google Play. Esta serÃ¡  atualizada automaticamente em breve.
+ Google Play  Google Play   Google Play 
+  (Subtitle)
+  Google Play   (Subtitle)  Google Play 
+  Google Play   Google Play   Google Play   Google Play   Google Play  com.ridescantp.mahle.ridescantp
+ interpolator
+ abc_grow_fade_in_from_bottom abc_popup_enter abc_popup_exit abc_shrink_fade_out_from_bottom 22btn_checkbox_to_checked_box_inner_merged_animation 22btn_checkbox_to_checked_box_outer_merged_animation ++btn_checkbox_to_checked_icon_null_animation 44btn_checkbox_to_unchecked_box_inner_merged_animation 55btn_checkbox_to_unchecked_check_path_merged_animation --btn_checkbox_to_unchecked_icon_null_animation ))btn_radio_to_off_mtrl_dot_group_animation **btn_radio_to_off_mtrl_ring_outer_animation //btn_radio_to_off_mtrl_ring_outer_path_animation ((btn_radio_to_on_mtrl_dot_group_animation ))btn_radio_to_on_mtrl_ring_outer_animation ..btn_radio_to_on_mtrl_ring_outer_path_animation design_bottom_sheet_slide_in design_bottom_sheet_slide_out design_snackbar_in design_snackbar_out fragment_fast_out_extra_slow_in ,,linear_indeterminate_line1_head_interpolator ,,linear_indeterminate_line1_tail_interpolator ,,linear_indeterminate_line2_head_interpolator ,,linear_indeterminate_line2_tail_interpolator linear_interpolator m3_bottom_sheet_slide_in m3_bottom_sheet_slide_out m3_motion_fade_enter m3_motion_fade_exit m3_side_sheet_enter_from_right m3_side_sheet_exit_to_right mtrl_bottom_sheet_slide_in mtrl_bottom_sheet_slide_out mtrl_card_lowers_interpolator splash_animation chevron_checked_unchecked chevron_unchecked_checked !!design_appbar_state_list_animator design_fab_hide_motion_spec design_fab_show_motion_spec fragment_close_enter fragment_close_exit fragment_fade_enter fragment_fade_exit fragment_open_enter fragment_open_exit m3_appbar_state_list_animator ##m3_btn_elevated_btn_state_list_anim m3_btn_state_list_anim   m3_card_elevated_state_list_anim m3_card_state_list_anim m3_chip_state_list_anim   m3_elevated_chip_state_list_anim 00m3_extended_fab_change_size_collapse_motion_spec ..m3_extended_fab_change_size_expand_motion_spec   m3_extended_fab_hide_motion_spec   m3_extended_fab_show_motion_spec ##m3_extended_fab_state_list_animator m3_fab_state_list_animator ..m3_split_button_chevron_overshoot_interpolator ((m3_split_button_chevron_reverse_rotation   m3_split_button_chevron_rotation mtrl_btn_state_list_anim ##mtrl_btn_unelevated_state_list_anim mtrl_card_state_list_anim mtrl_chip_state_list_anim %%mtrl_extended_fab_state_list_animator mtrl_fab_hide_motion_spec mtrl_fab_show_motion_spec exo_controls_playback_speeds SharedValue
+ SharedValueId actionBarDivider actionBarItemBackground actionBarPopupTheme
+ actionBarSize actionBarSplitStyle actionBarStyle actionBarTabBarStyle actionBarTabStyle actionBarTabTextStyle actionBarTheme actionBarWidgetTheme actionButtonStyle actionDropDownStyle actionLayout actionMenuTextAppearance actionMenuTextColor actionModeBackground actionModeCloseButtonStyle !!actionModeCloseContentDescription actionModeCloseDrawable actionModeCopyDrawable actionModeCutDrawable actionModeFindDrawable actionModePasteDrawable actionModePopupWindowStyle actionModeSelectAllDrawable actionModeShareDrawable actionModeSplitBackground actionModeStyle actionModeTheme actionModeWebSearchDrawable actionOverflowButtonStyle actionOverflowMenuStyle actionProviderClass actionTextColorAlpha actionViewClass activeIndicatorLabelPadding activityChooserViewStyle ad_marker_color ad_marker_width addElevationShadow alertDialogButtonGroupStyle alertDialogCenterButtons alertDialogStyle alertDialogTheme
+ allowStacking alpha alphabeticModifiers altSrc animateCircleAngleTo animateMenuItems animateNavigationIcon animateRelativeTo
+ animationMode animation_enabled appBarLayoutStyle applyMotionScene arcMode arrowHeadLength arrowShaftLength artwork_display_mode
+ attributeName ##autoAdjustToWithinGrandparentBounds autoCompleteMode autoCompleteTextViewStyle autoShowKeyboard autoSizeMaxTextSize autoSizeMinTextSize autoSizePresetSizes autoSizeStepGranularity autoSizeTextType autoTransition auto_show backHandlingEnabled
+ background backgroundColor backgroundInsetBottom backgroundInsetEnd backgroundInsetStart backgroundInsetTop backgroundOverlayColorAlpha backgroundSplit backgroundStacked backgroundTint backgroundTintMode badgeFixedEdge badgeGravity badgeHeight badgeRadius badgeShapeAppearance badgeShapeAppearanceOverlay
+ badgeStyle badgeText badgeTextAppearance badgeTextColor badgeVerticalPadding badgeWidePadding
+ badgeWidth badgeWithTextHeight badgeWithTextRadius badgeWithTextShapeAppearance ##badgeWithTextShapeAppearanceOverlay badgeWithTextWidth barLength bar_gravity
+ bar_height barrierAllowsGoneWidgets barrierDirection
+ barrierMargin behavior_autoHide behavior_autoShrink behavior_draggable   behavior_draggableOnNestedScroll behavior_expandedOffset behavior_fitToContents behavior_halfExpandedRatio behavior_hideable behavior_overlapTop behavior_peekHeight behavior_saveFlags %%behavior_significantVelocityThreshold behavior_skipCollapsed blendSrc borderRound borderRoundPercent borderWidth borderlessButtonStyle bottomAppBarStyle bottomInsetScrimEnabled bottomNavigationStyle bottomSheetDialogTheme bottomSheetDragHandleStyle bottomSheetStyle boxBackgroundColor boxBackgroundMode boxCollapsedPaddingTop boxCornerRadiusBottomEnd boxCornerRadiusBottomStart boxCornerRadiusTopEnd boxCornerRadiusTopStart boxStrokeColor boxStrokeErrorColor boxStrokeWidth boxStrokeWidthFocused
+ brightness buffered_color buttonBarButtonStyle buttonBarNegativeButtonStyle buttonBarNeutralButtonStyle buttonBarPositiveButtonStyle buttonBarStyle buttonCompat
+ buttonGravity
+ buttonIcon buttonIconDimen buttonIconTint buttonIconTintMode buttonPanelSideLayout
+ buttonSize buttonSizeChange buttonStyle buttonStyleSmall
+ buttonTint buttonTintMode cardBackgroundColor cardCornerRadius
+ cardElevation cardForegroundColor cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding
+ cardViewStyle carousel_alignment carousel_backwardTransition carousel_emptyViewsBehavior carousel_firstView

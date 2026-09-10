@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NirixX</string>
+    <string name="welcome_sub">Pro-grade two-wheeler diagnostics, ECU flashing and live data — one tool for the whole bay.</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Not Connected</string>
+    <string name="select_vci">Select VCI</string>
+    <string name="ecu_flashing">ECU Flashing</string>
+    <string name="flash_warning_msg">Do not close the app until the flash is completed</string>
+    <string name="starting_flashing_process">Starting flashing process</string>
+    <string name="ecu_flashing_completed">ECU Flashing completed</string>
+    <string name="reading_battery_voltage">Reading Battery Voltage</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_vin">Enter VIN</string>
+</resources>

@@ -1,0 +1,4 @@
+out/
+# keystore/ — dev key committed on purpose (identical signatures CI vs local)
+*.tmp
+*.idsig

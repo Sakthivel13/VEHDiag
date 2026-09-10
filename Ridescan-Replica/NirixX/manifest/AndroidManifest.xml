@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.nirixx.app"
+    android:versionCode="14"
+    android:versionName="1.6.3">
+
+        <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
+    <uses-feature android:name="android.hardware.wifi" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.any" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+
+    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="34" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+
+    <application
+        android:name=".NirixXApp"
+        android:label="NirixX"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@style/Theme.NirixX"
+        android:allowBackup="false"
+        android:enableOnBackInvokedCallback="true"
+        android:supportsRtl="true">
+
+        <activity android:name=".SplashActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TutorialActivity" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SsoLoginActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".OtpActivity" />
+        <activity android:name=".NewPinActivity" />
+        <activity android:name=".UserTypeActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".AddDeviceActivity" />
+        <activity android:name=".VehicleListActivity" />
+        <activity android:name=".VinDiagnosisActivity" />
+        <activity android:name=".VinFlashingActivity" />
+        <activity android:name=".SelectECUActivity" />
+        <activity android:name=".ECUDiagnosisActivity" />
+        <activity android:name=".ReadDTCsActivity" />
+        <activity android:name=".LiveParameterActivity" />
+        <activity android:name=".IOControlActivity" />
+        <activity android:name=".RoutineControlActivity" />
+        <activity android:name=".IuprTestActivity" />
+        <activity android:name=".SelectFlashVariantActivity" />
+        <activity android:name=".FlashActivity" />
+        <activity android:name=".SupplierFlashListActivity" />
+        <activity android:name=".SupplierFlashActivity" />
+        <activity android:name=".ClusterFlashListActivity" />
+        <activity android:name=".VciFirmwareListActivity" />
+        <activity android:name=".WriteDataActivity" />
+        <activity android:name=".SystemCheckActivity" />
+        <activity android:name=".ReportsActivity" />
+        <activity android:name=".DiagnosticReportActivity" />
+        <activity android:name=".VhrActivity" />
+        <activity android:name=".BatteryHealthActivity" />
+        <activity android:name=".FirmwareUpdateActivity" />
+        <activity android:name=".NotificationActivity" />
+        <activity android:name=".ServiceManualActivity" />
+        <activity android:name=".AccountActivity" />
+        <activity android:name=".ManualDiagnosticActivity" />
+        <activity android:name=".GearLearningActivity" />
+        <activity android:name=".LiveDataRecordingActivity" />
+        <activity android:name=".LogViewerActivity" />
+        <activity android:name=".FileViewerActivity" />
+        <activity android:name=".UpdateActivity" />
+        <activity android:name=".UpdateDescriptionActivity" />
+        <activity android:name=".SystemMonitoringActivity" />
+        <activity android:name=".SupportChatActivity" />
+        <activity android:name=".PhysicalEvaluationActivity" />
+        <activity android:name=".DealerInformationActivity" />
+        <activity android:name=".DataWatcherActivity" />
+        <activity android:name=".IntroVideosActivity" />
+
+        <service android:name=".ClientService" android:foregroundServiceType="dataSync" android:exported="false" />
+        <service android:name=".ScreenRecordOverlayService" android:exported="false" />
+        <service android:name=".AppCloseService" android:exported="false" android:stopWithTask="false" />
+        <provider android:name=".DocsProvider" android:authorities="com.nirixx.app.docs"
+            android:exported="false" android:grantUriPermissions="true" />
+    </application>
+</manifest>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_bg">
+
+    <!-- Reference-style white app bar: back, title, ECU chip, user, brand+bell -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#FFFFFFFF"
+        android:paddingLeft="6dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_centerVertical="true"
+            android:padding="11dp"
+            android:src="@drawable/ic_back"
+            android:tint="#FF3A4663" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/btnBack"
+            android:layout_marginLeft="4dp"
+            android:maxWidth="150dp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text="Screen"
+            android:textColor="#FF3A4663"
+            android:textSize="16.5sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/chipEcu"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/tvTitle"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_chip_grey"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/txtEcuCode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EMS-OBDII"
+                android:textColor="#FF3A4663"
+                android:textSize="12.5sp"
+                android:textStyle="bold" />
+
+            <View
+                android:id="@+id/dotEcu"
+                android:layout_width="8dp"
+                android:layout_height="8dp"
+                android:layout_marginLeft="6dp"
+                android:background="@drawable/bg_dot_green" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgUser"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/imgBrand"
+            android:layout_marginRight="10dp"
+            android:padding="8dp"
+            android:src="@drawable/ic_user" />
+
+        <FrameLayout
+            android:id="@+id/imgBrand"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_gravity="center"
+                android:background="@drawable/bg_chip_grey"
+                android:padding="4dp"
+                android:src="@drawable/logo" />
+        </FrameLayout>
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:id="@+id/content"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="14dp" />
+    </ScrollView>
+
+    <!-- Reference bottom session bar -->
+    <LinearLayout
+        android:id="@+id/bottomBar"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="#FFFFFFFF"
+        android:gravity="center_vertical"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp">
+
+        <ImageView
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:src="@drawable/ic_doc" />
+
+        <TextView
+            android:id="@+id/txtSession"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:text="—"
+            android:textColor="#FF3A4663"
+            android:textSize="12.5sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/ic_warn" />
+
+        <TextView
+            android:id="@+id/txtVer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:text="V 1.6.3"
+            android:textColor="#FF3A4663"
+            android:textSize="12.5sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgConn"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="14dp"
+            android:src="@drawable/ic_wifi" />
+    </LinearLayout>
+</LinearLayout>

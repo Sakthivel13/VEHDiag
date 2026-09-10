@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF0F2F8">
+
+    <!-- brand masthead -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEDF1F7"
+        android:paddingTop="14dp"
+        android:paddingBottom="10dp">
+
+        <ImageView
+            android:id="@+id/imgLogoBig"
+            android:layout_width="170dp"
+            android:layout_height="52dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgLogoBig"
+            android:layout_centerHorizontal="true"
+            android:text="Beyond Diagnostics"
+            android:textColor="#FF5A6472"
+            android:textSize="11.5sp" />
+
+        <FrameLayout
+            android:id="@+id/imgBrand"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="14dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:background="@drawable/bg_chip_grey"
+                android:padding="4dp"
+                android:src="@drawable/logo" />
+        </FrameLayout>
+    </RelativeLayout>
+
+    <!-- Dealer | Designation | Login strip -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEDF1F7"
+        android:paddingBottom="12dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tabDealer"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="\u2302   Dealer"
+            android:textColor="#FF3A4663"
+            android:textSize="13.5sp" />
+
+        <TextView
+            android:id="@+id/tabDesignation"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="\u2666   Designation"
+            android:textColor="#FF3A4663"
+            android:textSize="13.5sp" />
+
+        <TextView
+            android:id="@+id/tabLogin"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="\u27A4   Login"
+            android:textColor="#FF14276F"
+            android:textStyle="bold"
+            android:textSize="13.5sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="14dp">
+
+            <!-- hero vehicle card with hotspot -->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/bg_card_grey"
+                android:padding="6dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/veh_cruiser" />
+
+                <ImageView
+                    android:layout_width="26dp"
+                    android:layout_height="26dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="120dp"
+                    android:layout_marginTop="30dp"
+                    android:src="@drawable/ic_chev_dn" />
+            </FrameLayout>
+
+            <!-- form card -->
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/bg_card"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dealer ID"
+                    android:textColor="#FF5A6472"
+                    android:textSize="12sp" />
+
+                <EditText
+                    android:id="@+id/edtDealer"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bg_box_outline"
+                    android:paddingLeft="14dp"
+                    android:inputType="text"
+                    android:text="10814"
+                    android:textColor="#FF1A2138"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Email"
+                    android:textColor="#FF5A6472"
+                    android:textSize="12sp" />
+
+                <EditText
+                    android:id="@+id/edtEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bg_box_outline"
+                    android:paddingLeft="14dp"
+                    android:inputType="textEmailAddress"
+                    android:textColor="#FF1A2138"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Enter Your Branch ID"
+                    android:textColor="#FF5A6472"
+                    android:textSize="12sp" />
+
+                <EditText
+                    android:id="@+id/edtBranch"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bg_box_outline"
+                    android:paddingLeft="14dp"
+                    android:inputType="text"
+                    android:textColor="#FF1A2138"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Designation"
+                    android:textColor="#FF5A6472"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/spnRole"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bg_box_outline"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="14dp"
+                    android:paddingRight="14dp"
+                    android:text="Service Technician"
+                    android:textColor="#FF1A2138"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="VCI"
+                    android:textColor="#FF5A6472"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/spnVci"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bg_box_outline"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="14dp"
+                    android:paddingRight="14dp"
+                    android:text="NirixiLINK_504856"
+                    android:textColor="#FF1A2138"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txtAddPair"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="8dp"
+                    android:text="ADD/PAIR VCI"
+                    android:textColor="#FF3A4663"
+                    android:textSize="12.5sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="Select Connectivity Type"
+                    android:textColor="#FF3A4663"
+                    android:textSize="13.5sp" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp">
+
+                    <LinearLayout
+                        android:id="@+id/conBT"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="74dp"
+                        android:layout_marginRight="8dp"
+                        android:background="@drawable/bg_tile_sel"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:src="@drawable/bluetooth" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:text="BT"
+                            android:textColor="#FF3A4663"
+                            android:textSize="12.5sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/conWIFI"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="74dp"
+                        android:layout_marginRight="8dp"
+                        android:background="@drawable/bg_tile_def"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:src="@drawable/ic_wifi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:text="WIFI"
+                            android:textColor="#FF3A4663"
+                            android:textSize="12.5sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/conUSB"
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="74dp"
+                        android:background="@drawable/bg_tile_def"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:src="@drawable/ic_usb" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:text="USB"
+                            android:textColor="#FF3A4663"
+                            android:textSize="12.5sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/btnLogin"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginTop="18dp"
+                    android:background="@drawable/bg_button_navy"
+                    android:gravity="center"
+                    android:text="LOGIN"
+                    android:textColor="#FFFFFFFF"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtRegister"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="12dp"
+                    android:text="New dealership? Register here"
+                    android:textColor="#FF14276F"
+                    android:textSize="12.5sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="18dp"
+                android:text="Powered by NirixX Labs"
+                android:textColor="#FF5A6472"
+                android:textSize="12.5sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

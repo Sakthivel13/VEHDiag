@@ -1,0 +1,544 @@
+[
+  {
+    "variant": "RR310_REFRESH",
+    "model_list": [
+      {
+        "description": "Old software for vehicles produced before 31.07.2022 (Pulse make Ignition coil)",
+        "value": "RR310_REFRESH",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "New software for vehicles produced after 31.07.2022 (Bremi make Ignition coil)",
+        "value": "RR310_REFRESH_NEW",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RR310_BTO",
+    "model_list": [
+      {
+        "description": "",
+        "value": "RR310_REFRESH",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RTR160_4V_1CH_EFI_BSVI",
+    "model_list": [
+      {
+        "description": "White Ignition Coil Coupler\nPart Number : N9060740/N9060770",
+        "value": "RTR160_4V_1CH_EFI_BSVI",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Black Ignition Coil Coupler\nPart Number : NF060370",
+        "value": "RTR160_4V_BLK_IGN_CC",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "New Air filter - 160 4V HP Variant W/O E-SAI\nPart Number : NF040870",
+        "value": "RTR160_4V_BS6_AIRFILTER",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RTR160_2V_1CH_EFI_BABS_BSVI",
+    "model_list": [
+      {
+        "description": "RTR160_2V_WITH E-SAI",
+        "value": "RTR160_2V_1CH_EFI_BABS_BSVI",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR160_2V_WITH E-SAI_WITH SIDESTAND",
+        "value": "RTR_160_2V_1CH_CARB_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR160_2V_W/O E-SAI_WITH SIDESTAND",
+        "value": "RTR_160_2V_1CH_CARB_SDST",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RTR180_2V_1CH_EFI_BABS_BSVI",
+    "model_list": [
+      {
+        "description": "RTR180_2V_WITH E-SAI",
+        "value": "RTR180_2V_1CH_EFI_BABS_BSVI",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR180_2V_WITH E-SAI_WITH SIDESTAND",
+        "value": "RTR180_2V_1CH_EFI_BABS_BSVI_EMS_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR180_2V_W/O E-SAI_WITH SIDESTAND",
+        "value": "RTR180_2V_1CH_EFI_BABS_BSVI_EMS_SDST",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RTR200_4V_1CH_RM",
+    "model_list": [
+      {
+        "description": "RTR 200 4V_W/O SIDE STAND",
+        "value": "RTR200_4V_1CH_RM",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR 200 4V_WITH SIDE STAND",
+        "value": "RTR200_4V_1CH_RM_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "RTR200_4V_2CH_RM",
+    "model_list": [
+      {
+        "description": "RTR200 4V_2CH",
+        "value": "RTR200_4V_2CH_RM",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "RTR200 4V_2CH SIDESTAND",
+        "value": "RTR200_4V_2CH_RM_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "ronin",
+    "model_list": [
+      {
+        "description": "GPS Coupler Colour- Black",
+        "value": "ronin",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "GPS Coupler Colour- White",
+        "value": "ronin_natural",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "GPS Coupler Colour- Black",
+        "value": "ronin",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "GPS Coupler Colour- White",
+        "value": "ronin_natural",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "MID-VARIANT",
+        "value": "ronin_DTE_CLUSTER",
+        "ecu": "ICU",
+        "norm": "BSVI"
+      },
+      {
+        "description": "BASE-VARIANT",
+        "value": "ronin_CLUSTER",
+        "ecu": "ICU",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS JUPITER KHN",
+    "model_list": [
+      {
+        "description": "JUPITER",
+        "value": "TVS JUPITER KHN",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "JUPITER-SideStand",
+        "value": "TVS JUPITER KHN_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "JUPITER-With Kill Switch",
+        "value": "TVS JUPITER KHN_Kill Switch",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS Ntorq",
+    "model_list": [
+      {
+        "description": "TVS Ntorq Non-Side Stand Switch",
+        "value": "TVS Ntorq",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS NtorqSide Stand Switch",
+        "value": "TVS Ntorq_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Ntorq XP Non-Side Stand Switch",
+        "value": "TVS_Ntorq_RACINGMODE",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Ntorq XP Side Stand Switch",
+        "value": "TVS_Ntorq_XP_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Ntorq Side Stand Switch + 02 Heater Less (2 Pin Coupler) + Elimination of E-Purge",
+        "value": "TVS Ntorq_SIDESTAND_plus_otwo",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Side Stand Switch \nNTORQ 125 XT",
+        "value": "TVS Ntorq_XT",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Race Edition",
+        "value": "TVS_Ntorq_RACINGMODE",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "XP Variant",
+        "value": "TVS_Ntorq_XP",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "NTORQ XT",
+        "value": "Ntorq_XT",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "U812",
+    "model_list": [
+      {
+        "description": "ODBIIB – Ntorq125 RE",
+        "value": "U812_Ntorq125_RE",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "ODBIIB – Ntorq125 XT",
+        "value": "U812_Ntorq125_XT",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "ODBIIB – Ntorq125 XP",
+        "value": "U812_Ntorq125_XP",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "ODBIIB – Ntorq125 XP – ISG Variant",
+        "value": "U812",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVSRADEON",
+    "model_list": [
+      {
+        "description": "TVS RADEON",
+        "value": "TVSRADEON",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS RADEON-SideStand Auto cutoff",
+        "value": "TVSRADEON_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS RADEON-Digital cluster",
+        "value": "TVSRADEON_DIGITALCLUSTER",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS ZEST KHN",
+    "model_list": [
+      {
+        "description": "TVS ZEST",
+        "value": "TVS ZEST KHN",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS ZEST- SideStand Auto cut-off",
+        "value": "TVS ZEST KHN_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Zest - SideStand Auto cut-off + AHO",
+        "value": "TVS ZEST KHN_SIDESTAND_AHO",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVSJUPITER",
+    "model_list": [
+      {
+        "description": "Continental Fuel Pump",
+        "value": "TVSJUPITER_CONTI",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump ISG",
+        "value": "TVSJUPITER_PRICOL",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump ISG",
+        "value": "TVSJUPITER_CONTI_ISG",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump - SIDESTAND with Auto Cut Off",
+        "value": "TVSJUPITER_PRICOL_FUELPUMP_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump ISG - SIDESTAND with Auto Cut off",
+        "value": "TVSJUPITER_PRICOL_FUELPUMP_ISG_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol + With Kill Switch",
+        "value": "TVSJUPITER_PRICOL_FUELPUMP_KILL_SWITCH",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump ISG",
+        "value": "TVSJUPITER_PRICOL",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "Pricol Fuel Pump ISG",
+        "value": "TVSJUPITER_CONTI_ISG",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "STARCITY PLUS BSVI",
+    "model_list": [
+      {
+        "description": "TVS STAR CITY",
+        "value": "STARCITY PLUS BSVI",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "STAR CITY-SideStand Auto cut-off",
+        "value": "STARCITY PLUS BSVI_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS Sport",
+    "model_list": [
+      {
+        "description": "TVS Sport ES",
+        "value": "TVS Sport",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Sport ES-SideStand Auto cut-off ",
+        "value": "TVS Sport ES_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS Sport KS",
+    "model_list": [
+      {
+        "description": "TVS Sport KS",
+        "value": "TVS Sport KS",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS Sport KS-SideStand Auto cut-off ",
+        "value": "TVS Sport KS_SIDESTAND",
+        "ecu": "EMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS Scooty Pep Plus",
+    "model_list": [
+      {
+        "description": "TVS - Foam Filter",
+        "value": "TVS Scooty Pep Plus",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - Paper Filter",
+        "value": "TVS Scooty Pep Plus_PF",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS Scooty Pep Plus",
+    "model_list": [
+      {
+        "description": "TVS - Foam Filter",
+        "value": "TVS Scooty Pep Plus",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - Paper Filter",
+        "value": "TVS Scooty Pep Plus_PF",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "TVS XL 100",
+    "model_list": [
+      {
+        "description": "TVS - ES",
+        "value": "TVS XL 100",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - KS",
+        "value": "TVS XL 100_KS",
+        "ecu": "KEMS",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - ES",
+        "value": "TVS XL 100",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - KS",
+        "value": "TVS XL 100_KS",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - ES",
+        "value": "TVS XL 100_ES_OBD2B",
+        "ecu": "SEMS-OBDII-B",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TVS - KS",
+        "value": "TVS XL 100_KS_OBD2B",
+        "ecu": "SEMS-OBDII-B",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "U558",
+    "model_list": [
+      {
+        "description": "With Out Booster",
+        "value": "U558",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      },
+      {
+        "description": "With Booster",
+        "value": "U725",
+        "ecu": "EMS-OBDII",
+        "norm": "BSVI"
+      }
+    ]
+  },
+  {
+    "variant": "U732",
+    "model_list": [
+      {
+        "description": "RLCD",
+        "value": "U732_RLCD",
+        "ecu": "ICU",
+        "norm": "BSVI"
+      },
+      {
+        "description": "TFT",
+        "value": "U732_TFT",
+        "ecu": "ICU",
+        "norm": "BSVI"
+      }
+    ]
+  }
+]

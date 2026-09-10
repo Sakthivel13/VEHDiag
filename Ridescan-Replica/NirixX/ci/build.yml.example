@@ -1,0 +1,48 @@
+name: Build NirixX APK
+
+on:
+  push:
+    branches: [arena/019fe437-ridescan-replica]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Android SDK pieces
+        run: |
+          set -e
+          yes | sdkmanager --licenses >/dev/null || true
+          sdkmanager "platforms;android-34" "build-tools;34.0.0" >/dev/null
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          ls "$ANDROID_HOME/build-tools"
+
+      - name: Build APK (aapt2 -> javac -> d8 -> zipalign -> apksigner)
+        run: bash NirixX/build.sh
+
+      - name: Static verification suite
+        run: |
+          set -e
+          python3 -m pip install --quiet androguard
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+          export NIRIXX_AAPT2="$BT/aapt2"
+          export NIRIXX_APKSIGNER="$BT/lib/apksigner.jar"
+          export NIRIXX_JAVA="$(which java)"
+          python3 NirixX/tools/verify_apk.py
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: NirixX-apk
+          path: |
+            NirixX/NirixX.apk
+            NirixX/VERIFICATION.md
+          retention-days: 30
