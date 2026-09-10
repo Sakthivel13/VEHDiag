@@ -1,0 +1,6 @@
+numpy
+pyarrow
+pyyaml
+pyqt5
+python-can
+cantools
