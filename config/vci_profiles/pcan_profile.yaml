@@ -1,0 +1,34 @@
+# PEAK-System PCAN-USB family profile.
+vci:
+  type: PCAN
+  display_name: PEAK PCAN-USB
+  vendor: PEAK-System Technik GmbH
+  library:
+    windows: PCANBasic.dll
+    linux: libpcanbasic.so
+    macos: libPCBUSB.dylib
+capabilities: [CAN, CAN_FD, LISTEN_ONLY, ERROR_FRAMES, HARDWARE_TIMESTAMPS, BUS_STATISTICS]
+channels:
+  - {id: PCAN_USBBUS1, index: 1, label: "USB channel 1"}
+  - {id: PCAN_USBBUS2, index: 2, label: "USB channel 2"}
+  - {id: PCAN_USBBUS3, index: 3, label: "USB channel 3"}
+  - {id: PCAN_USBBUS4, index: 4, label: "USB channel 4"}
+defaults:
+  bitrate: 500000
+  data_bitrate: 2000000
+  listen_only: false
+  message_filter: OPEN
+bitrate_codes:
+  1000000: 0x0014
+  800000: 0x0016
+  500000: 0x001C
+  250000: 0x011C
+  125000: 0x031C
+  100000: 0x432F
+  50000: 0x472F
+  20000: 0x532F
+  10000: 0x672F
+notes: |
+  The PCANBasic library must be installed separately. On Linux the chardev or
+  netdev driver from PEAK is required; python-can's "pcan" interface is used as
+  a fallback when the raw library cannot be loaded.

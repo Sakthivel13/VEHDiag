@@ -1,0 +1,15 @@
+# Baseline session profile: read-only diagnostics.
+session:
+  name: Default session
+  type: 0x01
+  description: Read-only access; no tester present required.
+timing:
+  p2_client_ms: 150
+  p2_star_client_ms: 5000
+  s3_client_ms: 4000
+tester_present:
+  enabled: false
+security:
+  required: false
+  level: null
+allowed_services: ["0x10", "0x11", "0x14", "0x19", "0x22", "0x3E"]

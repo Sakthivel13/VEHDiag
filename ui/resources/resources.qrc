@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/add.svg</file>
+        <file>icons/app_icon.svg</file>
+        <file>icons/cancel.svg</file>
+        <file>icons/chevron_down.svg</file>
+        <file>icons/chevron_right.svg</file>
+        <file>icons/clear.svg</file>
+        <file>icons/connect.svg</file>
+        <file>icons/convert.svg</file>
+        <file>icons/copy.svg</file>
+        <file>icons/developer.svg</file>
+        <file>icons/disconnect.svg</file>
+        <file>icons/drag_handle.svg</file>
+        <file>icons/dtc.svg</file>
+        <file>icons/ecu.svg</file>
+        <file>icons/error.svg</file>
+        <file>icons/export.svg</file>
+        <file>icons/file_bin.svg</file>
+        <file>icons/file_hex.svg</file>
+        <file>icons/file_mot.svg</file>
+        <file>icons/filter.svg</file>
+        <file>icons/flash.svg</file>
+        <file>icons/folder_open.svg</file>
+        <file>icons/help.svg</file>
+        <file>icons/info.svg</file>
+        <file>icons/log.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/play.svg</file>
+        <file>icons/plugin.svg</file>
+        <file>icons/refresh.svg</file>
+        <file>icons/remove.svg</file>
+        <file>icons/run_all.svg</file>
+        <file>icons/save.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/stop.svg</file>
+        <file>icons/success.svg</file>
+        <file>icons/theme.svg</file>
+        <file>icons/warning.svg</file>
+    </qresource>
+</RCC>

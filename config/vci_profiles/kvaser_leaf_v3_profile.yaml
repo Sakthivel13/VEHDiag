@@ -1,0 +1,19 @@
+# Kvaser Leaf v3 (USB CAN FD interface).
+vci:
+  type: KVASER_LEAF_V3
+  display_name: Kvaser Leaf v3
+  vendor: Kvaser AB
+  library:
+    windows: canlib32.dll
+    linux: libcanlib.so
+    macos: libcanlib.dylib
+capabilities: [CAN, CAN_FD, LISTEN_ONLY, HARDWARE_TIMESTAMPS, BUS_STATISTICS, ERROR_FRAMES]
+channels:
+  - {index: 0, label: "CAN 1"}
+defaults:
+  bitrate: 500000
+  data_bitrate: 2000000
+  driver_mode: NORMAL
+  accept_virtual: false
+notes: |
+  Uses the same CANlib wrapper as the BlackBird; CAN FD requires canlib 5.30+.

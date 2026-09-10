@@ -1,0 +1,172 @@
+# UDS service identifiers with their session and security requirements.
+services:
+  "0x10":
+    name: DiagnosticSessionControl
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x01, 0x02, 0x03, 0x04]
+    security_required: false
+  "0x11":
+    name: ECUReset
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x01, 0x02, 0x03]
+    security_required: false
+  "0x14":
+    name: ClearDiagnosticInformation
+    has_subfunction: false
+    min_length: 4
+    sessions: [0x01, 0x03]
+    security_required: false
+  "0x19":
+    name: ReadDTCInformation
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x01, 0x03]
+    security_required: false
+  "0x22":
+    name: ReadDataByIdentifier
+    has_subfunction: false
+    min_length: 3
+    sessions: [0x01, 0x02, 0x03]
+    security_required: false
+  "0x23":
+    name: ReadMemoryByAddress
+    has_subfunction: false
+    min_length: 4
+    sessions: [0x03]
+    security_required: true
+  "0x24":
+    name: ReadScalingDataByIdentifier
+    has_subfunction: false
+    min_length: 3
+    sessions: [0x01, 0x03]
+  "0x27":
+    name: SecurityAccess
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x02, 0x03]
+  "0x28":
+    name: CommunicationControl
+    has_subfunction: true
+    min_length: 3
+    sessions: [0x03]
+  "0x29":
+    name: Authentication
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x01, 0x02, 0x03]
+  "0x2A":
+    name: ReadDataByPeriodicIdentifier
+    has_subfunction: true
+    min_length: 3
+    sessions: [0x03]
+  "0x2C":
+    name: DynamicallyDefineDataIdentifier
+    has_subfunction: true
+    min_length: 4
+    sessions: [0x03]
+  "0x2E":
+    name: WriteDataByIdentifier
+    has_subfunction: false
+    min_length: 4
+    sessions: [0x03]
+    security_required: true
+  "0x2F":
+    name: InputOutputControlByIdentifier
+    has_subfunction: false
+    min_length: 4
+    sessions: [0x03]
+    security_required: true
+  "0x31":
+    name: RoutineControl
+    has_subfunction: true
+    min_length: 4
+    sessions: [0x02, 0x03]
+  "0x34":
+    name: RequestDownload
+    has_subfunction: false
+    min_length: 3
+    sessions: [0x02]
+    security_required: true
+  "0x35":
+    name: RequestUpload
+    has_subfunction: false
+    min_length: 3
+    sessions: [0x02]
+    security_required: true
+  "0x36":
+    name: TransferData
+    has_subfunction: false
+    min_length: 2
+    sessions: [0x02]
+    security_required: true
+  "0x37":
+    name: RequestTransferExit
+    has_subfunction: false
+    min_length: 1
+    sessions: [0x02]
+    security_required: true
+  "0x38":
+    name: RequestFileTransfer
+    has_subfunction: false
+    min_length: 4
+    sessions: [0x02]
+    security_required: true
+  "0x3D":
+    name: WriteMemoryByAddress
+    has_subfunction: false
+    min_length: 5
+    sessions: [0x02, 0x03]
+    security_required: true
+  "0x3E":
+    name: TesterPresent
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x01, 0x02, 0x03, 0x04]
+  "0x83":
+    name: AccessTimingParameter
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x03]
+  "0x84":
+    name: SecuredDataTransmission
+    has_subfunction: false
+    min_length: 2
+    sessions: [0x01, 0x02, 0x03]
+  "0x85":
+    name: ControlDTCSetting
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x03]
+  "0x86":
+    name: ResponseOnEvent
+    has_subfunction: true
+    min_length: 3
+    sessions: [0x03]
+  "0x87":
+    name: LinkControl
+    has_subfunction: true
+    min_length: 2
+    sessions: [0x02, 0x03]
+
+# ReadDTCInformation (0x19) sub-functions.
+dtc_sub_functions:
+  "0x01": reportNumberOfDTCByStatusMask
+  "0x02": reportDTCByStatusMask
+  "0x03": reportDTCSnapshotIdentification
+  "0x04": reportDTCSnapshotRecordByDTCNumber
+  "0x05": reportDTCStoredDataByRecordNumber
+  "0x06": reportDTCExtDataRecordByDTCNumber
+  "0x07": reportNumberOfDTCBySeverityMaskRecord
+  "0x08": reportDTCBySeverityMaskRecord
+  "0x09": reportSeverityInformationOfDTC
+  "0x0A": reportSupportedDTC
+  "0x0B": reportFirstTestFailedDTC
+  "0x0C": reportFirstConfirmedDTC
+  "0x0D": reportMostRecentTestFailedDTC
+  "0x0E": reportMostRecentConfirmedDTC
+  "0x14": reportDTCFaultDetectionCounter
+  "0x15": reportDTCWithPermanentStatus
+  "0x17": reportUserDefMemoryDTCByStatusMask
+  "0x19": reportUserDefMemoryDTCExtDataRecordByDTCNumber

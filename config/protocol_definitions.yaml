@@ -1,0 +1,109 @@
+# Static protocol capability and parameter tables consumed by the UI and the
+# communication layer. These describe what each protocol *can* do; the active
+# values live in default_config.yaml.
+
+protocols:
+  CAN:
+    standard: ISO 11898-1
+    max_payload: 8
+    supports_fd: false
+    bitrates: [125000, 250000, 500000, 1000000]
+    identifier_bits: [11, 29]
+    default_tx_id: 0x7E0
+    default_rx_id: 0x7E8
+    functional_id: 0x7DF
+    transport: ISO-TP
+  CAN_FD:
+    standard: ISO 11898-1:2015
+    max_payload: 64
+    supports_fd: true
+    arbitration_bitrates: [250000, 500000, 1000000]
+    data_bitrates: [1000000, 2000000, 4000000, 5000000]
+    valid_dlc: [0, 1, 2, 3, 4, 5, 6, 7, 8, 12, 16, 20, 24, 32, 48, 64]
+    transport: ISO-TP
+  KLINE:
+    standards: [ISO 9141-2, ISO 14230-4]
+    baudrates: [9600, 10400, 15625, 38400]
+    init_types: [FIVE_BAUD, FAST_INIT]
+    address_byte: 0x33
+    keyword_bytes: [0x08, 0x08]
+    timing:
+      p1_min_ms: 0
+      p1_max_ms: 20
+      p2_min_ms: 25
+      p2_max_ms: 50
+      p3_min_ms: 55
+      p3_max_ms: 5000
+      p4_min_ms: 5
+      p4_max_ms: 20
+  LIN:
+    standard: ISO 17987
+    baudrates: [9600, 10417, 19200]
+    diagnostic_frames:
+      master_request: 0x3C
+      slave_response: 0x3D
+    checksum_types: [CLASSIC, ENHANCED]
+    max_payload: 8
+  FLEXRAY:
+    standard: ISO 17458
+    channels: [A, B, AB]
+    transport: ISO 10681
+    max_payload: 254
+    segments: [STATIC, DYNAMIC]
+  DOIP:
+    standard: ISO 13400-2
+    tcp_port: 13400
+    udp_port: 13400
+    tls_port: 3496
+    protocol_version: 0x02
+    payload_types:
+      0x0000: genericNegativeAcknowledge
+      0x0001: vehicleIdentificationRequest
+      0x0002: vehicleIdentificationRequestEID
+      0x0003: vehicleIdentificationRequestVIN
+      0x0004: vehicleAnnouncementIdentificationResponse
+      0x0005: routingActivationRequest
+      0x0006: routingActivationResponse
+      0x0007: aliveCheckRequest
+      0x0008: aliveCheckResponse
+      0x4001: entityStatusRequest
+      0x4002: entityStatusResponse
+      0x4003: diagnosticPowerModeRequest
+      0x4004: diagnosticPowerModeResponse
+      0x8001: diagnosticMessage
+      0x8002: diagnosticMessagePositiveAck
+      0x8003: diagnosticMessageNegativeAck
+  J1939:
+    standard: SAE J1939
+    bitrates: [250000, 500000]
+    identifier_bits: 29
+    default_source_address: 0xF9
+    global_address: 0xFF
+    pgns:
+      0xEA00: Request
+      0xEB00: TransportProtocolDataTransfer
+      0xEC00: TransportProtocolConnectionManagement
+      0xEE00: AddressClaimed
+      0xFECA: DM1 ActiveDiagnosticTroubleCodes
+      0xFECB: DM2 PreviouslyActiveDTCs
+      0xFECC: DM3 DiagnosticDataClear
+      0xFED3: DM11 ClearActiveDTCs
+
+isotp:
+  frame_types:
+    0x0: SingleFrame
+    0x1: FirstFrame
+    0x2: ConsecutiveFrame
+    0x3: FlowControl
+  flow_status:
+    0x0: ContinueToSend
+    0x1: Wait
+    0x2: Overflow
+  padding_bytes: [0x00, 0x55, 0xAA, 0xFF]
+  addressing_formats:
+    - NORMAL_11BIT
+    - NORMAL_29BIT
+    - EXTENDED_11BIT
+    - EXTENDED_29BIT
+    - MIXED_11BIT
+    - MIXED_29BIT

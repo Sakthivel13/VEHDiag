@@ -1,0 +1,11 @@
+/* ============================================================================
+ * DEPRECATED - kept only so an existing deployment does not break.
+ *
+ * The custom widget rules are now GENERATED per theme by
+ * ``ui.styles.custom_widget_qss()``. A static file cannot work here: it is
+ * appended after the theme stylesheet, so its literal colours would win the
+ * cascade and repaint every accent button violet on the high contrast theme.
+ *
+ * Put project specific overrides in ``config/themes/<theme>_theme.qss``
+ * instead; that file is applied last and is never regenerated.
+ * ==========================================================================*/

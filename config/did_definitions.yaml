@@ -1,0 +1,108 @@
+# Common data identifiers defined by ISO 14229-1 / ISO 14229-2.
+# format: HEX | ASCII | DEC_UNSIGNED | DEC_SIGNED | BIN | BCD | FLOAT32 | PHYSICAL
+dids:
+  "F180":
+    name: Boot Software Identification
+    format: ASCII
+  "F181":
+    name: Application Software Identification
+    format: ASCII
+  "F182":
+    name: Application Data Identification
+    format: ASCII
+  "F183":
+    name: Boot Software Fingerprint
+    format: HEX
+  "F186":
+    name: Active Diagnostic Session
+    format: DEC_UNSIGNED
+    length: 1
+  "F187":
+    name: Vehicle Manufacturer Spare Part Number
+    format: ASCII
+  "F188":
+    name: Vehicle Manufacturer ECU Software Number
+    format: ASCII
+  "F189":
+    name: Vehicle Manufacturer ECU Software Version
+    format: ASCII
+  "F18A":
+    name: System Supplier Identifier
+    format: ASCII
+  "F18B":
+    name: ECU Manufacturing Date
+    format: BCD
+    length: 4
+  "F18C":
+    name: ECU Serial Number
+    format: ASCII
+  "F18E":
+    name: Vehicle Manufacturer Kit Assembly Part Number
+    format: ASCII
+  "F190":
+    name: VIN
+    description: Vehicle Identification Number (17 characters)
+    format: ASCII
+    length: 17
+  "F191":
+    name: Vehicle Manufacturer ECU Hardware Number
+    format: ASCII
+  "F192":
+    name: System Supplier ECU Hardware Number
+    format: ASCII
+  "F193":
+    name: System Supplier ECU Hardware Version
+    format: ASCII
+  "F194":
+    name: System Supplier ECU Software Number
+    format: ASCII
+  "F195":
+    name: System Supplier ECU Software Version
+    format: ASCII
+  "F197":
+    name: System Name Or Engine Type
+    format: ASCII
+  "F198":
+    name: Repair Shop Code Or Tester Serial Number
+    format: ASCII
+    writable: true
+  "F199":
+    name: Programming Date
+    format: BCD
+    length: 4
+    writable: true
+  "F19D":
+    name: ECU Installation Date
+    format: BCD
+    length: 4
+  "F19E":
+    name: ODX File Identifier
+    format: ASCII
+  "F1A0":
+    name: Battery Voltage
+    format: PHYSICAL
+    length: 2
+    factor: 0.001
+    offset: 0.0
+    unit: V
+  "F1A1":
+    name: Coolant Temperature
+    format: PHYSICAL
+    length: 1
+    factor: 1.0
+    offset: -40.0
+    unit: "degC"
+  "F1A2":
+    name: Engine Speed
+    format: PHYSICAL
+    length: 2
+    factor: 0.25
+    offset: 0.0
+    unit: rpm
+  "F1A3":
+    name: Vehicle Speed
+    format: PHYSICAL
+    length: 2
+    factor: 0.01
+    offset: 0.0
+    unit: km/h
